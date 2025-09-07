@@ -1,0 +1,5 @@
+pandas~=2.3.2
+curl_cffi~=0.13.0
+bs4~=0.0.2
+beautifulsoup4~=4.13.5
+winwifi~=1.0.5
