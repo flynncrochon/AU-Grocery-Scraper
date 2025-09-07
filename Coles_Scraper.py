@@ -101,52 +101,50 @@ class Coles_Scraper:
                 time.sleep(10)
                 continue
 
-
-
-            #print('\r', f">> Processing Page {cur_page} / {num_of_pages} [✗]", end='')
-
             product_rows = []
             hier_rows = []
 
             num_rows = 0
             for prod in products:
-                if prod["_type"] == "PRODUCT" and prod["adSource"] is None:
-                    num_rows = num_rows + 1
-                    current_price = None
-                    full_price = None
-                    sale_percentage = None
-                    pricing = prod.get("pricing")
-                    if pricing:
-                        current_price = pricing.get("now")
-                        full_price = pricing.get("was")
-                        percentage_sale = 0
-                        if pricing.get("was") != 0:
-                            percentage_sale = (pricing.get("was") - pricing.get("now")) / pricing.get("was")
-                        sale_percentage =  round(percentage_sale * 100, 2)
+                # if these are not products or ads we just skip for now
+                if prod["_type"] != "PRODUCT" or prod["adSource"] is not None:
+                    continue
+                num_rows = num_rows + 1
+                current_price = None
+                full_price = None
+                sale_percentage = None
+                pricing = prod.get("pricing")
+                if pricing:
+                    current_price = pricing.get("now")
+                    full_price = pricing.get("was")
+                    percentage_sale = 0
+                    if pricing.get("was") != 0:
+                        percentage_sale = (pricing.get("was") - pricing.get("now")) / pricing.get("was")
+                    sale_percentage =  round(percentage_sale * 100, 2)
 
-                    new_row = {
+                new_row = {
+                    "prodid": prod.get("id"),
+                    "brand": prod.get("brand"),
+                    "name": prod.get("name"),
+                    "size": prod.get("size"),
+                    "currentprice": current_price,
+                    "fullprice": full_price,
+                    "salespercentage": sale_percentage,
+                    "rawdescription": prod.get("description")
+                }
+                product_rows.append(new_row)
+
+                for heir in prod.get("onlineHeirs", []):
+                    new_heir_row = {
                         "prodid": prod.get("id"),
-                        "brand": prod.get("brand"),
-                        "name": prod.get("name"),
-                        "size": prod.get("size"),
-                        "currentprice": current_price,
-                        "fullprice": full_price,
-                        "salespercentage": sale_percentage,
-                        "rawdescription": prod.get("description")
+                        "aisle": heir.get("aisle"),
+                        "category": heir.get("category"),
+                        "subcategory": heir.get("subCategory"),
+                        "aisleid": heir.get("aisleId"),
+                        "categoryid": heir.get("categoryId"),
+                        "subcategoryid": heir.get("subCategoryId")
                     }
-                    product_rows.append(new_row)
-
-                    for heir in prod.get("onlineHeirs", []):
-                        new_heir_row = {
-                            "prodid": prod.get("id"),
-                            "aisle": heir.get("aisle"),
-                            "category": heir.get("category"),
-                            "subcategory": heir.get("subCategory"),
-                            "aisleid": heir.get("aisleId"),
-                            "categoryid": heir.get("categoryId"),
-                            "subcategoryid": heir.get("subCategoryId")
-                        }
-                        hier_rows.append(new_heir_row)
+                    hier_rows.append(new_heir_row)
 
             product_col = ["prodid", "brand", "name", "size", "currentprice", "fullprice", "salespercentage","rawdescription"]
             hier_col = ["prodid", "aisle", "category", "subcategory", "aisleid", "categoryid", "subcategoryid"]
