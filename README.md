@@ -22,7 +22,7 @@ A Python-based project to scrape grocery data from major Australian retailers (C
 ## Storage Structure
 
 Scraped data is stored in a structured folder system for easy tracking and weekly comparisons:
-
+```
 Coles/
 └── 04-09-2025/ # Week-ending date (last Wednesday)
 └── pantry/ # Category (e.g., pantry, dairy, frozen)
@@ -31,7 +31,7 @@ Coles/
 ├── 2_product.csv
 ├── 2_hier.csv
 └── ...
-
+```
 ### Folder Breakdown
 
 - **Week-ending date folder**  
