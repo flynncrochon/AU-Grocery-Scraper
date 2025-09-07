@@ -32,9 +32,6 @@ Coles/
 ├── 2_hier.csv
 └── ...
 
-perl
-Copy code
-
 ### Folder Breakdown
 
 - **Week-ending date folder**  
