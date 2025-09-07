@@ -2,7 +2,7 @@ from winwifi import WinWiFi
 import subprocess
 import time
 
-target_ssid = "OnePlus 12"
+target_ssid = ""
 
 def get_current_ssid():
     try:
