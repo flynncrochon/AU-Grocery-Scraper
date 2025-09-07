@@ -1,0 +1,100 @@
+prodid,aisle,category,subcategory,aisleid,categoryid,subcategoryid
+5029917,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+5029917,Indian,International Foods,Pantry,8904806,8904802,10302
+5030734,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+5030734,Indian,International Foods,Pantry,8904806,8904802,10302
+5032117,Salad Dressings,Pickled Vegetables & Condiments,Pantry,9129,9232,10302
+5032117,Mayonnaise,Pickled Vegetables & Condiments,Pantry,9139,9232,10302
+5034203,Jams,"Jams, Honey & Spreads",Pantry,8881201,8881200,10302
+5034236,Jams,"Jams, Honey & Spreads",Pantry,8881201,8881200,10302
+5046009,Loose Leaf,Tea,Pantry,19885,10303,10302
+5046009,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+5046009,Tea Loose Leaf,Tea Drinks,Drinks,98653,98627,11456
+5047872,Japanese,World Foods,Dietary & World Foods,675104352,674113139,674112512
+5047872,Asian,International Foods,Pantry,8904804,8904802,10302
+5048740,Italian,World Foods,Dietary & World Foods,675103734,674113139,674112512
+5048740,Mediterranean,International Foods,Pantry,8904809,8904802,10302
+5048784,Italian,World Foods,Dietary & World Foods,675103734,674113139,674112512
+5048784,Mediterranean,International Foods,Pantry,8904809,8904802,10302
+5049120,Pizza & Pasta,Sauces,Pantry,9290,9373,10302
+5049823,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+5049823,Korean,World Foods,Dietary & World Foods,675104741,674113139,674112512
+5049823,Asian,International Foods,Pantry,8904804,8904802,10302
+5049834,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+5049834,Korean,World Foods,Dietary & World Foods,675104741,674113139,674112512
+5049834,Asian,International Foods,Pantry,8904804,8904802,10302
+5049845,Asian,International Foods,Pantry,8904804,8904802,10302
+5049856,Thai,World Foods,Dietary & World Foods,675108470,674113139,674112512
+5049856,Asian,International Foods,Pantry,8904804,8904802,10302
+5050083,Asian,International Foods,Pantry,8904804,8904802,10302
+5050651,Chocolate Spreads,"Jams, Honey & Spreads",Pantry,8881202,8881200,10302
+5050651,Nut Spreads,"Jams, Honey & Spreads",Pantry,8881203,8881200,10302
+5050731,Pizza & Pasta,Sauces,Pantry,9290,9373,10302
+5050800,Pizza & Pasta,Sauces,Pantry,9290,9373,10302
+5050822,Pizza & Pasta,Sauces,Pantry,9290,9373,10302
+5050833,Pizza & Pasta,Sauces,Pantry,9290,9373,10302
+5050844,Pizza & Pasta,Sauces,Pantry,9290,9373,10302
+5050866,Pizza & Pasta,Sauces,Pantry,9290,9373,10302
+5051734,Black,Tea,Pantry,10230,10303,10302
+5051734,Tea Black,Tea Drinks,Drinks,98647,98627,11456
+5059237,Black,Tea,Pantry,10230,10303,10302
+5059237,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+5059237,Tea Black,Tea Drinks,Drinks,98647,98627,11456
+5061240,Cake & Bread Mixes,Baking,Pantry,8423,8756,10302
+5065615,Pancake & Dessert Mixes,Baking,Pantry,8757,8756,10302
+5066050,Mexican,World Foods,Dietary & World Foods,675105516,674113139,674112512
+5066050,Mexican,International Foods,Pantry,8904810,8904802,10302
+5070820,Dried Herbs & Spices,Herbs & Spices,Pantry,7927,8285,10302
+5070820,Packet Seasonings,Herbs & Spices,Pantry,8286,8285,10302
+5070863,Dried Herbs & Spices,Herbs & Spices,Pantry,7927,8285,10302
+5070863,Packet Seasonings,Herbs & Spices,Pantry,8286,8285,10302
+5070910,Dried Spices,Herbs & Spices,Pantry,8888270,8285,10302
+5070943,Dried Spices,Herbs & Spices,Pantry,8888270,8285,10302
+5071312,Dried Fruits & Fillings,Baking,Pantry,8734,8756,10302
+5071414,Canned & Pickled Foods,Pantry Items,Down Down,8906038,8906014,8906007
+5071414,Beans & Legumes,"Pasta, Rice, Legumes & Grains",Pantry,9635,9634,10302
+5071414,Canned Beans & Legumes,"Canned Food, Soups & Noodles",Pantry,9679,10146,10302
+5071414,Canned Vegetables,"Canned Food, Soups & Noodles",Pantry,9964,10146,10302
+5071447,Canned Vegetables,"Canned Food, Soups & Noodles",Pantry,9964,10146,10302
+5071480,Canned Vegetables,"Canned Food, Soups & Noodles",Pantry,9964,10146,10302
+5074219,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+5074219,"Energy, Sports Drinks & Supplements",Sports Nutrition,Dietary & World Foods,675071005,674136101,674112512
+5074219,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+5074219,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+5075572,Beans & Legumes,"Pasta, Rice, Legumes & Grains",Pantry,9635,9634,10302
+5075572,Canned Beans & Legumes,"Canned Food, Soups & Noodles",Pantry,9679,10146,10302
+5075572,Canned Vegetables,"Canned Food, Soups & Noodles",Pantry,9964,10146,10302
+5075583,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+5075583,"Energy, Sports Drinks & Supplements",Sports Nutrition,Dietary & World Foods,675071005,674136101,674112512
+5075583,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+5075583,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+5075608,Beans & Legumes,"Pasta, Rice, Legumes & Grains",Pantry,9635,9634,10302
+5075608,Canned Beans & Legumes,"Canned Food, Soups & Noodles",Pantry,9679,10146,10302
+5075608,Canned Vegetables,"Canned Food, Soups & Noodles",Pantry,9964,10146,10302
+5075619,Beans & Legumes,"Pasta, Rice, Legumes & Grains",Pantry,9635,9634,10302
+5075619,Canned Beans & Legumes,"Canned Food, Soups & Noodles",Pantry,9679,10146,10302
+5075619,Canned Vegetables,"Canned Food, Soups & Noodles",Pantry,9964,10146,10302
+5075630,Beans & Legumes,"Pasta, Rice, Legumes & Grains",Pantry,9635,9634,10302
+5075630,Canned Beans & Legumes,"Canned Food, Soups & Noodles",Pantry,9679,10146,10302
+5075630,Canned Vegetables,"Canned Food, Soups & Noodles",Pantry,9964,10146,10302
+5075641,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+5075641,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+5075641,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+5076600,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+5076600,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+5076600,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+5077035,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+5077035,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+5077035,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+5077283,Malaysian,World Foods,Dietary & World Foods,675105506,674113139,674112512
+5077283,Asian,International Foods,Pantry,8904804,8904802,10302
+5077363,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+5077363,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+5077363,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+5077374,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+5077374,"Energy, Sports Drinks & Supplements",Sports Nutrition,Dietary & World Foods,675071005,674136101,674112512
+5077374,Energy Gels/Tablets,Health Foods Sports Nutrition & Diet,Pantry,8895604,8895600,10302
+5077374,Rtd Protein Shakes,Health Foods Sports Nutrition & Diet,Pantry,8895606,8895600,10302
+5077647,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+5077647,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+5077647,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302

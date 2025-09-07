@@ -65,7 +65,7 @@ class Coles_Scraper:
     def scrape_all_inner_categories(self):
         current = 1
         for seo_code in self.coles_seo_codes:
-            if seo_code != "meat-seafood":
+            if seo_code != "pantry":
                 continue
             print(f" ==================== Processing Category: {seo_code} [{current} / {len(self.coles_seo_codes)}]====================")
             self.scrape_inner_category(seo_code)
@@ -89,17 +89,21 @@ class Coles_Scraper:
                                                  )
             products = json_data["pageProps"]["searchResults"]["results"]
             page_size = json_data["pageProps"]["searchResults"]["pageSize"]
+            if json_data["pageProps"]["searchResults"]["pageSize"] == 0:
+                print("Reached the end?")
+                break
+
             num_of_pages = json_data["pageProps"]["searchResults"]["noOfResults"] / page_size
             num_of_pages = math.ceil(num_of_pages)
+            #print(f"debug {json_data["pageProps"]["searchResults"]["noOfResults"]} || {page_size} || {num_of_pages}")
             if page_size != 48:
                 print(f"Incorrect page_size: [{page_size}]")
                 time.sleep(10)
                 continue
 
-            if json_data["pageProps"]["searchResults"]["pageSize"] == 0:
-                print("Reached the end?")
-                break
-            print(f">> Processing Page {cur_page} / {num_of_pages} [✗]", end="\r")
+
+
+            #print('\r', f">> Processing Page {cur_page} / {num_of_pages} [✗]", end='')
 
             product_rows = []
             hier_rows = []
@@ -153,7 +157,7 @@ class Coles_Scraper:
             product_df.to_csv(write_csv_path + f"/{cur_page}_product.csv", mode='w', header=True, index=False)
             hier_df.to_csv   (write_csv_path + f"/{cur_page}_hier.csv"   , mode='w', header=True, index=False)
 
-            print(f">> Processing Page {cur_page} / {num_of_pages} [✔] >> [{num_rows}] products validated")
+            print(f">> Processed Page {cur_page} / {num_of_pages} [✔] >> [{num_rows}] products validated")
 
             # try not to get banned
             time.sleep(10)

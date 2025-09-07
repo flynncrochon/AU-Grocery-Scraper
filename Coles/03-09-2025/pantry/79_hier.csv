@@ -1,0 +1,83 @@
+prodid,aisle,category,subcategory,aisleid,categoryid,subcategoryid
+5493620,Salad Dressings,Pickled Vegetables & Condiments,Pantry,9129,9232,10302
+5493620,Mayonnaise,Pickled Vegetables & Condiments,Pantry,9139,9232,10302
+5493765,Healthy Cooking,Health Foods,Pantry,12083,10301,10302
+5493765,Egg Free,Free From,Dietary & World Foods,675007331,674114623,674112512
+5493765,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+5493765,Pasta,"Pasta, Rice, Legumes & Grains",Pantry,9539,9634,10302
+5493776,Healthy Cooking,Health Foods,Pantry,12083,10301,10302
+5493776,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+5493776,Pasta,"Pasta, Rice, Legumes & Grains",Pantry,9539,9634,10302
+5495534,Weight Management,Health Foods & Diet,Dietary & World Foods,675045539,674135563,674112512
+5495534,Protein Powders,Sports Nutrition,Dietary & World Foods,675072653,674136101,674112512
+5495534,Nutrition Powders,Health Foods Sports Nutrition & Diet,Pantry,8895605,8895600,10302
+5495920,Soy Free,Free From,Dietary & World Foods,675024759,674114623,674112512
+5495920,Frozen,Vegan & Vegetarian,Dietary & World Foods,675077296,674136793,674112512
+5495920,Ice Cream Sticks,Ice Cream,Frozen,85638,85614,85471
+5495920,Ready-To-Freeze Ice Blocks,Desserts,Pantry,8894205,8894200,10302
+5497234,Peanut Free,Free From,Dietary & World Foods,675024758,674114623,674112512
+5497234,Nut Spreads,"Jams, Honey & Spreads",Pantry,8881203,8881200,10302
+5497267,Peanut Free,Free From,Dietary & World Foods,675024758,674114623,674112512
+5497267,Chocolate Spreads,"Jams, Honey & Spreads",Pantry,8881202,8881200,10302
+5497507,Cake & Bread Mixes,Baking,Pantry,8423,8756,10302
+5497530,Cake & Bread Mixes,Baking,Pantry,8423,8756,10302
+5503563,Nut Free,Free From,Dietary & World Foods,675024750,674114623,674112512
+5503563,Peanut Free,Free From,Dietary & World Foods,675024758,674114623,674112512
+5503563,Salad Dressings,Pickled Vegetables & Condiments,Pantry,9129,9232,10302
+5519880,Jelly,Desserts,Pantry,8894203,8894200,10302
+5520959,Savoury Spreads,"Jams, Honey & Spreads",Pantry,8881204,8881200,10302
+5525340,Pantry Essentials,Organic,Dietary & World Foods,675069508,674135800,674112512
+5525340,Flour,Baking,Pantry,8313,8756,10302
+5526434,Mediterranean,International Foods,Pantry,8904809,8904802,10302
+5526955,Thai,World Foods,Dietary & World Foods,675108470,674113139,674112512
+5526955,Sweet Chilli & Hot,Sauces,Pantry,9374,9373,10302
+5529523,Essence & Food Colouring,Baking,Pantry,8433,8756,10302
+5530657,Sugar & Sweeteners,Baking,Pantry,8317,8756,10302
+5532415,"Pickles, Chutney & Relish",Pickled Vegetables & Condiments,Pantry,9101,9232,10302
+5534647,"Pickles, Chutney & Relish",Pickled Vegetables & Condiments,Pantry,9101,9232,10302
+5534670,"Pickles, Chutney & Relish",Pickled Vegetables & Condiments,Pantry,9101,9232,10302
+5534873,Packet Seasonings,Herbs & Spices,Pantry,8286,8285,10302
+5534873,Breadcrumbs & Stuffing,Baking,Pantry,8339,8756,10302
+5534873,Marinades,Sauces,Pantry,8888273,9373,10302
+5535832,Sugar & Sweeteners,Baking,Pantry,8317,8756,10302
+5546464,Dried Spices,Herbs & Spices,Pantry,8888270,8285,10302
+5548754,Canned Vegetables,"Canned Food, Soups & Noodles",Pantry,9964,10146,10302
+5556286,Coffee Beans,Coffee,Pantry,19891,19888,10302
+5556286,Beans Coffee,Coffee Drinks,Drinks,98656,98628,11456
+5556300,Coffee Beans,Coffee,Pantry,19891,19888,10302
+5556300,Beans Coffee,Coffee Drinks,Drinks,98656,98628,11456
+5557540,Fish & Seafood,"Canned Food, Soups & Noodles",Pantry,10091,10146,10302
+5557551,Fish & Seafood,"Canned Food, Soups & Noodles",Pantry,10091,10146,10302
+5557777,Fish & Seafood,"Canned Food, Soups & Noodles",Pantry,10091,10146,10302
+5558623,Pizza & Pasta,Sauces,Pantry,9290,9373,10302
+5558689,Pizza & Pasta,Sauces,Pantry,9290,9373,10302
+5558780,Fish & Seafood,"Canned Food, Soups & Noodles",Pantry,10091,10146,10302
+5559218,Chinese,World Foods,Dietary & World Foods,675102473,674113139,674112512
+5559218,Asian,International Foods,Pantry,8904804,8904802,10302
+5559273,Chinese,World Foods,Dietary & World Foods,675102473,674113139,674112512
+5559273,Asian,International Foods,Pantry,8904804,8904802,10302
+5562733,Canned Vegetables,"Canned Food, Soups & Noodles",Pantry,9964,10146,10302
+5565312,Greek,World Foods,Dietary & World Foods,679713797,674113139,674112512
+5565312,Mediterranean,International Foods,Pantry,8904809,8904802,10302
+5566097,Soup & Noodles,Pantry Items,Down Down,8906201,8906014,8906007
+5566097,Noodles,"Canned Food, Soups & Noodles",Pantry,9689,10146,10302
+5566971,Greek,World Foods,Dietary & World Foods,679713797,674113139,674112512
+5566971,Mediterranean,International Foods,Pantry,8904809,8904802,10302
+5568900,Tomato & Bbq Sauces,Pickled Vegetables & Condiments,Pantry,8888268,9232,10302
+5568900,Tomato & Bbq,Sauces,Pantry,9250,9373,10302
+5576126,South African,World Foods,Dietary & World Foods,675107170,674113139,674112512
+5576126,South African,International Foods,Pantry,8905000,8904802,10302
+5578165,Coffee Mixes,Coffee,Pantry,19892,19888,10302
+5578165,Mixes Coffee,Coffee Drinks,Drinks,98657,98628,11456
+5578314,Instant Coffee,Coffee,Pantry,19890,19888,10302
+5578314,Coffee Instant,Coffee Drinks,Drinks,98655,98628,11456
+5579000,Bubble Tea,Tea,Pantry,8902602,10303,10302
+5579000,Tea Bubble,Tea Drinks,Drinks,8902603,98627,11456
+5579102,Bubble Tea,Tea,Pantry,8902602,10303,10302
+5579102,Tea Bubble,Tea Drinks,Drinks,8902603,98627,11456
+5583074,Sugar & Sweeteners,Baking,Pantry,8317,8756,10302
+5583085,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+5583085,Sugar & Sweeteners,Baking,Pantry,8317,8756,10302
+5585579,Super Foods & Functional Foods,Health Foods & Diet,Dietary & World Foods,675044379,674135563,674112512
+5585579,Healthy Breakfasts,Health Foods,Pantry,8888004,10301,10302
+5595200,"Pickles, Chutney & Relish",Pickled Vegetables & Condiments,Pantry,9101,9232,10302
