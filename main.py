@@ -1,5 +1,5 @@
 from Coles_Scraper import Coles_Scraper
-
+#
 # open a coles session using ssid as a sample proxy
 #
 ssid = "sample_ssid"
