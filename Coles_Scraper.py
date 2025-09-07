@@ -37,12 +37,6 @@ class Coles_Scraper:
         week = get_previous_wednesday()
         os.makedirs(self.__csv_dump_loc + week, exist_ok=True)
 
-        # clear weeks that dont align to the nearest wednesday
-        #status_df = pd.read_csv(self.__coles_status_csv)
-        #status_df = status_df[status_df["last_updated"] == week]
-        #status_df.to_csv(self.__coles_status_csv, index=False)
-
-        #self.__status = status_df
         self.__current_we = week
 
         print(f"Doing week: {week}")
@@ -89,28 +83,16 @@ class Coles_Scraper:
                 continue
 
             os.makedirs(write_csv_path, exist_ok=True)
-
-            #print(f"https://www.coles.com.au/browse/{seo_code}?page={cur_page}")
-            #print(f"https://www.coles.com.au/_next/data/{self.__build_id}/en/browse/{seo_code}.json?slug={seo_code}&page={cur_page}")
-
             time.sleep(2)
-            #soup = self.getter.get(f"https://www.coles.com.au/browse/{seo_code}?page={cur_page}")
-
-            # Find the script tag with id="__NEXT_DATA__"
-            #next_data = soup.find('script', id='__NEXT_DATA__')
-            #json_data = json.loads(next_data.string)
             json_data = self.getter.get_json_api(f"https://www.coles.com.au/_next/data/{self.__build_id}/en/browse/{seo_code}.json?slug={seo_code}&page={cur_page}",
                                                  f"https://www.coles.com.au/browse/{seo_code}?page={cur_page-1}"
                                                  )
-            #print(json_data)
-
             products = json_data["pageProps"]["searchResults"]["results"]
             page_size = json_data["pageProps"]["searchResults"]["pageSize"]
             num_of_pages = json_data["pageProps"]["searchResults"]["noOfResults"] / page_size
             num_of_pages = math.ceil(num_of_pages)
             if page_size != 48:
                 print(f"Incorrect page_size: [{page_size}]")
-                #print(json_data)
                 time.sleep(10)
                 continue
 
@@ -149,9 +131,7 @@ class Coles_Scraper:
                         "rawdescription": prod.get("description")
                     }
                     product_rows.append(new_row)
-                    #product_df = pd.concat([product_df, pd.DataFrame([new_row], columns = product_col)], ignore_index=True)
-                    #product_df.loc[len(product_df)] = new_row
-                    #product_df = product_df.append(new_row, ignore_index=True)
+
                     for heir in prod.get("onlineHeirs", []):
                         new_heir_row = {
                             "prodid": prod.get("id"),
@@ -164,7 +144,6 @@ class Coles_Scraper:
                         }
                         hier_rows.append(new_heir_row)
 
-            #status_row = {"Category": seo_code, "Page": cur_page, "last_updated": self.__current_we}
             product_col = ["prodid", "brand", "name", "size", "currentprice", "fullprice", "salespercentage","rawdescription"]
             hier_col = ["prodid", "aisle", "category", "subcategory", "aisleid", "categoryid", "subcategoryid"]
 
