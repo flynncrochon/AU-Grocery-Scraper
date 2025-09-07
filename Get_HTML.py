@@ -1,5 +1,9 @@
 #import cloudscraper
+import json
+
 from curl_cffi import requests as cureq
+import stealth_requests as requests
+
 import Ip_Manager
 import time
 import random
@@ -17,7 +21,7 @@ headers = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
     "Accept-Language": "en-US,en;q=0.9",
     "Accept-Encoding": "gzip, deflate, br",
-    "Connection": "keep-alive",
+    "Connection": "keep-alive"
 }
 
 class Get_HTML:
@@ -33,12 +37,27 @@ class Get_HTML:
         resp = ""
         while True:
             try:
-                resp = session.get("https://www.coles.com.au/browse").text
-                if "As you were browsing something about your browser made us think you were a bot" in resp:
+                resp = session.get(url_link).text
+                if self.__bot_text in resp:
                     print("BOT DETECTED .. attempting to refresh")
                     time.sleep(5)
                     continue
                 return BeautifulSoup(resp, 'html.parser')
             except:
+                print(".GET ERROR (trying to connect to ssid)")
+                Ip_Manager.reconnect_to_mobile()
+
+    def get_json_api(self, url_link, referer):
+        Ip_Manager.reconnect_to_mobile()
+        headers["referer"] = referer
+        #session = cureq.Session(impersonate="chrome120", headers=headers)
+        #resp = requests.get(url_link).text_content()
+        while True:
+            try:
+                #resp = session.get(url_link).text
+                resp = requests.get(url_link).text_content()
+                return json.loads(resp)
+            except:
+                #print(f"test: {resp}")
                 print(".GET ERROR (trying to connect to ssid)")
                 Ip_Manager.reconnect_to_mobile()

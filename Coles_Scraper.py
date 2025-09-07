@@ -1,30 +1,57 @@
-from operator import truediv
-
 import pickle
 #import json
 import pandas as pd
 import math
 import json
 import time
-import random
+import os
+
 from Get_HTML import Get_HTML
+from datetime import datetime, timedelta
+
+
+def get_previous_wednesday():
+    # Current date
+    today = datetime.today()
+    # ISO weekday: Monday=1, Sunday=7
+    weekday = today.isoweekday()
+    # Days since last Wednesday (Wednesday=3)
+    days_since_wednesday = (weekday - 3) % 7
+    last_wednesday = today - timedelta(days=days_since_wednesday)
+    au_date = last_wednesday.strftime("%d-%m-%Y")
+
+    return au_date
 
 class Coles_Scraper:
 
     coles_seo_codes = []
-    total_product_df = pd.DataFrame(
-        columns=["prodid", "brand", "name", "size", "currentprice", "fullprice", "salespercentage", "rawdescription"])
-    total_hier_df = pd.DataFrame(
-        columns=["prodid", "aisle", "category", "subcategory", "aisleid", "categoryid", "subcategoryid"])
     __build_id = "0"
+    __coles_status_csv = "Coles/coles_status.csv"
+    __csv_dump_loc = "Coles/"
+    __status = pd.DataFrame()
+    __current_we = ""
 
     def __init__(self, ssid):
         print(" ============================== Initialising Coles Session ... ============================== ")
+
+        week = get_previous_wednesday()
+        os.makedirs(self.__csv_dump_loc + week, exist_ok=True)
+
+        # clear weeks that dont align to the nearest wednesday
+        #status_df = pd.read_csv(self.__coles_status_csv)
+        #status_df = status_df[status_df["last_updated"] == week]
+        #status_df.to_csv(self.__coles_status_csv, index=False)
+
+        #self.__status = status_df
+        self.__current_we = week
+
+        print(f"Doing week: {week}")
+
         self.getter = Get_HTML(
             ssid,
             "As you were browsing something about your browser made us think you were a bot"
         )
-        print("Attempting html query")
+
         soup = self.getter.get("https://www.coles.com.au/browse")
 
         next_data = soup.find('script', id='__NEXT_DATA__')
@@ -44,6 +71,8 @@ class Coles_Scraper:
     def scrape_all_inner_categories(self):
         current = 1
         for seo_code in self.coles_seo_codes:
+            if seo_code != "meat-seafood":
+                continue
             print(f" ==================== Processing Category: {seo_code} [{current} / {len(self.coles_seo_codes)}]====================")
             self.scrape_inner_category(seo_code)
             current = current + 1
@@ -51,48 +80,81 @@ class Coles_Scraper:
     def scrape_inner_category(self, seo_code):
         cur_page = 1
         while True:
+            write_csv_path = f"{self.__csv_dump_loc}/{self.__current_we}/{seo_code}"
 
-            print(f"https://www.coles.com.au/browse/{seo_code}?page={cur_page}")
-            # this below link is weird
-            #print(f"https://www.coles.com.au/_next/data/{self.build_id}/en/browse/{seo_code}.json?slug={seo_code}?page={cur_page}")
+            if (os.path.exists(write_csv_path + f"/{cur_page}_product.csv") or
+                os.path.exists(write_csv_path + f"/{cur_page}_hier.csv")):
+                print(f">> Skipping page {cur_page}")
+                cur_page = cur_page + 1
+                continue
+
+            os.makedirs(write_csv_path, exist_ok=True)
+
+            #print(f"https://www.coles.com.au/browse/{seo_code}?page={cur_page}")
+            #print(f"https://www.coles.com.au/_next/data/{self.__build_id}/en/browse/{seo_code}.json?slug={seo_code}&page={cur_page}")
 
             time.sleep(2)
-            soup = self.getter.get(f"https://www.coles.com.au/browse/{seo_code}?page={cur_page}")
+            #soup = self.getter.get(f"https://www.coles.com.au/browse/{seo_code}?page={cur_page}")
+
             # Find the script tag with id="__NEXT_DATA__"
-            next_data = soup.find('script', id='__NEXT_DATA__')
-            json_data = json.loads(next_data.string)
+            #next_data = soup.find('script', id='__NEXT_DATA__')
+            #json_data = json.loads(next_data.string)
+            json_data = self.getter.get_json_api(f"https://www.coles.com.au/_next/data/{self.__build_id}/en/browse/{seo_code}.json?slug={seo_code}&page={cur_page}",
+                                                 f"https://www.coles.com.au/browse/{seo_code}?page={cur_page-1}"
+                                                 )
+            #print(json_data)
 
-            products = json_data["props"]["pageProps"]["searchResults"]["results"]
-
-            num_of_pages = json_data["props"]["pageProps"]["searchResults"]["noOfResults"] / json_data["props"]["pageProps"]["searchResults"]["pageSize"]
+            products = json_data["pageProps"]["searchResults"]["results"]
+            page_size = json_data["pageProps"]["searchResults"]["pageSize"]
+            num_of_pages = json_data["pageProps"]["searchResults"]["noOfResults"] / page_size
             num_of_pages = math.ceil(num_of_pages)
-            if json_data["props"]["pageProps"]["searchResults"]["pageSize"] < 48:
-                #print("debug refresh ...")
-                time.sleep(2)
+            if page_size != 48:
+                print(f"Incorrect page_size: [{page_size}]")
+                #print(json_data)
+                time.sleep(10)
                 continue
-            print(f"Processing Page {cur_page} / {num_of_pages}")
+
+            if json_data["pageProps"]["searchResults"]["pageSize"] == 0:
+                print("Reached the end?")
+                break
+            print(f">> Processing Page {cur_page} / {num_of_pages} [✗]", end="\r")
+
+            product_rows = []
+            hier_rows = []
+
             num_rows = 0
             for prod in products:
-                if prod["_type"] == "PRODUCT" and prod["adSource"] == None:
+                if prod["_type"] == "PRODUCT" and prod["adSource"] is None:
                     num_rows = num_rows + 1
-                    percentage_sale = 0
-                    if prod["pricing"]["was"] != 0:
-                        percentage_sale = (prod["pricing"]["was"] - prod["pricing"]["now"]) / prod["pricing"]["was"]
+                    current_price = None
+                    full_price = None
+                    sale_percentage = None
+                    pricing = prod.get("pricing")
+                    if pricing:
+                        current_price = pricing.get("now")
+                        full_price = pricing.get("was")
+                        percentage_sale = 0
+                        if pricing.get("was") != 0:
+                            percentage_sale = (pricing.get("was") - pricing.get("now")) / pricing.get("was")
+                        sale_percentage =  round(percentage_sale * 100, 2)
+
                     new_row = {
                         "prodid": prod.get("id"),
                         "brand": prod.get("brand"),
                         "name": prod.get("name"),
                         "size": prod.get("size"),
-                        "currentprice": prod.get("pricing", {}).get("now"),
-                        "fullprice": prod.get("pricing", {}).get("was"),
-                        "salespercentage": round(percentage_sale * 100, 2),
+                        "currentprice": current_price,
+                        "fullprice": full_price,
+                        "salespercentage": sale_percentage,
                         "rawdescription": prod.get("description")
                     }
-
-                    self.total_product_df = pd.concat([self.total_product_df, pd.DataFrame([new_row])], ignore_index=True)
+                    product_rows.append(new_row)
+                    #product_df = pd.concat([product_df, pd.DataFrame([new_row], columns = product_col)], ignore_index=True)
+                    #product_df.loc[len(product_df)] = new_row
+                    #product_df = product_df.append(new_row, ignore_index=True)
                     for heir in prod.get("onlineHeirs", []):
                         new_heir_row = {
-                            "prodid": heir.get("id"),
+                            "prodid": prod.get("id"),
                             "aisle": heir.get("aisle"),
                             "category": heir.get("category"),
                             "subcategory": heir.get("subCategory"),
@@ -100,11 +162,20 @@ class Coles_Scraper:
                             "categoryid": heir.get("categoryId"),
                             "subcategoryid": heir.get("subCategoryId")
                         }
-                        self.total_hier_df = pd.concat([self.total_hier_df, pd.DataFrame([new_row])], ignore_index=True)
-                    with open("prod_save.pkl", "wb") as f:
-                        pickle.dump(self, f)
+                        hier_rows.append(new_heir_row)
 
-            print(f"debug 3 {num_rows}")
+            #status_row = {"Category": seo_code, "Page": cur_page, "last_updated": self.__current_we}
+            product_col = ["prodid", "brand", "name", "size", "currentprice", "fullprice", "salespercentage","rawdescription"]
+            hier_col = ["prodid", "aisle", "category", "subcategory", "aisleid", "categoryid", "subcategoryid"]
+
+            product_df = pd.DataFrame(product_rows, columns=product_col)
+            hier_df = pd.DataFrame(hier_rows, columns=hier_col)
+
+            product_df.to_csv(write_csv_path + f"/{cur_page}_product.csv", mode='w', header=True, index=False)
+            hier_df.to_csv   (write_csv_path + f"/{cur_page}_hier.csv"   , mode='w', header=True, index=False)
+
+            print(f">> Processing Page {cur_page} / {num_of_pages} [✔] >> [{num_rows}] products validated")
+
             # try not to get banned
             time.sleep(10)
             # go next page / or loop

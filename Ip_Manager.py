@@ -19,6 +19,7 @@ def reconnect_to_mobile():
     while get_current_ssid() != target_ssid:
         print(f"Attempt ({attempt_num}) to connect to: {target_ssid}")
         try:
+            WinWiFi.disconnect()
             WinWiFi.connect(target_ssid)
         except:
             attempt_num = attempt_num + 1
