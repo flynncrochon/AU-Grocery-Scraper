@@ -24,14 +24,14 @@ headers = {
     "Connection": "keep-alive"
 }
 
-class Get_HTML:
+class Web_Getter:
     def __init__(self, ssid, bot_text):
         self.__bot_text = bot_text
         Ip_Manager.target_ssid = ssid
 
     __bot_text = ""
 
-    def get(self, url_link):
+    def get_html(self, url_link):
         session = cureq.Session(impersonate="chrome120", headers=headers)
         Ip_Manager.reconnect_to_mobile()
         resp = ""
@@ -49,7 +49,7 @@ class Get_HTML:
 
     def get_json_api(self, url_link, referer):
         Ip_Manager.reconnect_to_mobile()
-        headers["referer"] = referer
+        #headers["referer"] = referer
         #session = cureq.Session(impersonate="chrome120", headers=headers)
         #resp = requests.get(url_link).text_content()
         while True:

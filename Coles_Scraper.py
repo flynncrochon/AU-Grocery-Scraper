@@ -6,7 +6,7 @@ import json
 import time
 import os
 
-from Get_HTML import Get_HTML
+from Web_Getter import Web_Getter
 from datetime import datetime, timedelta
 
 
@@ -41,12 +41,12 @@ class Coles_Scraper:
 
         print(f"Doing week: {week}")
 
-        self.getter = Get_HTML(
+        self.getter = Web_Getter(
             ssid,
             "As you were browsing something about your browser made us think you were a bot"
         )
 
-        soup = self.getter.get("https://www.coles.com.au/browse")
+        soup = self.getter.get_html("https://www.coles.com.au/browse")
 
         next_data = soup.find('script', id='__NEXT_DATA__')
         json_data = json.loads(next_data.string)
