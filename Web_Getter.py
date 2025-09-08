@@ -35,7 +35,7 @@ class Web_Getter:
     def get_html(self, url_link):
         session = cureq.Session(impersonate="chrome120", headers=headers)
         Ip_Manager.reconnect_to_mobile()
-        resp = ""
+        #resp = ""
         while True:
             try:
                 resp = session.get(url_link).text
