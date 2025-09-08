@@ -82,7 +82,7 @@ class Coles_Scraper:
         """
         cur_page = 1
         num_of_pages = 1
-        while cur_page <= num_of_pages:
+        while True:
             write_csv_path = f"{self.__csv_dump_loc}/{self.__current_we}/{seo_code}"
 
             if (os.path.exists(write_csv_path + f"/{cur_page}_product.csv") or
@@ -99,12 +99,14 @@ class Coles_Scraper:
             json_search_results = json_data["pageProps"]["searchResults"]
             products = json_search_results["results"]
             page_size = json_search_results["pageSize"]
+
             if json_search_results["pageSize"] == 0:
                 print(f">> Reached the end [{seo_code}] <<")
                 break
             # update number of pages
             num_of_pages = json_search_results["noOfResults"] / page_size
             num_of_pages = math.ceil(num_of_pages)
+
             if page_size != 48:
                 print(f"Incorrect page_size: [{page_size}]")
                 time.sleep(10)
@@ -162,3 +164,5 @@ class Coles_Scraper:
 
             time.sleep(10) # try not to get banned
             cur_page += 1 # go next page / or loop
+            if cur_page > num_of_pages:
+                break

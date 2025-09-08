@@ -1,0 +1,17 @@
+prodid,aisle,category,subcategory,aisle_id,category_id,subcategory_id
+9232548,Poultry Deli,Poultry,Meat & Seafood,8892620,8892602,7238
+9232548,"Kebabs, Nibbles & Crumbed",Deli Poultry,Deli,8892729,8892728,8892715
+9232548,Offal Meat,Deli Poultry,Deli,8903001,8892728,8892715
+9363954,Packaged Deli Meat,Packaged Deli Meats,"Dairy, Eggs & Fridge",795551,79555,1300
+9363954,Meat Packaged,Deli Packaged Meat,Deli,8901801,8901800,8892715
+9586449,Deli Fish,Seafood,Meat & Seafood,8892673,8892671,7238
+9586449,Fish,Deli Seafood,Deli,8892734,8892733,8892715
+9681767,Poultry Deli,Poultry,Meat & Seafood,8892620,8892602,7238
+9681767,"Kebabs, Nibbles & Crumbed",Deli Poultry,Deli,8892729,8892728,8892715
+9728532,Cheddar & Tasty Cheese,Cheese,"Dairy, Eggs & Fridge",8882204,8882200,1300
+9728532,Cheddar,Gourmet Cheese,Deli,8892751,8892750,8892715
+9728532,Gourmet Cheese,Cheese,"Dairy, Eggs & Fridge",8915809,8882200,1300
+9949156,"Fetta, Haloumi & Other",Gourmet Cheese,Deli,8892755,8892750,8892715
+9949350,Hard Cheese,Gourmet Cheese,Deli,8892803,8892750,8892715
+9949393,Hard Cheese,Gourmet Cheese,Deli,8892803,8892750,8892715
+9949429,Hard Cheese,Gourmet Cheese,Deli,8892803,8892750,8892715

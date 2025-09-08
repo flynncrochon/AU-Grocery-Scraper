@@ -1,4 +1,7 @@
 import json
+#import demjson3
+import json5
+
 from bs4 import BeautifulSoup
 
 from curl_cffi import requests as cureq
@@ -43,8 +46,8 @@ class Web_Getter:
         while True:
             try:
                 resp = session.get(url_link).text
-            except:
-                print(".GET ERROR (trying to connect to ssid)")
+            except Exception as e:
+                print(f".GET ERROR (trying to connect to ssid): {e}")
                 Ip_Manager.reconnect_to_mobile()
                 continue
             if self.__bot_text in resp:
@@ -67,7 +70,10 @@ class Web_Getter:
         while True:
             try:
                 resp = requests.get(url_link).text_content()
-                return json.loads(resp)
-            except:
-                print(".GET ERROR (trying to connect to ssid)")
+                #return json.loads(resp)
+                return json5.loads(resp)
+            except Exception as e:
+                print(f".GET ERROR (trying to connect to ssid): {e}")
+                print(resp)
+                exit()
                 Ip_Manager.reconnect_to_mobile()
