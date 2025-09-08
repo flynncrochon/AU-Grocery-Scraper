@@ -22,6 +22,8 @@ def reconnect_to_mobile():
     Attempts to reconnect the PC to the target Wi-Fi (mobile hotspot) until successful,
     retrying on failure and printing the attempt number.
     """
+
+    if target_ssid == "": return
     attempt_num = 1
     while get_current_ssid() != target_ssid:
         print(f"Attempt ({attempt_num}) to connect to: {target_ssid}")
