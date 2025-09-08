@@ -1,0 +1,72 @@
+prodid,aisle,category,subcategory,aisle_id,category_id,subcategory_id
+2820606,Beef & Veal Mince,Beef & Veal,Meat & Seafood,8892622,8892621,7238
+2820606,Graze Beef,Beef & Veal,Meat & Seafood,8892627,8892621,7238
+2820606,Slow Cook & Casserole Beef,Beef & Veal,Meat & Seafood,8892629,8892621,7238
+2820606,Beef & Veal Mince,Mince,Meat & Seafood,8892665,8892664,7238
+2829622,Crumbed Chicken,Poultry,Meat & Seafood,8892607,8892602,7238
+2829699,Breast Fillets,Poultry,Meat & Seafood,8892603,8892602,7238
+2829699,Crumbed Chicken,Poultry,Meat & Seafood,8892607,8892602,7238
+2829699,Free Range Chicken,Poultry,Meat & Seafood,8892611,8892602,7238
+2839579,Pork Roasts,Pork,Meat & Seafood,8892654,8892647,7238
+2850731,Smoked And Cured Fish,Seafood,Meat & Seafood,8892678,8892671,7238
+2865262,Marinated & Roast Chicken,Poultry,Meat & Seafood,8892804,8892602,7238
+2865273,Marinated & Roast Chicken,Poultry,Meat & Seafood,8892804,8892602,7238
+2865295,Ham Portions,Ham,Meat & Seafood,8892636,8892632,7238
+2878130,Prepacked Seafood,Seafood,Meat & Seafood,8892677,8892671,7238
+2891502,Beef Steaks,Beef & Veal,Meat & Seafood,8892625,8892621,7238
+2902700,Pork Roasts,Pork,Meat & Seafood,8892654,8892647,7238
+2903860,Crumbed Chicken,Poultry,Meat & Seafood,8892607,8892602,7238
+2903871,Breast Fillets,Poultry,Meat & Seafood,8892603,8892602,7238
+2903871,Crumbed Chicken,Poultry,Meat & Seafood,8892607,8892602,7238
+2903940,Crumbed Chicken,Poultry,Meat & Seafood,8892607,8892602,7238
+2904025,Crumbed Chicken,Poultry,Meat & Seafood,8892607,8892602,7238
+2904193,Breast Fillets,Poultry,Meat & Seafood,8892603,8892602,7238
+2904193,Crumbed Chicken,Poultry,Meat & Seafood,8892607,8892602,7238
+2923835,Drumsticks & Maryland,Poultry,Meat & Seafood,8892609,8892602,7238
+2951397,Sausages,"Bbq, Sausages & Burgers",Meat & Seafood,8892662,8892656,7238
+3024242,Smoked And Cured Fish,Seafood,Meat & Seafood,8892678,8892671,7238
+3024876,Chicken Wings,Poultry,Meat & Seafood,8892606,8892602,7238
+3024876,Marinated & Roast Chicken,Poultry,Meat & Seafood,8892804,8892602,7238
+3024876,Meat,"Meat, Seafood & Deli",Down Down,8906035,8906013,8906007
+3029155,Marinated & Roast Chicken,Poultry,Meat & Seafood,8892804,8892602,7238
+3034235,Burgers & Rissoles,"Bbq, Sausages & Burgers",Meat & Seafood,8892658,8892656,7238
+3034960,Sausages,"Bbq, Sausages & Burgers",Meat & Seafood,8892662,8892656,7238
+3035409,Pork Chops,Pork,Meat & Seafood,8892650,8892647,7238
+3048069,Poultry Deli,Poultry,Meat & Seafood,8892620,8892602,7238
+3048069,Kebabs,"Bbq, Sausages & Burgers",Meat & Seafood,8892659,8892656,7238
+3048069,"Kebabs, Nibbles & Crumbed",Deli Poultry,Deli,8892729,8892728,8892715
+3050945,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+3050945,"Meat, Dairy & Eggs",Organic,Dietary & World Foods,675068803,674135800,674112512
+3050945,Organic Sausages & Meatballs,Organic Meat,Meat & Seafood,8892688,8892684,7238
+3110785,Beef Bones & Offal,Beef & Veal,Meat & Seafood,8892623,8892621,7238
+3227410,Breast Fillets,Poultry,Meat & Seafood,8892603,8892602,7238
+3227410,Free Range Chicken,Poultry,Meat & Seafood,8892611,8892602,7238
+3227410,Meat,"Meat, Seafood & Deli",Down Down,8906035,8906013,8906007
+3228730,Breast Fillets,Poultry,Meat & Seafood,8892603,8892602,7238
+3228730,Free Range Chicken,Poultry,Meat & Seafood,8892611,8892602,7238
+3228774,Free Range Chicken,Poultry,Meat & Seafood,8892611,8892602,7238
+3228800,Free Range Chicken,Poultry,Meat & Seafood,8892611,8892602,7238
+3228810,Free Range Chicken,Poultry,Meat & Seafood,8892611,8892602,7238
+3228810,Whole Chicken,Poultry,Meat & Seafood,8892615,8892602,7238
+3228832,Free Range Chicken,Poultry,Meat & Seafood,8892611,8892602,7238
+3232750,Ham Shoulder & Steaks,Ham,Meat & Seafood,8892637,8892632,7238
+3234824,Poultry Deli,Poultry,Meat & Seafood,8892620,8892602,7238
+3234824,"Kebabs, Nibbles & Crumbed",Deli Poultry,Deli,8892729,8892728,8892715
+3266489,Pork Ribs,Pork,Meat & Seafood,8892653,8892647,7238
+3269410,Sausages,"Bbq, Sausages & Burgers",Meat & Seafood,8892662,8892656,7238
+3270974,Crumbed Chicken,Poultry,Meat & Seafood,8892607,8892602,7238
+3292570,Crumbed Beef,Beef & Veal,Meat & Seafood,8892626,8892621,7238
+3305570,"Meat, Dairy & Eggs",Organic,Dietary & World Foods,675068803,674135800,674112512
+3305570,Organic Sausages & Meatballs,Organic Meat,Meat & Seafood,8892688,8892684,7238
+3305591,"Meat, Dairy & Eggs",Organic,Dietary & World Foods,675068803,674135800,674112512
+3305591,Organic Poultry,Organic Meat,Meat & Seafood,8892687,8892684,7238
+3332040,Beef Steaks,Beef & Veal,Meat & Seafood,8892625,8892621,7238
+3336008,Beef Steaks,Beef & Veal,Meat & Seafood,8892625,8892621,7238
+3345665,Pastry,Coles Made Easy Range,Meat & Seafood,8892682,8892679,7238
+3349713,Duck,Poultry,Meat & Seafood,8892616,8892602,7238
+3377184,Lamb Cutlets,Lamb,Meat & Seafood,8892641,8892638,7238
+3386072,Poultry Deli,Poultry,Meat & Seafood,8892620,8892602,7238
+3386072,Kebabs,"Bbq, Sausages & Burgers",Meat & Seafood,8892659,8892656,7238
+3386072,"Kebabs, Nibbles & Crumbed",Deli Poultry,Deli,8892729,8892728,8892715
+3449795,Beef & Veal Mince,Beef & Veal,Meat & Seafood,8892622,8892621,7238
+3449795,Beef & Veal Mince,Mince,Meat & Seafood,8892665,8892664,7238

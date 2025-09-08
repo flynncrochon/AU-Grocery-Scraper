@@ -1,0 +1,120 @@
+prodid,aisle,category,subcategory,aisle_id,category_id,subcategory_id
+8096150,Hair & Skin Care,Personal & Baby Care,Down Down,8906045,8906015,8906007
+8096150,Brushes and Tools,Cosmetics,Health & Beauty,95867,14267,15083
+8096182,"Eye Liner, Eye Shadow & Mascara",Cosmetics,Health & Beauty,14231,14267,15083
+8096182,Hair & Skin Care,Personal & Baby Care,Down Down,8906045,8906015,8906007
+8096182,Brushes and Tools,Cosmetics,Health & Beauty,95867,14267,15083
+8117533,Plastic Wraps & Bags,Kitchen,Household,8898601,12164,14003
+8117533,Sandwich & Freezer Bags,Kitchen,Household,8898617,12164,14003
+8117533,Kitchen Needs,Cleaning,Down Down,8906025,8906010,8906007
+8134598,New Zealand,World Foods,Dietary & World Foods,675106555,674113139,674112512
+8134598,New Zealand,International Foods,Pantry,8904812,8904802,10302
+8134598,World Foods,Pantry Items,Down Down,8906043,8906014,8906007
+8136334,Stain Removal & Pre-Wash,Laundry,Household,13065,13095,14003
+8136334,Laundry Needs,Cleaning,Down Down,8906026,8906010,8906007
+8148286,Malaysian,World Foods,Dietary & World Foods,675105506,674113139,674112512
+8148286,Asian,International Foods,Pantry,8904804,8904802,10302
+8148286,World Foods,Pantry Items,Down Down,8906043,8906014,8906007
+8154518,Medicinal Care,Personal & Baby Care,Down Down,8906046,8906015,8906007
+8154518,Pain Relief,First Aid & Medicinal,Health & Beauty,8907414,8907402,15083
+8160769,Tablets & Capsules,Vitamins & Supplements,Health & Beauty,835060756,8907425,15083
+8160769,Energy Support,Vitamins & Supplements,Health & Beauty,8907432,8907425,15083
+8160769,Vitamins & Other,Personal & Baby Care,Down Down,8912027,8906015,8906007
+8161433,Peanuts,Nuts & Dried Fruit,Fruit & Vegetables,8892407,1723,2100
+8161433,Nuts,"Fruits, Veggies & Nuts",Down Down,8912012,8912010,8906007
+8166335,Liquids,Vitamins & Supplements,Health & Beauty,835060957,8907425,15083
+8166335,Digestive,Vitamins & Supplements,Health & Beauty,835062643,8907425,15083
+8166335,Diet,Vitamins & Supplements,Health & Beauty,835066284,8907425,15083
+8166335,Vitamins & Other,Personal & Baby Care,Down Down,8912027,8906015,8906007
+8169355,Multipacks,Yoghurt,"Dairy, Eggs & Fridge",8915821,8915804,1300
+8169355,Frozen Desserts,"Dairy, Chilled & Frozen",Down Down,8915867,8906011,8906007
+8169424,Multipacks,Yoghurt,"Dairy, Eggs & Fridge",8915821,8915804,1300
+8169424,Frozen Desserts,"Dairy, Chilled & Frozen",Down Down,8915867,8906011,8906007
+8169435,Multipacks,Yoghurt,"Dairy, Eggs & Fridge",8915821,8915804,1300
+8169435,Frozen Desserts,"Dairy, Chilled & Frozen",Down Down,8915867,8906011,8906007
+8222662,Korean,World Foods,Dietary & World Foods,675104741,674113139,674112512
+8222662,Asian,International Foods,Pantry,8904804,8904802,10302
+8222662,World Foods,Pantry Items,Down Down,8906043,8906014,8906007
+8223600,Korean,World Foods,Dietary & World Foods,675104741,674113139,674112512
+8223600,Asian,International Foods,Pantry,8904804,8904802,10302
+8223600,World Foods,Pantry Items,Down Down,8906043,8906014,8906007
+8416240,Soups,"Canned Food, Soups & Noodles",Pantry,10147,10146,10302
+8416240,Soup & Noodles,Pantry Items,Down Down,8906201,8906014,8906007
+8423085,Baby & Toddler Snacks,Baby & Toddler Food,Baby,8904018,8904003,15603
+8423085,Baby Formula And Food,Personal & Baby Care,Down Down,8912025,8906015,8906007
+8440095,Jams,"Jams, Honey & Spreads",Pantry,8881201,8881200,10302
+8440095,Cereals & Spreads,Pantry Items,Down Down,8906039,8906014,8906007
+8440109,Jams,"Jams, Honey & Spreads",Pantry,8881201,8881200,10302
+8440109,Cereals & Spreads,Pantry Items,Down Down,8906039,8906014,8906007
+8469177,Frozen,Vegan & Vegetarian,Dietary & World Foods,675077296,674136793,674112512
+8469177,Pastry Sheets,Frozen Pastry & Party Food,Frozen,85652,85616,85471
+8469177,Frozen Desserts,"Dairy, Chilled & Frozen",Down Down,8915867,8906011,8906007
+8482641,Spreads & Dips,"Dairy, Chilled & Frozen",Down Down,8912014,8906011,8906007
+8482641,Dips,Dips & Pate,"Dairy, Eggs & Fridge",8915814,8915803,1300
+8482980,Spreads & Dips,"Dairy, Chilled & Frozen",Down Down,8912014,8906011,8906007
+8482980,Dips,Dips & Pate,"Dairy, Eggs & Fridge",8915814,8915803,1300
+8537620,Kitchen Cleaners,Cleaning Goods,Household,12845,13228,14003
+8537620,Sponges & Scourers,Dishwashing,Household,8898602,12938,14003
+8537620,General Cleaning,Cleaning,Down Down,8906024,8906010,8906007
+8544126,Spreads & Dips,"Dairy, Chilled & Frozen",Down Down,8912014,8906011,8906007
+8544126,Dips,Dips & Pate,"Dairy, Eggs & Fridge",8915814,8915803,1300
+8566038,Bakery,Vegan & Vegetarian,Dietary & World Foods,675073922,674136793,674112512
+8566038,Other Flat Breads,"Packaged Flat Bread, Wraps And Pizza Bases",Bakery,8892954,8892911,8892906
+8566038,"Breads, Rolls & Flatbread",Bread & Bakery,Down Down,8906021,8906009,8906007
+8587672,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+8587672,Indian,International Foods,Pantry,8904806,8904802,10302
+8587672,World Foods,Pantry Items,Down Down,8906043,8906014,8906007
+8587672,Oil,Oils & Vinegars,Pantry,9485,9484,10302
+8601456,Beef Roasts,Beef & Veal,Meat & Seafood,8892624,8892621,7238
+8601456,Meat,"Meat, Seafood & Deli",Down Down,8906035,8906013,8906007
+8657235,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+8657235,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+8657235,Diet Slimming Aids,Health Foods Sports Nutrition & Diet,Pantry,8895602,8895600,10302
+8657235,Healthier Foods,Pantry Items,Down Down,8906040,8906014,8906007
+8684883,Spreads & Dips,"Dairy, Chilled & Frozen",Down Down,8912014,8906011,8906007
+8684883,Dips,Dips & Pate,"Dairy, Eggs & Fridge",8915814,8915803,1300
+8702635,British,World Foods,Dietary & World Foods,675097934,674113139,674112512
+8702635,Uk,International Foods,Pantry,8904814,8904802,10302
+8702635,World Foods,Pantry Items,Down Down,8906043,8906014,8906007
+8703048,Canned & Pickled Foods,Pantry Items,Down Down,8906038,8906014,8906007
+8703048,Canned Meat,"Canned Food, Soups & Noodles",Pantry,9986,10146,10302
+8767335,Fresh Juice,Chilled Juice,"Dairy, Eggs & Fridge",693421910,693421331,1300
+8767335,Soft Drink & Energy Drinks,Beverages,Down Down,8906019,8906008,8906007
+8767335,Chilled Juice,Juice,Drinks,98640,98624,11456
+8770486,White Wraps,"Packaged Flat Bread, Wraps And Pizza Bases",Bakery,8892942,8892911,8892906
+8770486,"Breads, Rolls & Flatbread",Bread & Bakery,Down Down,8906021,8906009,8906007
+8781518,Pork Mince,Pork,Meat & Seafood,8892652,8892647,7238
+8781518,Pork Mince,Mince,Meat & Seafood,8892669,8892664,7238
+8781518,Meat,"Meat, Seafood & Deli",Down Down,8906035,8906013,8906007
+8783900,Rice & Corn Snacks,Crackers & Rice Cakes,"Chips, Chocolates & Snacks",657641039,657640625,8916201
+8783900,Biscuits & Crackers,Snacking,Down Down,8906202,8906016,8906007
+8783910,Rice & Corn Snacks,Crackers & Rice Cakes,"Chips, Chocolates & Snacks",657641039,657640625,8916201
+8783910,Biscuits & Crackers,Snacking,Down Down,8906202,8906016,8906007
+8783943,Rice & Corn Snacks,Crackers & Rice Cakes,"Chips, Chocolates & Snacks",657641039,657640625,8916201
+8783943,Biscuits & Crackers,Snacking,Down Down,8906202,8906016,8906007
+8783954,Rice & Corn Snacks,Crackers & Rice Cakes,"Chips, Chocolates & Snacks",657641039,657640625,8916201
+8783954,Biscuits & Crackers,Snacking,Down Down,8906202,8906016,8906007
+8832991,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+8832991,"Energy, Sports Drinks & Supplements",Sports Nutrition,Dietary & World Foods,675071005,674136101,674112512
+8832991,Protein Drinks & Shakes,Sports Nutrition,Dietary & World Foods,675073004,674136101,674112512
+8832991,Rtd Protein Shakes,Health Foods Sports Nutrition & Diet,Pantry,8895606,8895600,10302
+8832991,Healthier Foods,Pantry Items,Down Down,8906040,8906014,8906007
+8833305,Mustard,Pickled Vegetables & Condiments,Pantry,14000,9232,10302
+8833305,Mustards,Sauces,Pantry,8888269,9373,10302
+8833305,Sauces & Dressings,Pantry Items,Down Down,8906042,8906014,8906007
+8855498,Canned & Pickled Foods,Pantry Items,Down Down,8906038,8906014,8906007
+8855498,Canned Vegetables,"Canned Food, Soups & Noodles",Pantry,9964,10146,10302
+8855512,Canned & Pickled Foods,Pantry Items,Down Down,8906038,8906014,8906007
+8855512,Canned Vegetables,"Canned Food, Soups & Noodles",Pantry,9964,10146,10302
+8855567,Canned & Pickled Foods,Pantry Items,Down Down,8906038,8906014,8906007
+8855567,Canned Vegetables,"Canned Food, Soups & Noodles",Pantry,9964,10146,10302
+8855589,Canned & Pickled Foods,Pantry Items,Down Down,8906038,8906014,8906007
+8855589,Canned Vegetables,"Canned Food, Soups & Noodles",Pantry,9964,10146,10302
+8855614,Canned & Pickled Foods,Pantry Items,Down Down,8906038,8906014,8906007
+8855614,Canned Vegetables,"Canned Food, Soups & Noodles",Pantry,9964,10146,10302
+8855691,Canned & Pickled Foods,Pantry Items,Down Down,8906038,8906014,8906007
+8855691,Canned Vegetables,"Canned Food, Soups & Noodles",Pantry,9964,10146,10302
+8859568,Canned & Pickled Foods,Pantry Items,Down Down,8906038,8906014,8906007
+8859568,Canned Vegetables,"Canned Food, Soups & Noodles",Pantry,9964,10146,10302
+8860090,Canned & Pickled Foods,Pantry Items,Down Down,8906038,8906014,8906007
+8860090,Canned Vegetables,"Canned Food, Soups & Noodles",Pantry,9964,10146,10302

@@ -1,0 +1,122 @@
+prodid,aisle,category,subcategory,aisle_id,category_id,subcategory_id
+6977600,Crackers & Crispbreads,Crackers & Rice Cakes,"Chips, Chocolates & Snacks",657641318,657640625,8916201
+6977600,Biscuits & Crackers,Snacking,Down Down,8906202,8906016,8906007
+7032843,Super Foods & Functional Foods,Health Foods & Diet,Dietary & World Foods,675044379,674135563,674112512
+7032843,Pantry Essentials,Organic,Dietary & World Foods,675069508,674135800,674112512
+7032843,Healthy Snacks,Health Foods,Pantry,8888005,10301,10302
+7032843,Healthier Foods,Pantry Items,Down Down,8906040,8906014,8906007
+7032876,Super Foods & Functional Foods,Health Foods & Diet,Dietary & World Foods,675044379,674135563,674112512
+7032876,Pantry Essentials,Organic,Dietary & World Foods,675069508,674135800,674112512
+7032876,Healthy Snacks,Health Foods,Pantry,8888005,10301,10302
+7032876,Healthier Foods,Pantry Items,Down Down,8906040,8906014,8906007
+7032887,Super Foods & Functional Foods,Health Foods & Diet,Dietary & World Foods,675044379,674135563,674112512
+7032887,Pantry Essentials,Organic,Dietary & World Foods,675069508,674135800,674112512
+7032887,Healthy Snacks,Health Foods,Pantry,8888005,10301,10302
+7032887,Healthier Foods,Pantry Items,Down Down,8906040,8906014,8906007
+7032901,Super Foods & Functional Foods,Health Foods & Diet,Dietary & World Foods,675044379,674135563,674112512
+7032901,Healthy Snacks,Health Foods,Pantry,8888005,10301,10302
+7032901,Healthier Foods,Pantry Items,Down Down,8906040,8906014,8906007
+7032912,Super Foods & Functional Foods,Health Foods & Diet,Dietary & World Foods,675044379,674135563,674112512
+7032912,Healthy Snacks,Health Foods,Pantry,8888005,10301,10302
+7032912,Healthier Foods,Pantry Items,Down Down,8906040,8906014,8906007
+7032923,Healthy Cooking,Health Foods,Pantry,12083,10301,10302
+7032923,Collagen,Health Foods & Diet,Dietary & World Foods,675041452,674135563,674112512
+7032923,Protein Powders,Sports Nutrition,Dietary & World Foods,675072653,674136101,674112512
+7032923,Healthy Breakfasts,Health Foods,Pantry,8888004,10301,10302
+7032923,Collagen,Health Foods Sports Nutrition & Diet,Pantry,8895601,8895600,10302
+7032923,Healthier Foods,Pantry Items,Down Down,8906040,8906014,8906007
+7032945,Weight Management,Health Foods & Diet,Dietary & World Foods,675045539,674135563,674112512
+7032945,Protein Powders,Sports Nutrition,Dietary & World Foods,675072653,674136101,674112512
+7032945,Rtd Protein Shakes,Health Foods Sports Nutrition & Diet,Pantry,8895606,8895600,10302
+7032945,Healthier Foods,Pantry Items,Down Down,8906040,8906014,8906007
+7032956,Super Foods & Functional Foods,Health Foods & Diet,Dietary & World Foods,675044379,674135563,674112512
+7032956,Healthy Snacks,Health Foods,Pantry,8888005,10301,10302
+7032956,Healthier Foods,Pantry Items,Down Down,8906040,8906014,8906007
+7035874,Soft Drink & Energy Drinks,Beverages,Down Down,8906019,8906008,8906007
+7035874,Kombucha & Other Drinks,Soft Drinks,Drinks,98631,98621,11456
+7035900,Soft Drink & Energy Drinks,Beverages,Down Down,8906019,8906008,8906007
+7035900,Kombucha & Other Drinks,Soft Drinks,Drinks,98631,98621,11456
+7073240,Sauces & Dressings,Pantry Items,Down Down,8906042,8906014,8906007
+7073240,Sweet Chilli & Hot,Sauces,Pantry,9374,9373,10302
+7074581,"Sponges, Cloths & Wipes",Cleaning Goods,Household,12849,13228,14003
+7074581,General Cleaning,Cleaning,Down Down,8906024,8906010,8906007
+7078618,Other Ready Meals,Ready To Eat Meals,"Dairy, Eggs & Fridge",124555,477564,1300
+7078618,Meals,Pantry Items,Down Down,841558409,8906014,8906007
+7078844,Other Ready Meals,Ready To Eat Meals,"Dairy, Eggs & Fridge",124555,477564,1300
+7078844,Meals,Pantry Items,Down Down,841558409,8906014,8906007
+7082433,Car Care,DIY & Car,Household,8893406,8893404,14003
+7082433,General Needs,Home & Pets,Down Down,8906800,8906012,8906007
+7084916,Pregnancy Tests,Personal Care,Health & Beauty,14196,14214,15083
+7084916,Medicinal Care,Personal & Baby Care,Down Down,8906046,8906015,8906007
+7085158,Medicinal Care,Personal & Baby Care,Down Down,8906046,8906015,8906007
+7085158,Other First Aid & Medicinal,First Aid & Medicinal,Health & Beauty,8907601,8907402,15083
+7175341,Fish & Seafood,"Canned Food, Soups & Noodles",Pantry,10091,10146,10302
+7175341,Canned & Pickled Foods,Pantry Items,Down Down,8906038,8906014,8906007
+7175556,Fish & Seafood,"Canned Food, Soups & Noodles",Pantry,10091,10146,10302
+7175556,Canned & Pickled Foods,Pantry Items,Down Down,8906038,8906014,8906007
+7175975,Fish & Seafood,"Canned Food, Soups & Noodles",Pantry,10091,10146,10302
+7175975,Canned & Pickled Foods,Pantry Items,Down Down,8906038,8906014,8906007
+7176005,Fish & Seafood,"Canned Food, Soups & Noodles",Pantry,10091,10146,10302
+7176005,Canned & Pickled Foods,Pantry Items,Down Down,8906038,8906014,8906007
+7199055,Dairy & Lactose Free,Free From,Dietary & World Foods,675006051,674114623,674112512
+7199055,Lactose Free-Milk,Long Life-Milk,"Dairy, Eggs & Fridge",8895208,8895200,1300
+7199055,Milk & Milk Additives,Beverages,Down Down,8906018,8906008,8906007
+7199055,Lactose Free Milk,Long-Life Milk,Drinks,98667,98629,11456
+7200948,Hair & Skin Care,Personal & Baby Care,Down Down,8906045,8906015,8906007
+7200948,Shampoo & Conditioner,Hair Care,Health & Beauty,8907417,14459,15083
+7200959,Hair & Skin Care,Personal & Baby Care,Down Down,8906045,8906015,8906007
+7200959,Shampoo & Conditioner,Hair Care,Health & Beauty,8907417,14459,15083
+7223830,British,World Foods,Dietary & World Foods,675097934,674113139,674112512
+7223830,Uk,International Foods,Pantry,8904814,8904802,10302
+7223830,World Foods,Pantry Items,Down Down,8906043,8906014,8906007
+7311916,Meals,Pantry Items,Down Down,841558409,8906014,8906007
+7311916,Pizza & Pasta,Sauces,Pantry,9290,9373,10302
+7311982,Meals,Pantry Items,Down Down,841558409,8906014,8906007
+7311982,Pizza & Pasta,Sauces,Pantry,9290,9373,10302
+7363374,"Diced, Stir-Fry & Tenders",Poultry,Meat & Seafood,8892608,8892602,7238
+7363374,Meat,"Meat, Seafood & Deli",Down Down,8906035,8906013,8906007
+7368571,Mexican,World Foods,Dietary & World Foods,675105516,674113139,674112512
+7368571,Mexican,International Foods,Pantry,8904810,8904802,10302
+7368571,World Foods,Pantry Items,Down Down,8906043,8906014,8906007
+7368582,Mexican,World Foods,Dietary & World Foods,675105516,674113139,674112512
+7368582,Mexican,International Foods,Pantry,8904810,8904802,10302
+7368582,World Foods,Pantry Items,Down Down,8906043,8906014,8906007
+7373720,Mexican,World Foods,Dietary & World Foods,675105516,674113139,674112512
+7373720,Mexican,International Foods,Pantry,8904810,8904802,10302
+7373720,World Foods,Pantry Items,Down Down,8906043,8906014,8906007
+7398379,Healthier Foods,Pantry Items,Down Down,8906040,8906014,8906007
+7398379,Muesli Bars & Fruit Snacks,Snacks,"Chips, Chocolates & Snacks",8916227,8916204,8916201
+7398426,Healthier Foods,Pantry Items,Down Down,8906040,8906014,8906007
+7398426,Muesli Bars & Fruit Snacks,Snacks,"Chips, Chocolates & Snacks",8916227,8916204,8916201
+7428130,New Zealand,World Foods,Dietary & World Foods,675106555,674113139,674112512
+7428130,New Zealand,International Foods,Pantry,8904812,8904802,10302
+7428130,World Foods,Pantry Items,Down Down,8906043,8906014,8906007
+7488948,Flour,Baking,Pantry,8313,8756,10302
+7488948,Yeast & Baking Agents,Baking,Pantry,8358,8756,10302
+7488948,Baking & Sugar,Pantry Items,Down Down,8906037,8906014,8906007
+7488960,Flour,Baking,Pantry,8313,8756,10302
+7488960,Baking & Sugar,Pantry Items,Down Down,8906037,8906014,8906007
+7488970,Flour,Baking,Pantry,8313,8756,10302
+7488970,Baking & Sugar,Pantry Items,Down Down,8906037,8906014,8906007
+7488981,Flour,Baking,Pantry,8313,8756,10302
+7488981,Baking & Sugar,Pantry Items,Down Down,8906037,8906014,8906007
+7492435,Chips Sharing,Chips,"Chips, Chocolates & Snacks",657634677,8916207,8916201
+7492435,Snack Foods,Snacking,Down Down,8906049,8906016,8906007
+7492446,Chips Sharing,Chips,"Chips, Chocolates & Snacks",657634677,8916207,8916201
+7492446,Snack Foods,Snacking,Down Down,8906049,8906016,8906007
+7500840,Medicinal Care,Personal & Baby Care,Down Down,8906046,8906015,8906007
+7500840,Other First Aid & Medicinal,First Aid & Medicinal,Health & Beauty,8907601,8907402,15083
+7523878,Liquids,Vitamins & Supplements,Health & Beauty,835060957,8907425,15083
+7523878,Digestive,Vitamins & Supplements,Health & Beauty,835062643,8907425,15083
+7523878,Vitamins & Other,Personal & Baby Care,Down Down,8912027,8906015,8906007
+7547887,Medicinal Care,Personal & Baby Care,Down Down,8906046,8906015,8906007
+7547887,Shampoo & Conditioner,Hair Care,Health & Beauty,8907417,14459,15083
+7547898,Medicinal Care,Personal & Baby Care,Down Down,8906046,8906015,8906007
+7547898,Shampoo & Conditioner,Hair Care,Health & Beauty,8907417,14459,15083
+7547912,Mens Hair Care,Hair Care,Health & Beauty,620288353,14459,15083
+7547912,Medicinal Care,Personal & Baby Care,Down Down,8906046,8906015,8906007
+7547912,Shampoo & Conditioner,Hair Care,Health & Beauty,8907417,14459,15083
+7548948,Medicinal Care,Personal & Baby Care,Down Down,8906046,8906015,8906007
+7548948,Shampoo & Conditioner,Hair Care,Health & Beauty,8907417,14459,15083
+7548959,Medicinal Care,Personal & Baby Care,Down Down,8906046,8906015,8906007
+7548959,Shampoo & Conditioner,Hair Care,Health & Beauty,8907417,14459,15083
