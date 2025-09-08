@@ -8,6 +8,8 @@ import os
 from Web_Getter import Web_Getter
 from datetime import datetime, timedelta
 
+#test
+
 def get_previous_wednesday() -> str:
     """
         Returns the date of the most recent Wednesday (including today if it's Wednesday)
