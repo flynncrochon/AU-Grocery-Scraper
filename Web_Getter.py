@@ -74,7 +74,7 @@ class Web_Getter:
                 return json.loads(resp)
             except Exception as e:
                 print(f".GET ERROR (trying to connect to ssid): {e}")
-                with open("test_json.txt", "w") as file:
-                    file.write(resp)
-                exit()
+                #with open("test_json.txt", "w") as file:
+                #    file.write(resp)
+                #exit()
                 Ip_Manager.reconnect_to_mobile()
