@@ -71,7 +71,7 @@ class Web_Getter:
             try:
                 resp = requests.get(url_link).text_content()
                 #return json.loads(resp)
-                return json5.loads(resp)
+                return json.loads(resp)
             except Exception as e:
                 print(f".GET ERROR (trying to connect to ssid): {e}")
                 print(resp)
