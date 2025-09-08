@@ -3,7 +3,6 @@ import subprocess
 import time
 
 target_ssid = ""
-
 def get_current_ssid():
     try:
         result = subprocess.check_output(
@@ -12,7 +11,7 @@ def get_current_ssid():
         for line in result.splitlines():
             if "SSID" in line and "BSSID" not in line:
                 return line.split(":", 1)[1].strip()
-    except Exception as e:
+    except:
         return None
 def reconnect_to_mobile():
     attempt_num = 1
@@ -22,5 +21,5 @@ def reconnect_to_mobile():
             WinWiFi.disconnect()
             WinWiFi.connect(target_ssid)
         except:
-            attempt_num = attempt_num + 1
+            attempt_num += 1
             continue

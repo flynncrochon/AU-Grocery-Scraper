@@ -1,13 +1,14 @@
-#import cloudscraper
 import json
+from bs4 import BeautifulSoup
 
 from curl_cffi import requests as cureq
 import stealth_requests as requests
+#import cloudscraper
 
 import Ip_Manager
+
 import time
 import random
-from bs4 import BeautifulSoup
 
 user_agents = [
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/139.0.0.0 Safari/537.36",
@@ -40,7 +41,8 @@ class Web_Getter:
                 resp = session.get(url_link).text
                 if self.__bot_text in resp:
                     print("BOT DETECTED .. attempting to refresh")
-                    time.sleep(5)
+                    # pretty sure we need to wait until our ip refreshes
+                    time.sleep(20)
                     continue
                 return BeautifulSoup(resp, 'html.parser')
             except:
