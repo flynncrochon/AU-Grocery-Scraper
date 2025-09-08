@@ -50,19 +50,18 @@ Coles/
     - `brand`  
     - `name`  
     - `size`  
-    - `currentprice`  
-    - `fullprice`  
-    - `salespercentage`  
-    - `rawdescription`
+    - `current_price`  
+    - `full_price`  
+    - `raw_description`
   - `X_hier.csv` → product hierarchy (aisle/category placement)  
     Columns:  
     - `prodid`  
     - `aisle`  
     - `category`  
     - `subcategory`  
-    - `aisleid`  
-    - `categoryid`  
-    - `subcategoryid`
+    - `aisle_id`  
+    - `category_id`  
+    - `subcategory_id`
 
 - **Incremental scraping**  
   If a page file already exists (e.g., `2_product.csv`), the scraper will skip re-downloading it.  
