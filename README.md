@@ -53,6 +53,7 @@ Coles/
     - `current_price`  
     - `full_price`  
     - `raw_description`
+  
   - `X_hier.csv` → product hierarchy (aisle/category placement)  
     Columns:  
     - `prodid`  
