@@ -107,7 +107,7 @@ class Coles_Scraper:
             num_rows = 0
             for prod in products:
                 # if these are not products or ads we just skip for now
-                if prod["_type"] != "PRODUCT" or prod["adSource"] is not None:
+                if prod["_type"] != "PRODUCT" or prod["adSource"]:
                     continue
                 num_rows = num_rows + 1
                 current_price = None
