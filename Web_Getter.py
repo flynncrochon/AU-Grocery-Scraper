@@ -26,40 +26,48 @@ headers = {
 }
 
 class Web_Getter:
+
+    __bot_text = ""
+
     def __init__(self, ssid, bot_text):
         self.__bot_text = bot_text
         Ip_Manager.target_ssid = ssid
 
-    __bot_text = ""
-
-    def get_html(self, url_link):
+    def get_html(self, url_link: str) -> BeautifulSoup:
+        """
+            Fetches the HTML content of a URL using a mobile-mimicking session, handling connection
+            errors and anti-bot detection by retrying with refreshed IPs. Returns a BeautifulSoup object.
+        """
         session = cureq.Session(impersonate="chrome120", headers=headers)
         Ip_Manager.reconnect_to_mobile()
-        #resp = ""
         while True:
             try:
                 resp = session.get(url_link).text
-                if self.__bot_text in resp:
-                    print("BOT DETECTED .. attempting to refresh")
-                    # pretty sure we need to wait until our ip refreshes
-                    time.sleep(20)
-                    continue
-                return BeautifulSoup(resp, 'html.parser')
             except:
                 print(".GET ERROR (trying to connect to ssid)")
                 Ip_Manager.reconnect_to_mobile()
+                continue
+            if self.__bot_text in resp:
+                print("BOT DETECTED .. attempting to refresh")
+                # pretty sure we need to wait until our ip refreshes
+                time.sleep(20)
+                continue
+            return BeautifulSoup(resp, 'html.parser')
 
-    def get_json_api(self, url_link, referer):
+
+    def get_json_api(self, url_link: str, referer: str) -> dict:
+        """
+            Fetches JSON data from the given URL, handling connection errors by reconnecting IP.
+            Returns the parsed JSON as a Python dictionary.
+        """
         Ip_Manager.reconnect_to_mobile()
         #headers["referer"] = referer
         #session = cureq.Session(impersonate="chrome120", headers=headers)
         #resp = requests.get(url_link).text_content()
         while True:
             try:
-                #resp = session.get(url_link).text
                 resp = requests.get(url_link).text_content()
                 return json.loads(resp)
             except:
-                #print(f"test: {resp}")
                 print(".GET ERROR (trying to connect to ssid)")
                 Ip_Manager.reconnect_to_mobile()

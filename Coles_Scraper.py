@@ -1,4 +1,3 @@
-import pickle
 #import json
 import pandas as pd
 import math
@@ -9,28 +8,40 @@ import os
 from Web_Getter import Web_Getter
 from datetime import datetime, timedelta
 
-
-def get_previous_wednesday():
-    # Current date
+def get_previous_wednesday() -> str:
+    """
+        Returns the date of the most recent Wednesday (including today if it's Wednesday)
+        formatted as 'DD-MM-YYYY'.
+    """
     today = datetime.today()
-    # ISO weekday: Monday=1, Sunday=7
-    weekday = today.isoweekday()
-    # Days since last Wednesday (Wednesday=3)
-    days_since_wednesday = (weekday - 3) % 7
+    weekday = today.isoweekday()  # ISO weekday: Monday=1, Sunday=7
+    days_since_wednesday = (weekday - 3) % 7 # Days since last Wednesday (Wednesday=3)
     last_wednesday = today - timedelta(days=days_since_wednesday)
     au_date = last_wednesday.strftime("%d-%m-%Y")
     return au_date
 
 class Coles_Scraper:
 
-    coles_seo_codes = []
+    #public variables
+    coles_seo_codes: list[str] = []  # public list of SEO codes
+
+    # private variables
+    __coles_browse_url = "https://www.coles.com.au/browse"
     __build_id = "0"
-    __coles_status_csv = "Coles/coles_status.csv"
+    __coles_status_csv = "Coles/coles_status.csv" # this is currently not being used
     __csv_dump_loc = "Coles/"
     __status = pd.DataFrame()
     __current_we = ""
 
-    def __init__(self, ssid):
+    def __init__(self, ssid: str):
+        """
+            Initializes a Coles scraping session:
+            1. Sets the current week based on the last Wednesday.
+            2. Creates the CSV dump directory for this week.
+            3. Initializes a Web_Getter session using the given Wi-Fi SSID.
+            4. Fetches the Coles browse page to extract the current build ID.
+            5. Extracts all product category SEO tokens for scraping.
+        """
         print("\n ============================== Initialising Coles Session ... ============================== ")
 
         week = get_previous_wednesday()
@@ -43,7 +54,7 @@ class Coles_Scraper:
             "As you were browsing something about your browser made us think you were a bot"
         )
 
-        soup = self.getter.get_html("https://www.coles.com.au/browse")
+        soup = self.getter.get_html(self.__coles_browse_url)
         next_data = soup.find('script', id='__NEXT_DATA__')
         json_data = json.loads(next_data.string)
 
@@ -51,22 +62,22 @@ class Coles_Scraper:
         print(f"Coles Build ID: {self.__build_id}")
 
         categories = json_data["props"]["pageProps"]["allProductCategories"]["catalogGroupView"]
-        return_cat = []
+        coles_categories = []
         for cat in categories:
-            return_cat.append(cat["seoToken"])
-        print(f"Found categories {return_cat}")
-        self.coles_seo_codes = return_cat
+            coles_categories.append(cat["seoToken"])
+        print(f"Found categories {coles_categories}")
+        self.coles_seo_codes = coles_categories
 
     def scrape_all_inner_categories(self):
-        current = 1
-        for seo_code in self.coles_seo_codes:
-            if seo_code != "pantry":
-                continue
-            print(f"\n ==================== Processing Category: {seo_code} [{current} / {len(self.coles_seo_codes)}]====================")
+        for index, seo_code in enumerate(self.coles_seo_codes, start = 1):
+            print(f"\n ==================== Processing Category: {seo_code} [{index} / {len(self.coles_seo_codes)}]====================")
             self.scrape_inner_category(seo_code)
-            current = current + 1
 
-    def scrape_inner_category(self, seo_code):
+    def scrape_inner_category(self, seo_code: str):
+        """
+        Scrapes product and category data for a given Coles category, saves each page as CSV,
+        and handles pagination, skipping already downloaded pages.
+        """
         cur_page = 1
         num_of_pages = 1
         while cur_page <= num_of_pages:
@@ -75,7 +86,7 @@ class Coles_Scraper:
             if (os.path.exists(write_csv_path + f"/{cur_page}_product.csv") or
                 os.path.exists(write_csv_path + f"/{cur_page}_hier.csv")):
                 print(f">> Skipping page {cur_page}")
-                cur_page = cur_page + 1
+                cur_page += 1
                 continue
 
             os.makedirs(write_csv_path, exist_ok=True)
@@ -103,12 +114,12 @@ class Coles_Scraper:
             product_col = ["prodid", "brand", "name", "size", "current_price", "full_price","raw_description"]
             hier_col    = ["prodid", "aisle", "category", "subcategory", "aisle_id", "category_id", "subcategory_id"]
 
-            num_rows = 0
+            valid_prod_count = 0
             for prod in products:
                 # if these are not products or ads we just skip for now
                 if prod["_type"] != "PRODUCT" or prod["adSource"]:
                     continue
-                num_rows += 1
+                valid_prod_count += 1
                 current_price = None
                 full_price = None
                 pricing = prod.get("pricing")
@@ -145,9 +156,7 @@ class Coles_Scraper:
             product_df.to_csv(write_csv_path + f"/{cur_page}_product.csv", mode='w', header=True, index=False)
             hier_df.to_csv   (write_csv_path + f"/{cur_page}_hier.csv"   , mode='w', header=True, index=False)
 
-            print(f">> Processed Page {cur_page} / {num_of_pages} [✔] >> [{num_rows}] products validated")
+            print(f">> Processed Page {cur_page} / {num_of_pages} [✔] >> [{valid_prod_count}] products validated")
 
-            # try not to get banned
-            time.sleep(10)
-            # go next page / or loop
-            cur_page += 1
+            time.sleep(10) # try not to get banned
+            cur_page += 1 # go next page / or loop
