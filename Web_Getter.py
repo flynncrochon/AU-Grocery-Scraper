@@ -1,7 +1,7 @@
 import json
 #import demjson3
-import json5
-
+#import json5
+import re
 from bs4 import BeautifulSoup
 
 from curl_cffi import requests as cureq
@@ -71,7 +71,9 @@ class Web_Getter:
             try:
                 resp = requests.get(url_link).text_content()
                 #return json.loads(resp)
-                return json.loads(resp)
+                fix_resp = re.sub(r'(?<=\d)"(?=")', r'\"', resp)
+                return json.loads(fix_resp)
+            
             except Exception as e:
                 print(f".GET ERROR (trying to connect to ssid): {e}")
                 #with open("test_json.txt", "w") as file:
