@@ -1,15 +1,9 @@
 import json
-#import demjson3
-#import json5
 import re
 from bs4 import BeautifulSoup
-
 from curl_cffi import requests as cureq
 import stealth_requests as requests
-#import cloudscraper
-
 import Ip_Manager
-
 import time
 import random
 
@@ -64,7 +58,7 @@ class Web_Getter:
             Returns the parsed JSON as a Python dictionary.
         """
         Ip_Manager.reconnect_to_mobile()
-        #headers["referer"] = referer
+        headers["referer"] = referer
         #session = cureq.Session(impersonate="chrome120", headers=headers)
         #resp = requests.get(url_link).text_content()
         while True:
