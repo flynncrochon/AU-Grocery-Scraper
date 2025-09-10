@@ -6,6 +6,7 @@ import stealth_requests as requests
 import Ip_Manager
 import time
 import random
+from json_repair import repair_json
 
 user_agents = [
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/139.0.0.0 Safari/537.36",
@@ -65,12 +66,13 @@ class Web_Getter:
             try:
                 resp = requests.get(url_link).text_content()
                 #return json.loads(resp)
-                fix_resp = re.sub(r'(?<=\d)"(?=")', r'\"', resp)
+                #fix_resp = re.sub(r'(?<=\d)"(?=")', r'\"', resp)
+                fix_resp = repair_json(resp)
                 return json.loads(fix_resp)
             
             except Exception as e:
                 print(f".GET ERROR (trying to connect to ssid): {e}")
                 #with open("test_json.txt", "w") as file:
-                #    file.write(resp)
+                    #file.write(fix_resp)
                 #exit()
                 Ip_Manager.reconnect_to_mobile()
