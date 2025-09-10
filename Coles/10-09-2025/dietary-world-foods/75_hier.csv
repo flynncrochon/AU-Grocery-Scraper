@@ -1,0 +1,122 @@
+prodid,aisle,category,subcategory,aisle_id,category_id,subcategory_id
+8883391,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+8883391,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+8883391,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+8893963,Dairy & Lactose Free,Free From,Dietary & World Foods,675006051,674114623,674112512
+8893963,Lactose Free-Milk,Long Life-Milk,"Dairy, Eggs & Fridge",8895208,8895200,1300
+8893963,Lactose Free Milk,Long-Life Milk,Drinks,98667,98629,11456
+8900253,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+8900253,Muesli Bars & Fruit Snacks,Snacks,"Chips, Chocolates & Snacks",8916227,8916204,8916201
+8905825,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+8905825,Muesli Bars & Fruit Snacks,Snacks,"Chips, Chocolates & Snacks",8916227,8916204,8916201
+8907220,Healthy Cooking,Health Foods,Pantry,12083,10301,10302
+8907220,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+8907220,Flour,Baking,Pantry,8313,8756,10302
+8907220,Yeast & Baking Agents,Baking,Pantry,8358,8756,10302
+8907252,Healthy Cooking,Health Foods,Pantry,12083,10301,10302
+8907252,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+8907252,Flour,Baking,Pantry,8313,8756,10302
+8907252,Yeast & Baking Agents,Baking,Pantry,8358,8756,10302
+8914677,Liquor,Vegan & Vegetarian,Dietary & World Foods,675078682,674136793,674112512
+8914677,Sparkling,Champagne & Sparkling,Liquorland,8898626,8898625,85946
+8914677,Prosecco,Champagne & Sparkling,Liquorland,8899800,8898625,85946
+8914983,Bakery,Vegan & Vegetarian,Dietary & World Foods,675073922,674136793,674112512
+8914983,Cookies,Instore Bakery Sweet Treats,Bakery,8892963,8892913,8892906
+8916264,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+8916264,"Falafels, Soy & Tofu",Vegan & Vegetarian,Dietary & World Foods,675076165,674136793,674112512
+8916264,Tofu,Vegetarian & Vegan,"Dairy, Eggs & Fridge",6774666,4778877,1300
+8917529,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+8917529,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+8917529,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+8918441,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+8918441,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+8918441,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+8918510,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+8918510,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+8918510,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+8922019,Bakery,Vegan & Vegetarian,Dietary & World Foods,675073922,674136793,674112512
+8922019,Brioche,Packaged Bread Rolls And Buns,Bakery,8892936,8892910,8892906
+8922019,Sweet Brioche,Packaged Cakes & Sweet Treats,Bakery,8892993,8892916,8892906
+8923587,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+8923587,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+8923587,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+8923995,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+8923995,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+8934765,Chinese,World Foods,Dietary & World Foods,675102473,674113139,674112512
+8934765,Asian Foods,Dairy World Foods,"Dairy, Eggs & Fridge",8911603,8911600,1300
+8938540,Japanese,World Foods,Dietary & World Foods,675104352,674113139,674112512
+8938540,Craft Beer,Beer,Liquorland,8898632,89715,85946
+8938562,Japanese,World Foods,Dietary & World Foods,675104352,674113139,674112512
+8938562,Craft Beer,Beer,Liquorland,8898632,89715,85946
+8940564,Korean,World Foods,Dietary & World Foods,675104741,674113139,674112512
+8940564,Frozen Asian Foods,Frozen World Food,Frozen,8905202,8905201,85471
+8940575,Frozen,Vegan & Vegetarian,Dietary & World Foods,675077296,674136793,674112512
+8940575,Korean,World Foods,Dietary & World Foods,675104741,674113139,674112512
+8940575,Frozen Asian Foods,Frozen World Food,Frozen,8905202,8905201,85471
+8946210,British,World Foods,Dietary & World Foods,675097934,674113139,674112512
+8946210,Uk,International Foods,Pantry,8904814,8904802,10302
+8946210,World Foods,Pantry Items,Down Down,8906043,8906014,8906007
+8949026,Chinese,World Foods,Dietary & World Foods,675102473,674113139,674112512
+8949026,Frozen Asian Foods,Frozen World Food,Frozen,8905202,8905201,85471
+8949059,Chinese,World Foods,Dietary & World Foods,675102473,674113139,674112512
+8949059,Frozen Asian Foods,Frozen World Food,Frozen,8905202,8905201,85471
+8949128,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+8949128,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+8949139,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+8949139,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+8951040,Frozen,Vegan & Vegetarian,Dietary & World Foods,675077296,674136793,674112512
+8951040,Ice Cream Sticks,Ice Cream,Frozen,85638,85614,85471
+8951050,Bakery,Vegan & Vegetarian,Dietary & World Foods,675073922,674136793,674112512
+8951050,Baguettes,Instore Bakery Breads And Rolls,Bakery,8892923,8892907,8892906
+8951050,All Vegan Range,Vegan Range,Bakery,8897801,8897800,8892906
+8951196,Bakery,Vegan & Vegetarian,Dietary & World Foods,675073922,674136793,674112512
+8951196,Bread Loaves,Instore Bakery Breads And Rolls,Bakery,8893201,8892907,8892906
+8951301,Bakery,Vegan & Vegetarian,Dietary & World Foods,675073922,674136793,674112512
+8951301,Bread Loaves,Instore Bakery Breads And Rolls,Bakery,8893201,8892907,8892906
+8951301,All Vegan Range,Vegan Range,Bakery,8897801,8897800,8892906
+8951356,On The Go,Breakfast,Pantry,18741,7294,10302
+8951356,Low GI,Health Foods & Diet,Dietary & World Foods,675043270,674135563,674112512
+8951924,On The Go,Breakfast,Pantry,18741,7294,10302
+8951924,Low GI,Health Foods & Diet,Dietary & World Foods,675043270,674135563,674112512
+8951924,Protein Drinks & Shakes,Sports Nutrition,Dietary & World Foods,675073004,674136101,674112512
+8962090,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+8962090,Gluten Free Cereal,Breakfast,Pantry,8901200,7294,10302
+8962115,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+8962115,Gluten Free Cereal,Breakfast,Pantry,8901200,7294,10302
+8962126,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+8962126,Gluten Free Cereal,Breakfast,Pantry,8901200,7294,10302
+8962137,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+8962137,Gluten Free Cereal,Breakfast,Pantry,8901200,7294,10302
+8962523,Bakery,Vegan & Vegetarian,Dietary & World Foods,675073922,674136793,674112512
+8962523,Slices & Bites,Packaged Cakes & Sweet Treats,Bakery,8892994,8892916,8892906
+8962523,Cakes & Snacks,Bread & Bakery,Down Down,8906022,8906009,8906007
+8968927,Chinese,World Foods,Dietary & World Foods,675102473,674113139,674112512
+8968927,Frozen Asian Foods,Frozen World Food,Frozen,8905202,8905201,85471
+8968949,Weight Management,Health Foods & Diet,Dietary & World Foods,675045539,674135563,674112512
+8968949,Protein Powders,Sports Nutrition,Dietary & World Foods,675072653,674136101,674112512
+8968949,Nutrition Powders,Health Foods Sports Nutrition & Diet,Pantry,8895605,8895600,10302
+8969486,Chinese,World Foods,Dietary & World Foods,675102473,674113139,674112512
+8969486,Frozen Asian Foods,Frozen World Food,Frozen,8905202,8905201,85471
+8969588,Weight Management,Health Foods & Diet,Dietary & World Foods,675045539,674135563,674112512
+8969588,Protein Powders,Sports Nutrition,Dietary & World Foods,675072653,674136101,674112512
+8969588,Nutrition Powders,Health Foods Sports Nutrition & Diet,Pantry,8895605,8895600,10302
+8969602,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+8969602,"Energy, Sports Drinks & Supplements",Sports Nutrition,Dietary & World Foods,675071005,674136101,674112512
+8969602,Protein Drinks & Shakes,Sports Nutrition,Dietary & World Foods,675073004,674136101,674112512
+8969602,Rtd Protein Shakes,Health Foods Sports Nutrition & Diet,Pantry,8895606,8895600,10302
+8969602,Healthier Foods,Pantry Items,Down Down,8906040,8906014,8906007
+8972436,Dairy & Lactose Free,Free From,Dietary & World Foods,675006051,674114623,674112512
+8972436,Specialty Milk,Milk,"Dairy, Eggs & Fridge",8881805,8881800,1300
+8979537,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+8979537,Salad Dressings,Pickled Vegetables & Condiments,Pantry,9129,9232,10302
+8979548,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+8979548,Salad Dressings,Pickled Vegetables & Condiments,Pantry,9129,9232,10302
+8979581,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+8979581,Salad Dressings,Pickled Vegetables & Condiments,Pantry,9129,9232,10302
+8985540,Italian,World Foods,Dietary & World Foods,675103734,674113139,674112512
+8985540,Dried Herbs & Spices,Herbs & Spices,Pantry,7927,8285,10302
+8986033,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+8986033,Muesli Bars & Fruit Snacks,Snacks,"Chips, Chocolates & Snacks",8916227,8916204,8916201
+8986124,Egg Free,Free From,Dietary & World Foods,675007331,674114623,674112512
+8986124,Pantry,Vegan & Vegetarian,Dietary & World Foods,675080037,674136793,674112512
+8986124,Mayonnaise,Pickled Vegetables & Condiments,Pantry,9139,9232,10302

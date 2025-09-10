@@ -1,0 +1,115 @@
+prodid,aisle,category,subcategory,aisle_id,category_id,subcategory_id
+1038508,Flavoured Milk,Milk,"Dairy, Eggs & Fridge",8881804,8881800,1300
+7738604,Chilled Dairy Desserts,Dairy Desserts,"Dairy, Eggs & Fridge",8915813,8915802,1300
+9082489,Chilled Garlic & Specialty Breads,Garlic Bread & Pastry Sheets,"Dairy, Eggs & Fridge",2156111,756654,1300
+2803811,On the Go,Chilled Juice,"Dairy, Eggs & Fridge",693421495,693421331,1300
+2803811,Chilled Juice,Juice,Drinks,98640,98624,11456
+1435530,Packaged Deli Meat,Packaged Deli Meats,"Dairy, Eggs & Fridge",795551,79555,1300
+1988438,Cheddar & Tasty Cheese,Cheese,"Dairy, Eggs & Fridge",8882204,8882200,1300
+1988438,Cheddar,Gourmet Cheese,Deli,8892751,8892750,8892715
+1988438,Gourmet Cheese,Cheese,"Dairy, Eggs & Fridge",8915809,8882200,1300
+4938425,Dips,Dips & Pate,"Dairy, Eggs & Fridge",8915814,8915803,1300
+1059279,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+1059279,Specialty Eggs,Eggs,"Dairy, Eggs & Fridge",8882003,246656,1300
+1059279,Grab & Go Snacks,Ready To Eat Meals,"Dairy, Eggs & Fridge",8904816,477564,1300
+6934800,Hard Cheese,Gourmet Cheese,Deli,8892803,8892750,8892715
+6934800,Gourmet Cheese,Cheese,"Dairy, Eggs & Fridge",8915809,8882200,1300
+6284680,Packaged Deli Meat,Packaged Deli Meats,"Dairy, Eggs & Fridge",795551,79555,1300
+6284680,Packaged Salami & Kabana,Packaged Deli Meats,"Dairy, Eggs & Fridge",795554,79555,1300
+6284680,Salami & Kabana Packaged,Deli Packaged Meat,Deli,8901804,8901800,8892715
+7729986,Italian Meals & Pasta,Ready To Eat Meals,"Dairy, Eggs & Fridge",15213,477564,1300
+7729986,Fresh Pasta & Noodles,Fresh Pasta & Sauces,"Dairy, Eggs & Fridge",421112,777844,1300
+7729986,Italian,World Foods,Dietary & World Foods,675103734,674113139,674112512
+8067640,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+8067640,Snacking,Vegan & Vegetarian,Dietary & World Foods,675081613,674136793,674112512
+8067640,Vegetarian Snacking,Vegetarian & Vegan,"Dairy, Eggs & Fridge",8894401,4778877,1300
+8551777,"Meat, Dairy & Eggs",Organic,Dietary & World Foods,675068803,674135800,674112512
+8551777,Cheddar & Tasty Cheese,Cheese,"Dairy, Eggs & Fridge",8882204,8882200,1300
+8551777,Cheddar,Gourmet Cheese,Deli,8892751,8892750,8892715
+8562274,Blue Cheese,Cheese,"Dairy, Eggs & Fridge",8882202,8882200,1300
+8562274,Deli Blue Cheese,Gourmet Cheese,Deli,8892754,8892750,8892715
+8562274,Gourmet Cheese,Cheese,"Dairy, Eggs & Fridge",8915809,8882200,1300
+9536258,Grated Cheese,Cheese,"Dairy, Eggs & Fridge",8882210,8882200,1300
+9990648,Italian Meals & Pasta,Ready To Eat Meals,"Dairy, Eggs & Fridge",15213,477564,1300
+9990648,Pasta Sauces,Fresh Pasta & Sauces,"Dairy, Eggs & Fridge",621674,777844,1300
+9990648,Italian,World Foods,Dietary & World Foods,675103734,674113139,674112512
+3246889,Single Serve,Yoghurt,"Dairy, Eggs & Fridge",8915822,8915804,1300
+3844520,Nut Free,Free From,Dietary & World Foods,675024750,674114623,674112512
+3844520,Soy Free,Free From,Dietary & World Foods,675024759,674114623,674112512
+3844520,"Cheese, Yoghurt & Dairy",Halal,Dietary & World Foods,675040491,674135336,674112512
+3844520,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+3844520,Grated Cheese,Cheese,"Dairy, Eggs & Fridge",8882210,8882200,1300
+3844520,Vegan Cheese,Vegetarian & Vegan,"Dairy, Eggs & Fridge",8909600,4778877,1300
+9954622,Italian Meals & Pasta,Ready To Eat Meals,"Dairy, Eggs & Fridge",15213,477564,1300
+9954622,Pasta Sauces,Fresh Pasta & Sauces,"Dairy, Eggs & Fridge",621674,777844,1300
+9954622,Italian,World Foods,Dietary & World Foods,675103734,674113139,674112512
+6767243,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+6767243,Veggie Sausages & Burgers,Vegan & Vegetarian,Dietary & World Foods,675083144,674136793,674112512
+6767243,Veggie Burgers & Sausages,Vegetarian & Vegan,"Dairy, Eggs & Fridge",878734,4778877,1300
+3896931,Drinks,Halal,Dietary & World Foods,675040493,674135336,674112512
+3896931,Kombucha & Coconut Water,Chilled Juice,"Dairy, Eggs & Fridge",693422410,693421331,1300
+3896931,Kombucha & Other Drinks,Soft Drinks,Drinks,98631,98621,11456
+3896931,Chilled Juice,Juice,Drinks,98640,98624,11456
+3951359,Drinks,Halal,Dietary & World Foods,675040493,674135336,674112512
+3951359,Kombucha & Coconut Water,Chilled Juice,"Dairy, Eggs & Fridge",693422410,693421331,1300
+3951359,Chilled Juice,Juice,Drinks,98640,98624,11456
+4357230,Egg Free,Free From,Dietary & World Foods,675007331,674114623,674112512
+4357230,Custards,Cream & Custard,"Dairy, Eggs & Fridge",8915811,8915801,1300
+6580526,Cheddar & Tasty Cheese,Cheese,"Dairy, Eggs & Fridge",8882204,8882200,1300
+6580526,Cheddar,Gourmet Cheese,Deli,8892751,8892750,8892715
+6580526,Gourmet Cheese,Cheese,"Dairy, Eggs & Fridge",8915809,8882200,1300
+1018577,Flavoured Milk,Milk,"Dairy, Eggs & Fridge",8881804,8881800,1300
+1018577,Single Cans,Energy Drinks,Drinks,8893443,8893442,11456
+1108465,Packaged Deli Meat,Packaged Deli Meats,"Dairy, Eggs & Fridge",795551,79555,1300
+1108465,"New Salami, Prosciutto & Soppressa",NEW Sliced Meats,Deli,849218142,849217995,8892715
+1323694,Packaged Deli Meat,Packaged Deli Meats,"Dairy, Eggs & Fridge",795551,79555,1300
+3467902,Pizzas,Ready To Eat Meals,"Dairy, Eggs & Fridge",546777,477564,1300
+3467902,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+3516350,Egg Free,Free From,Dietary & World Foods,675007331,674114623,674112512
+3516350,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+3516350,Veggie Sausages & Burgers,Vegan & Vegetarian,Dietary & World Foods,675083144,674136793,674112512
+3516350,Veggie Burgers & Sausages,Vegetarian & Vegan,"Dairy, Eggs & Fridge",878734,4778877,1300
+3560453,Blue Cheese,Cheese,"Dairy, Eggs & Fridge",8882202,8882200,1300
+3560453,Deli Blue Cheese,Gourmet Cheese,Deli,8892754,8892750,8892715
+3560453,Gourmet Cheese,Cheese,"Dairy, Eggs & Fridge",8915809,8882200,1300
+7829244,Fresh Juice,Chilled Juice,"Dairy, Eggs & Fridge",693421910,693421331,1300
+7829244,Chilled Juice,Juice,Drinks,98640,98624,11456
+8067468,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+8067468,Snacking,Vegan & Vegetarian,Dietary & World Foods,675081613,674136793,674112512
+8067468,Vegetarian Snacking,Vegetarian & Vegan,"Dairy, Eggs & Fridge",8894401,4778877,1300
+1988460,Cheddar & Tasty Cheese,Cheese,"Dairy, Eggs & Fridge",8882204,8882200,1300
+1988460,Cheddar,Gourmet Cheese,Deli,8892751,8892750,8892715
+1988460,Gourmet Cheese,Cheese,"Dairy, Eggs & Fridge",8915809,8882200,1300
+2746966,Drinks,Halal,Dietary & World Foods,675040493,674135336,674112512
+2746966,Kombucha & Coconut Water,Chilled Juice,"Dairy, Eggs & Fridge",693422410,693421331,1300
+2746966,Chilled Juice,Juice,Drinks,98640,98624,11456
+2882895,Dips,Dips & Pate,"Dairy, Eggs & Fridge",8915814,8915803,1300
+4954487,Dips,Dips & Pate,"Dairy, Eggs & Fridge",8915814,8915803,1300
+7272993,On the Go,Chilled Juice,"Dairy, Eggs & Fridge",693421495,693421331,1300
+7272993,Chilled Juice,Juice,Drinks,98640,98624,11456
+7273023,On the Go,Chilled Juice,"Dairy, Eggs & Fridge",693421495,693421331,1300
+7273023,Chilled Juice,Juice,Drinks,98640,98624,11456
+7738502,Chilled Dairy Desserts,Dairy Desserts,"Dairy, Eggs & Fridge",8915813,8915802,1300
+3246856,Single Serve,Yoghurt,"Dairy, Eggs & Fridge",8915822,8915804,1300
+1988529,Cheddar & Tasty Cheese,Cheese,"Dairy, Eggs & Fridge",8882204,8882200,1300
+1988529,Cheddar,Gourmet Cheese,Deli,8892751,8892750,8892715
+1988529,Gourmet Cheese,Cheese,"Dairy, Eggs & Fridge",8915809,8882200,1300
+1988551,Cheddar & Tasty Cheese,Cheese,"Dairy, Eggs & Fridge",8882204,8882200,1300
+1988551,Cheddar,Gourmet Cheese,Deli,8892751,8892750,8892715
+1988551,Gourmet Cheese,Cheese,"Dairy, Eggs & Fridge",8915809,8882200,1300
+5788496,Drinks,Organic,Dietary & World Foods,675068242,674135800,674112512
+5788496,Kombucha & Coconut Water,Chilled Juice,"Dairy, Eggs & Fridge",693422410,693421331,1300
+5788496,Chilled Juice,Juice,Drinks,98640,98624,11456
+4930638,Drinks,Organic,Dietary & World Foods,675068242,674135800,674112512
+4930638,Oat Milk,Long Life-Milk,"Dairy, Eggs & Fridge",8895207,8895200,1300
+4930638,Oat Milk,Long-Life Milk,Drinks,98666,98629,11456
+1018067,Flavoured Milk,Milk,"Dairy, Eggs & Fridge",8881804,8881800,1300
+1018067,Single Cans,Energy Drinks,Drinks,8893443,8893442,11456
+1108432,Packaged Deli Meat,Packaged Deli Meats,"Dairy, Eggs & Fridge",795551,79555,1300
+1108432,New Sliced Poultry,NEW Sliced Meats,Deli,849218306,849217995,8892715
+1108432,Meat Packaged,Deli Packaged Meat,Deli,8901801,8901800,8892715
+8879601,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+8879601,"Falafels, Soy & Tofu",Vegan & Vegetarian,Dietary & World Foods,675076165,674136793,674112512
+8879601,Tofu,Vegetarian & Vegan,"Dairy, Eggs & Fridge",6774666,4778877,1300
+3454332,On the Go,Chilled Juice,"Dairy, Eggs & Fridge",693421495,693421331,1300
+3454332,Chilled Juice,Juice,Drinks,98640,98624,11456

@@ -1,0 +1,127 @@
+prodid,aisle,category,subcategory,aisle_id,category_id,subcategory_id
+3405825,Healthy Cooking,Health Foods,Pantry,12083,10301,10302
+3405825,Super Foods & Functional Foods,Health Foods & Diet,Dietary & World Foods,675044379,674135563,674112512
+3405825,Pantry Essentials,Organic,Dietary & World Foods,675069508,674135800,674112512
+3405847,Super Foods & Functional Foods,Health Foods & Diet,Dietary & World Foods,675044379,674135563,674112512
+3405847,Protein Powders,Sports Nutrition,Dietary & World Foods,675072653,674136101,674112512
+3405847,Healthy Snacks,Health Foods,Pantry,8888005,10301,10302
+3406114,Super Foods & Functional Foods,Health Foods & Diet,Dietary & World Foods,675044379,674135563,674112512
+3406114,Pantry Essentials,Organic,Dietary & World Foods,675069508,674135800,674112512
+3406114,Healthy Snacks,Health Foods,Pantry,8888005,10301,10302
+3407300,"Cheese, Yoghurt & Dairy",Halal,Dietary & World Foods,675040491,674135336,674112512
+3407300,Frozen,Halal,Dietary & World Foods,675040518,674135336,674112512
+3407300,Frozen,Vegan & Vegetarian,Dietary & World Foods,675077296,674136793,674112512
+3407300,Ice Cream Sticks,Ice Cream,Frozen,85638,85614,85471
+3407300,Premium Ice Cream,Ice Cream,Frozen,85640,85614,85471
+3410268,Pantry,Vegan & Vegetarian,Dietary & World Foods,675080037,674136793,674112512
+3410268,"Pickles, Chutney & Relish",Pickled Vegetables & Condiments,Pantry,9101,9232,10302
+3410326,Instant Meals & Sides,"Canned Food, Soups & Noodles",Pantry,10024,10146,10302
+3410326,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+3410326,Noodles,"Canned Food, Soups & Noodles",Pantry,9689,10146,10302
+3412478,Egg Free,Free From,Dietary & World Foods,675007331,674114623,674112512
+3412478,Chips,Frozen Chips & Wedges,Frozen,85620,85991,85471
+3412478,Hashbrowns,Frozen Chips & Wedges,Frozen,85621,85991,85471
+3412478,Other Vegetables,Frozen Vegetables,Frozen,85659,85618,85471
+3434856,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+3434856,Popcorn,Snacks,"Chips, Chocolates & Snacks",8916225,8916204,8916201
+3447643,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+3447643,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+3447643,Savoury Spreads,"Jams, Honey & Spreads",Pantry,8881204,8881200,10302
+3448293,Mushrooms,Vegetables,Fruit & Vegetables,545641,1303,2100
+3448293,Fruit & Veg,Organic,Dietary & World Foods,675065753,674135800,674112512
+3448293,Organic Vegetables,Vegetables,Fruit & Vegetables,879564,1303,2100
+3448293,Organic Vegetables,Organic Fruits & Vegetables,Fruit & Vegetables,8892203,8892201,2100
+344859,Indonesia,World Foods,Dietary & World Foods,679714926,674113139,674112512
+344859,Asian,International Foods,Pantry,8904804,8904802,10302
+3454682,Sugar Free,Free From,Dietary & World Foods,675024784,674114623,674112512
+3454682,Mints,"Gum, Mints & Lozenges","Chips, Chocolates & Snacks",8916222,8916203,8916201
+3454707,Sugar Free,Free From,Dietary & World Foods,675024784,674114623,674112512
+3454707,Mints,"Gum, Mints & Lozenges","Chips, Chocolates & Snacks",8916222,8916203,8916201
+3454718,Sugar Free,Free From,Dietary & World Foods,675024784,674114623,674112512
+3454718,Mints,"Gum, Mints & Lozenges","Chips, Chocolates & Snacks",8916222,8916203,8916201
+3454729,Sugar Free,Free From,Dietary & World Foods,675024784,674114623,674112512
+3454729,Mints,"Gum, Mints & Lozenges","Chips, Chocolates & Snacks",8916222,8916203,8916201
+3455313,Sugar Free,Free From,Dietary & World Foods,675024784,674114623,674112512
+3455313,Gum,"Gum, Mints & Lozenges","Chips, Chocolates & Snacks",8916221,8916203,8916201
+3455324,Sugar Free,Free From,Dietary & World Foods,675024784,674114623,674112512
+3455324,Gum,"Gum, Mints & Lozenges","Chips, Chocolates & Snacks",8916221,8916203,8916201
+3470500,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+3470500,Weight Management,Health Foods & Diet,Dietary & World Foods,675045539,674135563,674112512
+3470500,"Energy, Sports Drinks & Supplements",Sports Nutrition,Dietary & World Foods,675071005,674136101,674112512
+3470500,Rtd Protein Shakes,Health Foods Sports Nutrition & Diet,Pantry,8895606,8895600,10302
+3474271,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+3474271,Indian,International Foods,Pantry,8904806,8904802,10302
+3474282,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+3474282,Indian,International Foods,Pantry,8904806,8904802,10302
+3475693,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+3475693,Indian,International Foods,Pantry,8904806,8904802,10302
+3476517,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+3476517,"Energy, Sports Drinks & Supplements",Sports Nutrition,Dietary & World Foods,675071005,674136101,674112512
+3476517,Collagen,Health Foods Sports Nutrition & Diet,Pantry,8895601,8895600,10302
+3476925,Bakery,Vegan & Vegetarian,Dietary & World Foods,675073922,674136793,674112512
+3476925,Brioche,Packaged Bread Rolls And Buns,Bakery,8892936,8892910,8892906
+3476925,Sweet Brioche,Packaged Cakes & Sweet Treats,Bakery,8892993,8892916,8892906
+3478807,Drinks,Organic,Dietary & World Foods,675068242,674135800,674112512
+3478807,Oat Milk,Long Life-Milk,"Dairy, Eggs & Fridge",8895207,8895200,1300
+3478807,Oat Milk,Long-Life Milk,Drinks,98666,98629,11456
+3478997,Mexican,World Foods,Dietary & World Foods,675105516,674113139,674112512
+3478997,Mexican,International Foods,Pantry,8904810,8904802,10302
+3479027,Mexican,World Foods,Dietary & World Foods,675105516,674113139,674112512
+3479027,Mexican,International Foods,Pantry,8904810,8904802,10302
+3479173,Mexican,World Foods,Dietary & World Foods,675105516,674113139,674112512
+3479173,Mexican,International Foods,Pantry,8904810,8904802,10302
+3489508,"Meat, Dairy & Eggs",Organic,Dietary & World Foods,675068803,674135800,674112512
+3489508,Organic Beef,Organic Meat,Meat & Seafood,8892685,8892684,7238
+3492932,Drinks,Organic,Dietary & World Foods,675068242,674135800,674112512
+3492932,Oat Milk,Long Life-Milk,"Dairy, Eggs & Fridge",8895207,8895200,1300
+3492932,Oat Milk,Long-Life Milk,Drinks,98666,98629,11456
+3492954,Drinks,Organic,Dietary & World Foods,675068242,674135800,674112512
+3492954,"Falafels, Soy & Tofu",Vegan & Vegetarian,Dietary & World Foods,675076165,674136793,674112512
+3492954,Soy Milk,Long Life-Milk,"Dairy, Eggs & Fridge",8895205,8895200,1300
+3492954,Soy Milk,Long-Life Milk,Drinks,98664,98629,11456
+3496423,Dairy & Lactose Free,Free From,Dietary & World Foods,675006051,674114623,674112512
+3496423,Almond & Other Nut Milk,Long Life-Milk,"Dairy, Eggs & Fridge",8895203,8895200,1300
+3496423,Almond & Other Nut Milk,Long-Life Milk,Drinks,98662,98629,11456
+3498917,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+3498917,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+3498917,Diet Slimming Aids,Health Foods Sports Nutrition & Diet,Pantry,8895602,8895600,10302
+3498917,Healthier Foods,Pantry Items,Down Down,8906040,8906014,8906007
+3499352,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+3499352,Sweet Chilli & Hot,Sauces,Pantry,9374,9373,10302
+3499771,Baby,Organic,Dietary & World Foods,675068241,674135800,674112512
+3499771,Baby Food Pouches,Baby & Toddler Food,Baby,8904017,8904003,15603
+3499782,Chia Seeds And Quinoa,Health Foods & Diet,Dietary & World Foods,675041421,674135563,674112512
+3499782,Baby,Organic,Dietary & World Foods,675068241,674135800,674112512
+3499782,Baby Food Pouches,Baby & Toddler Food,Baby,8904017,8904003,15603
+3500269,Breakfast Muesli,Breakfast,Pantry,18744,7294,10302
+3500269,Fodmap Friendly,Free From,Dietary & World Foods,675010715,674114623,674112512
+3500269,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+3500269,Low GI,Health Foods & Diet,Dietary & World Foods,675043270,674135563,674112512
+3500270,Breakfast Muesli,Breakfast,Pantry,18744,7294,10302
+3500270,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+3500270,Low GI,Health Foods & Diet,Dietary & World Foods,675043270,674135563,674112512
+3500291,Breakfast Muesli,Breakfast,Pantry,18744,7294,10302
+3500291,Low GI,Health Foods & Diet,Dietary & World Foods,675043270,674135563,674112512
+3500699,Protein Powders,Sports Nutrition,Dietary & World Foods,675072653,674136101,674112512
+3500699,Nutrition Powders,Health Foods Sports Nutrition & Diet,Pantry,8895605,8895600,10302
+3501250,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+3501250,Popcorn,Snacks,"Chips, Chocolates & Snacks",8916225,8916204,8916201
+3501691,Baby,Organic,Dietary & World Foods,675068241,674135800,674112512
+3501691,Baby & Toddler Snacks,Baby & Toddler Food,Baby,8904018,8904003,15603
+3505444,"Falafels, Soy & Tofu",Vegan & Vegetarian,Dietary & World Foods,675076165,674136793,674112512
+3505444,Dried Fruits & Fillings,Baking,Pantry,8734,8756,10302
+3505444,Dried Fruit,Nuts & Dried Fruit,Fruit & Vegetables,8892412,1723,2100
+3512825,Sugar Free,Free From,Dietary & World Foods,675024784,674114623,674112512
+3512825,Multipack Cans,Energy Drinks,Drinks,8893444,8893442,11456
+3516054,Coffee Beans,Coffee,Pantry,19891,19888,10302
+3516054,Drinks,Organic,Dietary & World Foods,675068242,674135800,674112512
+3516054,Beans Coffee,Coffee Drinks,Drinks,98656,98628,11456
+3517705,Drinks,Vegan & Vegetarian,Dietary & World Foods,675075656,674136793,674112512
+3517705,Flavoured Water,Water,Drinks,98638,98623,11456
+3519416,"Meat, Dairy & Eggs",Organic,Dietary & World Foods,675068803,674135800,674112512
+3519416,Butter,Butter & Margarine,"Dairy, Eggs & Fridge",8915806,8915800,1300
+3519755,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+3519755,All Gluten Free,Frozen Gluten Free,Frozen,8911201,8911200,85471
+3519802,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+3519802,Frozen,Vegan & Vegetarian,Dietary & World Foods,675077296,674136793,674112512
+3519802,All Gluten Free,Frozen Gluten Free,Frozen,8911201,8911200,85471

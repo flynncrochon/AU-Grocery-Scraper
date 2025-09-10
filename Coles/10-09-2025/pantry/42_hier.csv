@@ -1,0 +1,85 @@
+prodid,aisle,category,subcategory,aisle_id,category_id,subcategory_id
+242418,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+242418,Pasta,"Pasta, Rice, Legumes & Grains",Pantry,9539,9634,10302
+2426069,"Pickles, Chutney & Relish",Pickled Vegetables & Condiments,Pantry,9101,9232,10302
+24304,Black,Tea,Pantry,10230,10303,10302
+24304,Tea Black,Tea Drinks,Drinks,98647,98627,11456
+243498,Canned Meat,"Canned Food, Soups & Noodles",Pantry,9986,10146,10302
+2441561,Cake Decorating,Baking,Pantry,8374,8756,10302
+2441572,Cake Decorating,Baking,Pantry,8374,8756,10302
+2441641,Cake Decorating,Baking,Pantry,8374,8756,10302
+2441652,Cake Decorating,Baking,Pantry,8374,8756,10302
+2441765,Cake Decorating,Baking,Pantry,8374,8756,10302
+2441776,Cake Decorating,Baking,Pantry,8374,8756,10302
+2441801,Cake Decorating,Baking,Pantry,8374,8756,10302
+2441801,Cake & Bread Mixes,Baking,Pantry,8423,8756,10302
+2442032,Cake Decorating,Baking,Pantry,8374,8756,10302
+2442032,Cake & Bread Mixes,Baking,Pantry,8423,8756,10302
+2442054,Cake Decorating,Baking,Pantry,8374,8756,10302
+2442054,Cake & Bread Mixes,Baking,Pantry,8423,8756,10302
+2442291,Cake Decorating,Baking,Pantry,8374,8756,10302
+2442291,Cake & Bread Mixes,Baking,Pantry,8423,8756,10302
+2442360,Cake Decorating,Baking,Pantry,8374,8756,10302
+2442360,Cake & Bread Mixes,Baking,Pantry,8423,8756,10302
+2442429,Cake Decorating,Baking,Pantry,8374,8756,10302
+2442429,Cake & Bread Mixes,Baking,Pantry,8423,8756,10302
+2442440,Cake Decorating,Baking,Pantry,8374,8756,10302
+2442440,Cake & Bread Mixes,Baking,Pantry,8423,8756,10302
+244264,Fish & Seafood,"Canned Food, Soups & Noodles",Pantry,10091,10146,10302
+2454767,Salad Dressings,Pickled Vegetables & Condiments,Pantry,9129,9232,10302
+2454767,Mayonnaise,Pickled Vegetables & Condiments,Pantry,9139,9232,10302
+2454778,Fat Free,Free From,Dietary & World Foods,675010570,674114623,674112512
+2454778,Salad Dressings,Pickled Vegetables & Condiments,Pantry,9129,9232,10302
+2454778,Mayonnaise,Pickled Vegetables & Condiments,Pantry,9139,9232,10302
+2454789,Salad Dressings,Pickled Vegetables & Condiments,Pantry,9129,9232,10302
+2454789,Mayonnaise,Pickled Vegetables & Condiments,Pantry,9139,9232,10302
+2454790,Salad Dressings,Pickled Vegetables & Condiments,Pantry,9129,9232,10302
+2454790,Mayonnaise,Pickled Vegetables & Condiments,Pantry,9139,9232,10302
+2459352,Salad Dressings,Pickled Vegetables & Condiments,Pantry,9129,9232,10302
+2459363,Salad Dressings,Pickled Vegetables & Condiments,Pantry,9129,9232,10302
+2459385,Salad Dressings,Pickled Vegetables & Condiments,Pantry,9129,9232,10302
+2459396,Salad Dressings,Pickled Vegetables & Condiments,Pantry,9129,9232,10302
+2459400,Salad Dressings,Pickled Vegetables & Condiments,Pantry,9129,9232,10302
+246102,Dry Stock,Stocks & Gravy,Pantry,8297,8307,10302
+2471868,Dried Spices,Herbs & Spices,Pantry,8888270,8285,10302
+2471879,Dried Spices,Herbs & Spices,Pantry,8888270,8285,10302
+2473193,Salt & Pepper,Herbs & Spices,Pantry,8252,8285,10302
+2473193,Packet Seasonings,Herbs & Spices,Pantry,8286,8285,10302
+2474913,Healthy Cooking,Health Foods,Pantry,12083,10301,10302
+2474913,Fodmap Friendly,Free From,Dietary & World Foods,675010715,674114623,674112512
+2474913,Recipe & Meal Bases,Sauces,Pantry,9390,9373,10302
+2478197,Healthy Cooking,Health Foods,Pantry,12083,10301,10302
+2478197,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+2478197,Flour,Baking,Pantry,8313,8756,10302
+2478197,Yeast & Baking Agents,Baking,Pantry,8358,8756,10302
+2478200,Healthy Cooking,Health Foods,Pantry,12083,10301,10302
+2478200,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+2478200,Flour,Baking,Pantry,8313,8756,10302
+2478200,Yeast & Baking Agents,Baking,Pantry,8358,8756,10302
+2480508,Italian,World Foods,Dietary & World Foods,675103734,674113139,674112512
+2480508,Dried Herbs & Spices,Herbs & Spices,Pantry,7927,8285,10302
+2480530,Dried Spices,Herbs & Spices,Pantry,8888270,8285,10302
+2480541,Dried Spices,Herbs & Spices,Pantry,8888270,8285,10302
+2480552,Salt & Pepper,Herbs & Spices,Pantry,8252,8285,10302
+2481373,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+2481373,Healthy Snacks,Health Foods,Pantry,8888005,10301,10302
+2483380,Weight Management,Health Foods & Diet,Dietary & World Foods,675045539,674135563,674112512
+2483380,Protein Powders,Sports Nutrition,Dietary & World Foods,675072653,674136101,674112512
+2483380,Nutrition Powders,Health Foods Sports Nutrition & Diet,Pantry,8895605,8895600,10302
+2483390,Weight Management,Health Foods & Diet,Dietary & World Foods,675045539,674135563,674112512
+2483390,Protein Powders,Sports Nutrition,Dietary & World Foods,675072653,674136101,674112512
+2483390,Nutrition Powders,Health Foods Sports Nutrition & Diet,Pantry,8895605,8895600,10302
+2483426,Super Foods & Functional Foods,Health Foods & Diet,Dietary & World Foods,675044379,674135563,674112512
+2483426,Healthy Snacks,Health Foods,Pantry,8888005,10301,10302
+2483470,Super Foods & Functional Foods,Health Foods & Diet,Dietary & World Foods,675044379,674135563,674112512
+2483470,Healthy Snacks,Health Foods,Pantry,8888005,10301,10302
+2484644,Asian,International Foods,Pantry,8904804,8904802,10302
+2485002,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+2485002,Thai,World Foods,Dietary & World Foods,675108470,674113139,674112512
+2485002,Asian,International Foods,Pantry,8904804,8904802,10302
+2485068,Chinese,World Foods,Dietary & World Foods,675102473,674113139,674112512
+2485068,Asian,International Foods,Pantry,8904804,8904802,10302
+2494218,Japanese,World Foods,Dietary & World Foods,675104352,674113139,674112512
+2494218,Asian,International Foods,Pantry,8904804,8904802,10302
+2494229,Japanese,World Foods,Dietary & World Foods,675104352,674113139,674112512
+2494229,Asian,International Foods,Pantry,8904804,8904802,10302

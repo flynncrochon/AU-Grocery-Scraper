@@ -1,0 +1,96 @@
+prodid,aisle,category,subcategory,aisle_id,category_id,subcategory_id
+9757235,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+9757235,Pantry Essentials,Organic,Dietary & World Foods,675069508,674135800,674112512
+9757235,Japanese,World Foods,Dietary & World Foods,675104352,674113139,674112512
+9757235,Asian,International Foods,Pantry,8904804,8904802,10302
+9758544,Frozen,Vegan & Vegetarian,Dietary & World Foods,675077296,674136793,674112512
+9758544,Pastry Sheets,Frozen Pastry & Party Food,Frozen,85652,85616,85471
+9763205,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+9763205,"Pickles, Chutney & Relish",Pickled Vegetables & Condiments,Pantry,9101,9232,10302
+9763227,Fat Free,Free From,Dietary & World Foods,675010570,674114623,674112512
+9763227,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+9763227,"Pickles, Chutney & Relish",Pickled Vegetables & Condiments,Pantry,9101,9232,10302
+9765299,Thai,World Foods,Dietary & World Foods,675108470,674113139,674112512
+9765299,Asian,International Foods,Pantry,8904804,8904802,10302
+9768016,Korean,World Foods,Dietary & World Foods,675104741,674113139,674112512
+9768016,Asian,International Foods,Pantry,8904804,8904802,10302
+9776182,Fruit & Veg,Organic,Dietary & World Foods,675065753,674135800,674112512
+9776182,Beans & Legumes,"Pasta, Rice, Legumes & Grains",Pantry,9635,9634,10302
+9776182,Canned Beans & Legumes,"Canned Food, Soups & Noodles",Pantry,9679,10146,10302
+9776182,Canned Vegetables,"Canned Food, Soups & Noodles",Pantry,9964,10146,10302
+9776230,Fruit & Veg,Organic,Dietary & World Foods,675065753,674135800,674112512
+9776230,Beans & Legumes,"Pasta, Rice, Legumes & Grains",Pantry,9635,9634,10302
+9776230,Canned Beans & Legumes,"Canned Food, Soups & Noodles",Pantry,9679,10146,10302
+9776230,Canned Vegetables,"Canned Food, Soups & Noodles",Pantry,9964,10146,10302
+9776251,Fruit & Veg,Organic,Dietary & World Foods,675065753,674135800,674112512
+9776251,Beans & Legumes,"Pasta, Rice, Legumes & Grains",Pantry,9635,9634,10302
+9776251,Canned Beans & Legumes,"Canned Food, Soups & Noodles",Pantry,9679,10146,10302
+9776251,Canned Vegetables,"Canned Food, Soups & Noodles",Pantry,9964,10146,10302
+9778360,Super Foods & Functional Foods,Health Foods & Diet,Dietary & World Foods,675044379,674135563,674112512
+9778360,Healthy Snacks,Health Foods,Pantry,8888005,10301,10302
+9781499,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+9781499,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+9781499,Indian,International Foods,Pantry,8904806,8904802,10302
+9781499,Recipe & Meal Bases,Sauces,Pantry,9390,9373,10302
+9781580,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+9781580,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+9781580,Indian,International Foods,Pantry,8904806,8904802,10302
+9781580,Recipe & Meal Bases,Sauces,Pantry,9390,9373,10302
+9799359,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+9799359,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+9799359,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+9806851,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+9806851,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+9861463,Liquor,Vegan & Vegetarian,Dietary & World Foods,675078682,674136793,674112512
+9861463,Chardonnay,White Wine,Liquorland,89757,87939,85946
+9861532,Liquor,Vegan & Vegetarian,Dietary & World Foods,675078682,674136793,674112512
+9861532,Semillon Sauvignon Blanc,White Wine,Liquorland,8906050,87939,85946
+9861827,Liquor,Vegan & Vegetarian,Dietary & World Foods,675078682,674136793,674112512
+9861827,Cabernet Sauvignon & Blends,Red Wine,Liquorland,89748,87938,85946
+9861827,Other Red Wine Varieties,Red Wine,Liquorland,89753,87938,85946
+9861850,Peas & Beans,Vegetables,Fruit & Vegetables,637948,1303,2100
+9861850,Fruit & Veg,Organic,Dietary & World Foods,675065753,674135800,674112512
+9861850,Organic Vegetables,Vegetables,Fruit & Vegetables,879564,1303,2100
+9861850,Organic Vegetables,Organic Fruits & Vegetables,Fruit & Vegetables,8892203,8892201,2100
+9878386,Sugar Free,Free From,Dietary & World Foods,675024784,674114623,674112512
+9878386,Single Cans,Energy Drinks,Drinks,8893443,8893442,11456
+9878386,Other Cold Drinks,Cold Drinks,Drinks,8893458,8893454,11456
+9900816,Healthy Cooking,Health Foods,Pantry,12083,10301,10302
+9900816,Fodmap Friendly,Free From,Dietary & World Foods,675010715,674114623,674112512
+9900816,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+9900816,Pasta,"Pasta, Rice, Legumes & Grains",Pantry,9539,9634,10302
+9900850,Healthy Cooking,Health Foods,Pantry,12083,10301,10302
+9900850,Fodmap Friendly,Free From,Dietary & World Foods,675010715,674114623,674112512
+9900850,Pasta,"Pasta, Rice, Legumes & Grains",Pantry,9539,9634,10302
+9906903,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+9906903,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+9906903,Diet Slimming Aids,Health Foods Sports Nutrition & Diet,Pantry,8895602,8895600,10302
+9906903,Healthier Foods,Pantry Items,Down Down,8906040,8906014,8906007
+9919905,Thai,World Foods,Dietary & World Foods,675108470,674113139,674112512
+9919905,Asian,International Foods,Pantry,8904804,8904802,10302
+9928338,Capsules,Coffee,Pantry,19893,19888,10302
+9928338,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+9928338,Coffee Capsules,Coffee Drinks,Drinks,98658,98628,11456
+9933189,Low GI,Health Foods & Diet,Dietary & World Foods,675043270,674135563,674112512
+9933189,Sugar & Sweeteners,Baking,Pantry,8317,8756,10302
+9933564,Bakery,Vegan & Vegetarian,Dietary & World Foods,675073922,674136793,674112512
+9933564,Croissants & Pastries,Packaged Breakfast Snacks,Bakery,8892974,8892914,8892906
+9933713,Bakery,Vegan & Vegetarian,Dietary & World Foods,675073922,674136793,674112512
+9933713,Croissants & Pastries,Packaged Breakfast Snacks,Bakery,8892974,8892914,8892906
+9943819,Protein Powders,Sports Nutrition,Dietary & World Foods,675072653,674136101,674112512
+9961774,"Falafels, Soy & Tofu",Vegan & Vegetarian,Dietary & World Foods,675076165,674136793,674112512
+9961774,All Plant Based,Frozen Vegan & Vegetarian,Frozen,8911001,8911000,85471
+9978370,Italian Meals & Pasta,Ready To Eat Meals,"Dairy, Eggs & Fridge",15213,477564,1300
+9978370,Pasta Sauces,Fresh Pasta & Sauces,"Dairy, Eggs & Fridge",621674,777844,1300
+9978370,Italian,World Foods,Dietary & World Foods,675103734,674113139,674112512
+9978529,Italian Meals & Pasta,Ready To Eat Meals,"Dairy, Eggs & Fridge",15213,477564,1300
+9978529,Pasta Sauces,Fresh Pasta & Sauces,"Dairy, Eggs & Fridge",621674,777844,1300
+9978529,Italian,World Foods,Dietary & World Foods,675103734,674113139,674112512
+9978540,Italian Meals & Pasta,Ready To Eat Meals,"Dairy, Eggs & Fridge",15213,477564,1300
+9978540,Pasta Sauces,Fresh Pasta & Sauces,"Dairy, Eggs & Fridge",621674,777844,1300
+9978540,Italian,World Foods,Dietary & World Foods,675103734,674113139,674112512
+9978562,Italian Meals & Pasta,Ready To Eat Meals,"Dairy, Eggs & Fridge",15213,477564,1300
+9978562,Pasta Sauces,Fresh Pasta & Sauces,"Dairy, Eggs & Fridge",621674,777844,1300
+9978562,Italian,World Foods,Dietary & World Foods,675103734,674113139,674112512
+9992814,Italian Meals & Pasta,Ready To Eat Meals,"Dairy, Eggs & Fridge",15213,477564,1300
+9992814,Italian,World Foods,Dietary & World Foods,675103734,674113139,674112512

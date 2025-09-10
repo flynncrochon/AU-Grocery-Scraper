@@ -1,0 +1,89 @@
+prodid,aisle,category,subcategory,aisle_id,category_id,subcategory_id
+1484401,Super Foods & Functional Foods,Health Foods & Diet,Dietary & World Foods,675044379,674135563,674112512
+1484401,Pantry Essentials,Organic,Dietary & World Foods,675069508,674135800,674112512
+1484401,Healthy Snacks,Health Foods,Pantry,8888005,10301,10302
+177178,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+177178,Vinegar,Oils & Vinegars,Pantry,9442,9484,10302
+2473309,Dried Spices,Herbs & Spices,Pantry,8888270,8285,10302
+2473310,Dried Spices,Herbs & Spices,Pantry,8888270,8285,10302
+3798400,Asian,International Foods,Pantry,8904804,8904802,10302
+3988632,Instant Coffee,Coffee,Pantry,19890,19888,10302
+3988632,Coffee Instant,Coffee Drinks,Drinks,98655,98628,11456
+4312843,Breakfast Muesli,Breakfast,Pantry,18744,7294,10302
+5071232,Fruit & Veg,Organic,Dietary & World Foods,675065753,674135800,674112512
+5071232,Beans & Legumes,"Pasta, Rice, Legumes & Grains",Pantry,9635,9634,10302
+5071232,Canned Beans & Legumes,"Canned Food, Soups & Noodles",Pantry,9679,10146,10302
+5071232,Canned Vegetables,"Canned Food, Soups & Noodles",Pantry,9964,10146,10302
+8080626,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+8080626,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+8080626,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+9054927,Uk,International Foods,Pantry,8904814,8904802,10302
+6325700,Dried Fruits & Fillings,Baking,Pantry,8734,8756,10302
+7909900,Liquid Stock,Stocks & Gravy,Pantry,8301,8307,10302
+6823413,Thai,World Foods,Dietary & World Foods,675108470,674113139,674112512
+6823413,Asian,International Foods,Pantry,8904804,8904802,10302
+8084343,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+8084343,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+2516730,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+2516730,Cake & Bread Mixes,Baking,Pantry,8423,8756,10302
+4515749,Canned Vegetables,"Canned Food, Soups & Noodles",Pantry,9964,10146,10302
+5990577,"Pickles, Chutney & Relish",Pickled Vegetables & Condiments,Pantry,9101,9232,10302
+7180829,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+7180829,Salad Dressings,Pickled Vegetables & Condiments,Pantry,9129,9232,10302
+7180829,Mayonnaise,Pickled Vegetables & Condiments,Pantry,9139,9232,10302
+2768299,Pizza & Pasta,Sauces,Pantry,9290,9373,10302
+9715177,Cake & Bread Mixes,Baking,Pantry,8423,8756,10302
+1279865,Recipe & Meal Bases,Sauces,Pantry,9390,9373,10302
+4472125,Cream & Plain Biscuits,Biscuits & Cookies,"Chips, Chocolates & Snacks",657639557,657638318,8916201
+4472125,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+4472125,Healthy Snacks,Health Foods,Pantry,8888005,10301,10302
+4707648,Salad Dressings,Pickled Vegetables & Condiments,Pantry,9129,9232,10302
+4707648,Mayonnaise,Pickled Vegetables & Condiments,Pantry,9139,9232,10302
+5435408,Pantry Essentials,Organic,Dietary & World Foods,675069508,674135800,674112512
+5435408,Korean,World Foods,Dietary & World Foods,675104741,674113139,674112512
+5435408,Asian,International Foods,Pantry,8904804,8904802,10302
+5494350,Salad Dressings,Pickled Vegetables & Condiments,Pantry,9129,9232,10302
+5494350,Mayonnaise,Pickled Vegetables & Condiments,Pantry,9139,9232,10302
+5988699,Japanese,World Foods,Dietary & World Foods,675104352,674113139,674112512
+5988699,Asian,International Foods,Pantry,8904804,8904802,10302
+6175594,Collagen,Health Foods & Diet,Dietary & World Foods,675041452,674135563,674112512
+6175594,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+6175594,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+6175594,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+8051118,Instant Coffee,Coffee,Pantry,19890,19888,10302
+8051118,Coffee Instant,Coffee Drinks,Drinks,98655,98628,11456
+9820998,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+9820998,Salad Dressings,Pickled Vegetables & Condiments,Pantry,9129,9232,10302
+9968718,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+7910896,Liquid Stock,Stocks & Gravy,Pantry,8301,8307,10302
+1054650,Green,Tea,Pantry,19880,10303,10302
+1054650,Tea Green,Tea Drinks,Drinks,98648,98627,11456
+8084285,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+8084285,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+8084365,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+8084365,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+1809277,Pizza & Pasta,Sauces,Pantry,9290,9373,10302
+5084868,Pancake & Dessert Mixes,Baking,Pantry,8757,8756,10302
+5255370,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+5255370,Indian,International Foods,Pantry,8904806,8904802,10302
+4314088,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+4314088,Canned Fruit,"Canned Food, Soups & Noodles",Pantry,9804,10146,10302
+4680552,Japanese,World Foods,Dietary & World Foods,675104352,674113139,674112512
+4680552,Asian,International Foods,Pantry,8904804,8904802,10302
+8136866,Japanese,World Foods,Dietary & World Foods,675104352,674113139,674112512
+8136866,Asian,International Foods,Pantry,8904804,8904802,10302
+9151606,Soups,"Canned Food, Soups & Noodles",Pantry,10147,10146,10302
+4845572,Japanese,World Foods,Dietary & World Foods,675104352,674113139,674112512
+4845572,Asian,International Foods,Pantry,8904804,8904802,10302
+1274613,Pizza & Pasta,Sauces,Pantry,9290,9373,10302
+1274613,Recipe & Meal Bases,Sauces,Pantry,9390,9373,10302
+3320165,Pantry Essentials,Organic,Dietary & World Foods,675069508,674135800,674112512
+3320165,Sugar & Sweeteners,Baking,Pantry,8317,8756,10302
+4209119,Malaysian,World Foods,Dietary & World Foods,675105506,674113139,674112512
+4209119,Asian,International Foods,Pantry,8904804,8904802,10302
+5435339,Pantry Essentials,Organic,Dietary & World Foods,675069508,674135800,674112512
+5435339,Korean,World Foods,Dietary & World Foods,675104741,674113139,674112512
+5435339,Asian,International Foods,Pantry,8904804,8904802,10302
+5435645,Sweet Chilli & Hot,Sauces,Pantry,9374,9373,10302
+8050829,Instant Coffee,Coffee,Pantry,19890,19888,10302
+8050829,Coffee Instant,Coffee Drinks,Drinks,98655,98628,11456

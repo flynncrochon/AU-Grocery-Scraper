@@ -1,0 +1,71 @@
+prodid,aisle,category,subcategory,aisle_id,category_id,subcategory_id
+1108363,Packaged Deli Meat,Packaged Deli Meats,"Dairy, Eggs & Fridge",795551,79555,1300
+1108363,"New Sliced Ham, Pork & Bacon",NEW Sliced Meats,Deli,849218145,849217995,8892715
+1108363,Meat Packaged,Deli Packaged Meat,Deli,8901801,8901800,8892715
+1108374,Packaged Deli Meat,Packaged Deli Meats,"Dairy, Eggs & Fridge",795551,79555,1300
+1108374,"New Sliced Ham, Pork & Bacon",NEW Sliced Meats,Deli,849218145,849217995,8892715
+1108374,Meat Packaged,Deli Packaged Meat,Deli,8901801,8901800,8892715
+1108443,Packaged Salami & Kabana,Packaged Deli Meats,"Dairy, Eggs & Fridge",795554,79555,1300
+1108443,"New Salami, Prosciutto & Soppressa",NEW Sliced Meats,Deli,849218142,849217995,8892715
+1108454,Packaged Deli Meat,Packaged Deli Meats,"Dairy, Eggs & Fridge",795551,79555,1300
+1108454,New Sliced Meats,NEW Sliced Meats,Deli,849218190,849217995,8892715
+1108476,Packaged Deli Meat,Packaged Deli Meats,"Dairy, Eggs & Fridge",795551,79555,1300
+1108476,New Sliced Poultry,NEW Sliced Meats,Deli,849218306,849217995,8892715
+1108476,Meat Packaged,Deli Packaged Meat,Deli,8901801,8901800,8892715
+1108487,Packaged Deli Meat,Packaged Deli Meats,"Dairy, Eggs & Fridge",795551,79555,1300
+1108487,"New Salami, Prosciutto & Soppressa",NEW Sliced Meats,Deli,849218142,849217995,8892715
+1108487,Meat Packaged,Deli Packaged Meat,Deli,8901801,8901800,8892715
+1130045,Cheese Snacks,Cheese,"Dairy, Eggs & Fridge",8882205,8882200,1300
+1130045,New Cheese,NEW Dairy,"Dairy, Eggs & Fridge",911919615,799618770,1300
+1130238,Cheese Snacks,Cheese,"Dairy, Eggs & Fridge",8882205,8882200,1300
+1130238,New Cheese,NEW Dairy,"Dairy, Eggs & Fridge",911919615,799618770,1300
+1130919,Asian Foods,Dairy World Foods,"Dairy, Eggs & Fridge",8911603,8911600,1300
+1134669,Packaged Deli Meat,Packaged Deli Meats,"Dairy, Eggs & Fridge",795551,79555,1300
+1134669,Beef & Pork,"Frozen Chicken, Beef & Pork",Frozen,85643,85615,85471
+1134670,Block Cheese,Cheese,"Dairy, Eggs & Fridge",8882201,8882200,1300
+1134680,Grated Cheese,Cheese,"Dairy, Eggs & Fridge",8882210,8882200,1300
+1134691,Grated Cheese,Cheese,"Dairy, Eggs & Fridge",8882210,8882200,1300
+1134691,New Cheese,NEW Dairy,"Dairy, Eggs & Fridge",911919615,799618770,1300
+1135377,Cheese Snacks,Cheese,"Dairy, Eggs & Fridge",8882205,8882200,1300
+1135377,New Cheese,NEW Dairy,"Dairy, Eggs & Fridge",911919615,799618770,1300
+1135388,Cheese Snacks,Cheese,"Dairy, Eggs & Fridge",8882205,8882200,1300
+1135388,New Cheese,NEW Dairy,"Dairy, Eggs & Fridge",911919615,799618770,1300
+1136960,Cheese Snacks,Cheese,"Dairy, Eggs & Fridge",8882205,8882200,1300
+1136960,New Cheese,NEW Dairy,"Dairy, Eggs & Fridge",911919615,799618770,1300
+1137612,Packaged Deli Meat,Packaged Deli Meats,"Dairy, Eggs & Fridge",795551,79555,1300
+1137612,"New Salami, Prosciutto & Soppressa",NEW Sliced Meats,Deli,849218142,849217995,8892715
+1142088,Grated Cheese,Cheese,"Dairy, Eggs & Fridge",8882210,8882200,1300
+1142088,New Cheese,NEW Dairy,"Dairy, Eggs & Fridge",911919615,799618770,1300
+1145392,Cream Cheese & Spreads,Cheese,"Dairy, Eggs & Fridge",8882206,8882200,1300
+1145392,New Cheese,NEW Dairy,"Dairy, Eggs & Fridge",911919615,799618770,1300
+1145530,Single Serve,Yoghurt,"Dairy, Eggs & Fridge",8915822,8915804,1300
+1145541,Custards,Cream & Custard,"Dairy, Eggs & Fridge",8915811,8915801,1300
+1145552,Pouch,Yoghurt,"Dairy, Eggs & Fridge",8915820,8915804,1300
+1145563,Pouch,Yoghurt,"Dairy, Eggs & Fridge",8915820,8915804,1300
+1145574,Pouch,Yoghurt,"Dairy, Eggs & Fridge",8915820,8915804,1300
+1151023,Multipacks,Yoghurt,"Dairy, Eggs & Fridge",8915821,8915804,1300
+1154054,Single Serve,Yoghurt,"Dairy, Eggs & Fridge",8915822,8915804,1300
+1154065,Single Serve,Yoghurt,"Dairy, Eggs & Fridge",8915822,8915804,1300
+1154076,Single Serve,Yoghurt,"Dairy, Eggs & Fridge",8915822,8915804,1300
+1154087,Single Serve,Yoghurt,"Dairy, Eggs & Fridge",8915822,8915804,1300
+1154156,Single Serve,Yoghurt,"Dairy, Eggs & Fridge",8915822,8915804,1300
+1154611,Single Serve,Yoghurt,"Dairy, Eggs & Fridge",8915822,8915804,1300
+1154622,Single Serve,Yoghurt,"Dairy, Eggs & Fridge",8915822,8915804,1300
+1154666,Single Serve,Yoghurt,"Dairy, Eggs & Fridge",8915822,8915804,1300
+1154892,Single Serve,Yoghurt,"Dairy, Eggs & Fridge",8915822,8915804,1300
+1155487,Multipacks,Yoghurt,"Dairy, Eggs & Fridge",8915821,8915804,1300
+1155512,Yoghurt Tubs,Yoghurt,"Dairy, Eggs & Fridge",8915817,8915804,1300
+1155512,Pouch,Yoghurt,"Dairy, Eggs & Fridge",8915820,8915804,1300
+1155523,Single Serve,Yoghurt,"Dairy, Eggs & Fridge",8915822,8915804,1300
+1155534,Single Serve,Yoghurt,"Dairy, Eggs & Fridge",8915822,8915804,1300
+1155545,Single Serve,Yoghurt,"Dairy, Eggs & Fridge",8915822,8915804,1300
+1155556,Single Serve,Yoghurt,"Dairy, Eggs & Fridge",8915822,8915804,1300
+1155567,Single Serve,Yoghurt,"Dairy, Eggs & Fridge",8915822,8915804,1300
+1155578,Single Serve,Yoghurt,"Dairy, Eggs & Fridge",8915822,8915804,1300
+1156640,New Milk,NEW Dairy,"Dairy, Eggs & Fridge",799619172,799618770,1300
+1156640,Specialty Milk,Milk,"Dairy, Eggs & Fridge",8881805,8881800,1300
+1157085,Dairy Free,Yoghurt,"Dairy, Eggs & Fridge",8915819,8915804,1300
+1158317,Single Serve,Yoghurt,"Dairy, Eggs & Fridge",8915822,8915804,1300
+1158328,Single Serve,Yoghurt,"Dairy, Eggs & Fridge",8915822,8915804,1300
+1158339,Single Serve,Yoghurt,"Dairy, Eggs & Fridge",8915822,8915804,1300
+1167544,Probiotic Milk,Milk,"Dairy, Eggs & Fridge",8881808,8881800,1300

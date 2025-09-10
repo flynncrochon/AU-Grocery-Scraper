@@ -1,0 +1,70 @@
+prodid,aisle,category,subcategory,aisle_id,category_id,subcategory_id
+9321240,Flavoured Milk,Milk,"Dairy, Eggs & Fridge",8881804,8881800,1300
+9334672,"Cheese, Yoghurt & Dairy",Halal,Dietary & World Foods,675040491,674135336,674112512
+9334672,Gourmet Cheese,Cheese,"Dairy, Eggs & Fridge",8915809,8882200,1300
+9363954,Packaged Deli Meat,Packaged Deli Meats,"Dairy, Eggs & Fridge",795551,79555,1300
+9363954,Meat Packaged,Deli Packaged Meat,Deli,8901801,8901800,8892715
+93760,Butter,Butter & Margarine,"Dairy, Eggs & Fridge",8915806,8915800,1300
+9410760,Margarine,Butter & Margarine,"Dairy, Eggs & Fridge",8915805,8915800,1300
+9411773,Full Cream Milk,Milk,"Dairy, Eggs & Fridge",8881801,8881800,1300
+9411784,Weight Management,Health Foods & Diet,Dietary & World Foods,675045539,674135563,674112512
+9411784,Full Cream Milk,Milk,"Dairy, Eggs & Fridge",8881801,8881800,1300
+9453456,Free Range Eggs,Eggs,"Dairy, Eggs & Fridge",8882002,246656,1300
+9453478,Free Range Eggs,Eggs,"Dairy, Eggs & Fridge",8882002,246656,1300
+9488552,Weight Management,Health Foods & Diet,Dietary & World Foods,675045539,674135563,674112512
+9488552,Brie & Soft Cheese,Cheese,"Dairy, Eggs & Fridge",8882203,8882200,1300
+9508026,Grated Cheese,Cheese,"Dairy, Eggs & Fridge",8882210,8882200,1300
+9553971,Drinks,Organic,Dietary & World Foods,675068242,674135800,674112512
+9553971,"Falafels, Soy & Tofu",Vegan & Vegetarian,Dietary & World Foods,675076165,674136793,674112512
+9553971,Soy Milk,Long Life-Milk,"Dairy, Eggs & Fridge",8895205,8895200,1300
+9553971,Soy Milk,Long-Life Milk,Drinks,98664,98629,11456
+9554497,Yoghurt Tubs,Yoghurt,"Dairy, Eggs & Fridge",8915817,8915804,1300
+9554500,Yoghurt Tubs,Yoghurt,"Dairy, Eggs & Fridge",8915817,8915804,1300
+9554511,Yoghurt Tubs,Yoghurt,"Dairy, Eggs & Fridge",8915817,8915804,1300
+9560820,Chilled Pastry & Dough,Garlic Bread & Pastry Sheets,"Dairy, Eggs & Fridge",3213222,756654,1300
+9615263,Blends,Butter & Margarine,"Dairy, Eggs & Fridge",8915807,8915800,1300
+9615296,Blends,Butter & Margarine,"Dairy, Eggs & Fridge",8915807,8915800,1300
+9641809,Margarine,Butter & Margarine,"Dairy, Eggs & Fridge",8915805,8915800,1300
+9643622,Margarine,Butter & Margarine,"Dairy, Eggs & Fridge",8915805,8915800,1300
+9695364,Flavoured Milk,Milk,"Dairy, Eggs & Fridge",8881804,8881800,1300
+9728532,Cheddar & Tasty Cheese,Cheese,"Dairy, Eggs & Fridge",8882204,8882200,1300
+9728532,Cheddar,Gourmet Cheese,Deli,8892751,8892750,8892715
+9728532,Gourmet Cheese,Cheese,"Dairy, Eggs & Fridge",8915809,8882200,1300
+9759944,Skim & Low Fat Milk,Milk,"Dairy, Eggs & Fridge",8881802,8881800,1300
+9760047,Skim & Low Fat Milk,Milk,"Dairy, Eggs & Fridge",8881802,8881800,1300
+9760070,Full Cream Milk,Milk,"Dairy, Eggs & Fridge",8881801,8881800,1300
+9760091,Full Cream Milk,Milk,"Dairy, Eggs & Fridge",8881801,8881800,1300
+9808405,Feta Cheese,Cheese,"Dairy, Eggs & Fridge",8882207,8882200,1300
+9808755,Gourmet Cheese,Cheese,"Dairy, Eggs & Fridge",8915809,8882200,1300
+9849286,New Chilled Desserts,NEW Dairy,"Dairy, Eggs & Fridge",799619331,799618770,1300
+9849286,Chilled Dairy Desserts,Dairy Desserts,"Dairy, Eggs & Fridge",8915813,8915802,1300
+9849300,New Chilled Desserts,NEW Dairy,"Dairy, Eggs & Fridge",799619331,799618770,1300
+9849300,Chilled Dairy Desserts,Dairy Desserts,"Dairy, Eggs & Fridge",8915813,8915802,1300
+98592,Soy Milk,Long Life-Milk,"Dairy, Eggs & Fridge",8895205,8895200,1300
+98592,Soy Milk,Long-Life Milk,Drinks,98664,98629,11456
+9907917,Single Serve,Yoghurt,"Dairy, Eggs & Fridge",8915822,8915804,1300
+9907940,Single Serve,Yoghurt,"Dairy, Eggs & Fridge",8915822,8915804,1300
+9907994,Single Serve,Yoghurt,"Dairy, Eggs & Fridge",8915822,8915804,1300
+9933757,Dips,Dips & Pate,"Dairy, Eggs & Fridge",8915814,8915803,1300
+9958420,Fresh Pasta & Noodles,Fresh Pasta & Sauces,"Dairy, Eggs & Fridge",421112,777844,1300
+9958430,Fresh Pasta & Noodles,Fresh Pasta & Sauces,"Dairy, Eggs & Fridge",421112,777844,1300
+9961967,Single Serve,Yoghurt,"Dairy, Eggs & Fridge",8915822,8915804,1300
+9964116,Yoghurt Tubs,Yoghurt,"Dairy, Eggs & Fridge",8915817,8915804,1300
+9969663,Soups & Stews,Ready To Eat Meals,"Dairy, Eggs & Fridge",654654,477564,1300
+9969663,Meals,Pantry Items,Down Down,841558409,8906014,8906007
+9970505,Soups & Stews,Ready To Eat Meals,"Dairy, Eggs & Fridge",654654,477564,1300
+9970505,Meals,Pantry Items,Down Down,841558409,8906014,8906007
+9970629,Soups & Stews,Ready To Eat Meals,"Dairy, Eggs & Fridge",654654,477564,1300
+9970629,Meals,Pantry Items,Down Down,841558409,8906014,8906007
+9970709,Soups & Stews,Ready To Eat Meals,"Dairy, Eggs & Fridge",654654,477564,1300
+9970709,Meals,Pantry Items,Down Down,841558409,8906014,8906007
+9972158,Long-Life-Milk,Long Life-Milk,"Dairy, Eggs & Fridge",8895201,8895200,1300
+9972158,Long Life Milk,Long-Life Milk,Drinks,98660,98629,11456
+9972169,Soups & Stews,Ready To Eat Meals,"Dairy, Eggs & Fridge",654654,477564,1300
+9972169,Meals,Pantry Items,Down Down,841558409,8906014,8906007
+9972170,Soups & Stews,Ready To Eat Meals,"Dairy, Eggs & Fridge",654654,477564,1300
+9972170,Meals,Pantry Items,Down Down,841558409,8906014,8906007
+9972191,Soups & Stews,Ready To Eat Meals,"Dairy, Eggs & Fridge",654654,477564,1300
+9972191,Meals,Pantry Items,Down Down,841558409,8906014,8906007
+9972216,Soups & Stews,Ready To Eat Meals,"Dairy, Eggs & Fridge",654654,477564,1300
+9972216,Meals,Pantry Items,Down Down,841558409,8906014,8906007

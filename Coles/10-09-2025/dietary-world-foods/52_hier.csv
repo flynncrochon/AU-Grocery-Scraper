@@ -1,0 +1,125 @@
+prodid,aisle,category,subcategory,aisle_id,category_id,subcategory_id
+5051177,Black,Tea,Pantry,10230,10303,10302
+5051177,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+5051177,Tea Black,Tea Drinks,Drinks,98647,98627,11456
+5055611,Organic Fruit,Fruit,Fruit & Vegetables,1309,1302,2100
+5055611,Fruit & Veg,Organic,Dietary & World Foods,675065753,674135800,674112512
+5055611,Avocados,Fruit,Fruit & Vegetables,8891811,1302,2100
+5055611,Organic Fruits,Organic Fruits & Vegetables,Fruit & Vegetables,8892202,8892201,2100
+5055860,Baby,Organic,Dietary & World Foods,675068241,674135800,674112512
+5055860,Baby & Toddler Snacks,Baby & Toddler Food,Baby,8904018,8904003,15603
+5055940,Baby,Organic,Dietary & World Foods,675068241,674135800,674112512
+5055940,Baby & Toddler Snacks,Baby & Toddler Food,Baby,8904018,8904003,15603
+5056024,Drinks,Organic,Dietary & World Foods,675068242,674135800,674112512
+5056024,Drinks & Powders,Flavoured Milk,Drinks,98644,98626,11456
+5056953,Garlic & Ginger,Vegetables,Fruit & Vegetables,579846,1303,2100
+5056953,Fruit & Veg,Organic,Dietary & World Foods,675065753,674135800,674112512
+5056953,Organic Vegetables,Organic Fruits & Vegetables,Fruit & Vegetables,8892203,8892201,2100
+5057311,Bakery,Vegan & Vegetarian,Dietary & World Foods,675073922,674136793,674112512
+5057311,Loaf Cakes,Packaged Cakes & Sweet Treats,Bakery,8892988,8892916,8892906
+5057683,Bakery,Vegan & Vegetarian,Dietary & World Foods,675073922,674136793,674112512
+5057683,Sponge Rolls & Cake Bars,Packaged Cakes & Sweet Treats,Bakery,8892990,8892916,8892906
+5057708,Bakery,Vegan & Vegetarian,Dietary & World Foods,675073922,674136793,674112512
+5057708,Sponge Rolls & Cake Bars,Packaged Cakes & Sweet Treats,Bakery,8892990,8892916,8892906
+5059237,Black,Tea,Pantry,10230,10303,10302
+5059237,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+5059237,Tea Black,Tea Drinks,Drinks,98647,98627,11456
+5066946,Frozen,Halal,Dietary & World Foods,675040518,674135336,674112512
+5066946,Chips,Frozen Chips & Wedges,Frozen,85620,85991,85471
+5067064,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+5067064,Veggie Sausages & Burgers,Vegan & Vegetarian,Dietary & World Foods,675083144,674136793,674112512
+5067064,Vegetarian Snacking,Vegetarian & Vegan,"Dairy, Eggs & Fridge",8894401,4778877,1300
+5072836,Bakery,Vegan & Vegetarian,Dietary & World Foods,675073922,674136793,674112512
+5072836,Rye Bread,Packaged Breads,Bakery,8892931,8892909,8892906
+5074219,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+5074219,"Energy, Sports Drinks & Supplements",Sports Nutrition,Dietary & World Foods,675071005,674136101,674112512
+5074219,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+5074219,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+5075583,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+5075583,"Energy, Sports Drinks & Supplements",Sports Nutrition,Dietary & World Foods,675071005,674136101,674112512
+5075583,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+5075583,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+5075641,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+5075641,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+5075641,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+5076305,Onion & Leeks,Vegetables,Fruit & Vegetables,646512,1303,2100
+5076305,Fruit & Veg,Organic,Dietary & World Foods,675065753,674135800,674112512
+5076305,Organic Vegetables,Vegetables,Fruit & Vegetables,879564,1303,2100
+5076305,Organic Vegetables,Organic Fruits & Vegetables,Fruit & Vegetables,8892203,8892201,2100
+5077363,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+5077363,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+5077363,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+5077374,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+5077374,"Energy, Sports Drinks & Supplements",Sports Nutrition,Dietary & World Foods,675071005,674136101,674112512
+5077374,Energy Gels/Tablets,Health Foods Sports Nutrition & Diet,Pantry,8895604,8895600,10302
+5077374,Rtd Protein Shakes,Health Foods Sports Nutrition & Diet,Pantry,8895606,8895600,10302
+5081553,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+5081553,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+5081553,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+5082910,Liquor,Vegan & Vegetarian,Dietary & World Foods,675078682,674136793,674112512
+5082910,Gin,Spirits,Liquorland,89768,87940,85946
+5088494,Cucumber,Vegetables,Fruit & Vegetables,564657,1303,2100
+5088494,Fruit & Veg,Organic,Dietary & World Foods,675065753,674135800,674112512
+5088494,Organic Vegetables,Vegetables,Fruit & Vegetables,879564,1303,2100
+5088494,Organic Vegetables,Organic Fruits & Vegetables,Fruit & Vegetables,8892203,8892201,2100
+5089012,"Cheese, Yoghurt & Dairy",Halal,Dietary & World Foods,675040491,674135336,674112512
+5089012,Cream,Cream & Custard,"Dairy, Eggs & Fridge",8915810,8915801,1300
+5089883,Low GI,Health Foods & Diet,Dietary & World Foods,675043270,674135563,674112512
+5089883,"Falafels, Soy & Tofu",Vegan & Vegetarian,Dietary & World Foods,675076165,674136793,674112512
+5089883,Soy Milk,Long Life-Milk,"Dairy, Eggs & Fridge",8895205,8895200,1300
+5089883,Soy Milk,Long-Life Milk,Drinks,98664,98629,11456
+5091692,Chocolate Blocks,Chocolates,"Chips, Chocolates & Snacks",657635638,657635263,8916201
+5091692,Snacking,Vegan & Vegetarian,Dietary & World Foods,675081613,674136793,674112512
+5093440,Liquor,Vegan & Vegetarian,Dietary & World Foods,675078682,674136793,674112512
+5093440,Vodka,Spirits,Liquorland,89771,87940,85946
+5099093,Soy Free,Free From,Dietary & World Foods,675024759,674114623,674112512
+5099093,World Foods,Pantry Items,Down Down,8906043,8906014,8906007
+5099093,Oil,Oils & Vinegars,Pantry,9485,9484,10302
+5100240,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+5100240,All Gluten Free,Frozen Gluten Free,Frozen,8911201,8911200,85471
+5101286,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+5101286,All Gluten Free,Frozen Gluten Free,Frozen,8911201,8911200,85471
+5111428,Pantry Essentials,Organic,Dietary & World Foods,675069508,674135800,674112512
+5111428,Jars & Pastes,Herbs & Spices,Pantry,8888271,8285,10302
+5111440,Sugar Free,Free From,Dietary & World Foods,675024784,674114623,674112512
+5111440,Weight Management,Health Foods & Diet,Dietary & World Foods,675045539,674135563,674112512
+5111440,Tea Cakes,Packaged Cakes & Sweet Treats,Bakery,8892987,8892916,8892906
+5111880,"Cheese, Yoghurt & Dairy",Halal,Dietary & World Foods,675040491,674135336,674112512
+5111880,"Falafels, Soy & Tofu",Vegan & Vegetarian,Dietary & World Foods,675076165,674136793,674112512
+5111880,Soy & Almond Milk,Milk,"Dairy, Eggs & Fridge",8881807,8881800,1300
+5111982,Pantry Essentials,Organic,Dietary & World Foods,675069508,674135800,674112512
+5111982,Jars & Pastes,Herbs & Spices,Pantry,8888271,8285,10302
+5120269,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+5120269,Grab & Go Snacks,Ready To Eat Meals,"Dairy, Eggs & Fridge",8904816,477564,1300
+5126797,Bakery,Vegan & Vegetarian,Dietary & World Foods,675073922,674136793,674112512
+5126797,Bread Rolls,Instore Bakery Breads And Rolls,Bakery,8893203,8892907,8892906
+5126797,All Vegan Range,Vegan Range,Bakery,8897801,8897800,8892906
+5142534,Bakery,Vegan & Vegetarian,Dietary & World Foods,675073922,674136793,674112512
+5142534,Loaf Cakes,Packaged Cakes & Sweet Treats,Bakery,8892988,8892916,8892906
+5143399,Veggie Chicken & Meat,Vegan & Vegetarian,Dietary & World Foods,675082822,674136793,674112512
+5143399,All Plant Based,Frozen Vegan & Vegetarian,Frozen,8911001,8911000,85471
+5152855,Italian Meals & Pasta,Ready To Eat Meals,"Dairy, Eggs & Fridge",15213,477564,1300
+5152855,Fresh Pasta & Noodles,Fresh Pasta & Sauces,"Dairy, Eggs & Fridge",421112,777844,1300
+5152855,Italian,World Foods,Dietary & World Foods,675103734,674113139,674112512
+5153202,Fresh Pasta & Noodles,Fresh Pasta & Sauces,"Dairy, Eggs & Fridge",421112,777844,1300
+5153202,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+5160434,Liquor,Vegan & Vegetarian,Dietary & World Foods,675078682,674136793,674112512
+5160434,Tequila,Spirits,Liquorland,8898621,87940,85946
+5164388,Frozen,Vegan & Vegetarian,Dietary & World Foods,675077296,674136793,674112512
+5164388,Berries,Frozen Fruit,Frozen,85634,85613,85471
+5169596,Dairy & Lactose Free,Free From,Dietary & World Foods,675006051,674114623,674112512
+5169596,Specialty Milk,Milk,"Dairy, Eggs & Fridge",8881805,8881800,1300
+5173243,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+5173243,Pasta,"Pasta, Rice, Legumes & Grains",Pantry,9539,9634,10302
+5185209,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+5185209,"Falafels, Soy & Tofu",Vegan & Vegetarian,Dietary & World Foods,675076165,674136793,674112512
+5185209,Tofu,Vegetarian & Vegan,"Dairy, Eggs & Fridge",6774666,4778877,1300
+5185479,Bakery,Vegan & Vegetarian,Dietary & World Foods,675073922,674136793,674112512
+5185479,Burger Buns And Hot Dog Rolls,Packaged Bread Rolls And Buns,Bakery,8892935,8892910,8892906
+5190945,Black,Tea,Pantry,10230,10303,10302
+5190945,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+5190945,Tea Black,Tea Drinks,Drinks,98647,98627,11456
+5193502,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+5193502,Indian,International Foods,Pantry,8904806,8904802,10302
+5193874,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+5193874,Indian,International Foods,Pantry,8904806,8904802,10302

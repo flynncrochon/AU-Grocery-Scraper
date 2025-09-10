@@ -1,0 +1,81 @@
+prodid,aisle,category,subcategory,aisle_id,category_id,subcategory_id
+7451201,Tablets & Capsules,Vitamins & Supplements,Health & Beauty,835060756,8907425,15083
+7451201,Digestive,Vitamins & Supplements,Health & Beauty,835062643,8907425,15083
+7451201,Immunity,Vitamins & Supplements,Health & Beauty,8907437,8907425,15083
+7451289,Powders,Vitamins & Supplements,Health & Beauty,835060845,8907425,15083
+7451289,Stress & Anxiety,Vitamins & Supplements,Health & Beauty,835067019,8907425,15083
+7451290,Liquids,Vitamins & Supplements,Health & Beauty,835060957,8907425,15083
+7451290,Stress & Anxiety,Vitamins & Supplements,Health & Beauty,835067019,8907425,15083
+7455858,Body Moisturiser,Skin Care,Health & Beauty,14501,14533,15083
+7465330,Body Moisturiser,Skin Care,Health & Beauty,14501,14533,15083
+7465330,Body Lotion,Shower & Bath Care,Health & Beauty,51248,14598,15083
+7477260,Treatments,Hair Care,Health & Beauty,8907418,14459,15083
+7479030,Treatments,Hair Care,Health & Beauty,8907418,14459,15083
+7480119,Shampoo & Conditioner,Hair Care,Health & Beauty,8907417,14459,15083
+7480120,Treatments,Hair Care,Health & Beauty,8907418,14459,15083
+7482330,Gummies,Vitamins & Supplements,Health & Beauty,835060758,8907425,15083
+7482330,Multivitamins,Vitamins & Supplements,Health & Beauty,835061361,8907425,15083
+7482330,Womens Health,Vitamins & Supplements,Health & Beauty,835061595,8907425,15083
+7482362,Gummies,Vitamins & Supplements,Health & Beauty,835060758,8907425,15083
+7482362,Womens Health,Vitamins & Supplements,Health & Beauty,835061595,8907425,15083
+7482475,Gummies,Vitamins & Supplements,Health & Beauty,835060758,8907425,15083
+7482475,Beauty,Vitamins & Supplements,Health & Beauty,835066699,8907425,15083
+7482533,Tablets & Capsules,Vitamins & Supplements,Health & Beauty,835060756,8907425,15083
+7482533,Stress & Anxiety,Vitamins & Supplements,Health & Beauty,835067019,8907425,15083
+7489995,Medicinal Oils & Ointments,First Aid & Medicinal,Health & Beauty,8907411,8907402,15083
+7489995,Pain Relief,First Aid & Medicinal,Health & Beauty,8907414,8907402,15083
+7499252,Body Wash,Shower & Bath Care,Health & Beauty,14596,14598,15083
+7499263,Body Wash,Shower & Bath Care,Health & Beauty,14596,14598,15083
+7499296,Body Wash,Shower & Bath Care,Health & Beauty,14596,14598,15083
+7499729,Colouring,Hair Care,Health & Beauty,14447,14459,15083
+7500840,Medicinal Care,Personal & Baby Care,Down Down,8906046,8906015,8906007
+7500840,Other First Aid & Medicinal,First Aid & Medicinal,Health & Beauty,8907601,8907402,15083
+7518368,Tablets & Capsules,Vitamins & Supplements,Health & Beauty,835060756,8907425,15083
+7518368,Digestive,Vitamins & Supplements,Health & Beauty,835062643,8907425,15083
+7519688,Body Wash,Shower & Bath Care,Health & Beauty,14596,14598,15083
+7519699,Body Wash,Shower & Bath Care,Health & Beauty,14596,14598,15083
+7523823,Toothpaste,Dental Care,Health & Beauty,14279,14345,15083
+7523823,Sensitive Toothpaste,Dental Care,Health & Beauty,601089297,14345,15083
+7523856,Tablets & Capsules,Vitamins & Supplements,Health & Beauty,835060756,8907425,15083
+7523856,Muscle Support,Vitamins & Supplements,Health & Beauty,835061367,8907425,15083
+7523856,Sleep Support,Vitamins & Supplements,Health & Beauty,8907444,8907425,15083
+7523878,Liquids,Vitamins & Supplements,Health & Beauty,835060957,8907425,15083
+7523878,Digestive,Vitamins & Supplements,Health & Beauty,835062643,8907425,15083
+7523878,Vitamins & Other,Personal & Baby Care,Down Down,8912027,8906015,8906007
+7524484,Mouthwash,Dental Care,Health & Beauty,14333,14345,15083
+7524495,Toothbrushes,Dental Care,Health & Beauty,14320,14345,15083
+7524510,Toothbrushes,Dental Care,Health & Beauty,14320,14345,15083
+7525556,Health & Beauty,Vegan & Vegetarian,Dietary & World Foods,675078092,674136793,674112512
+7525556,Unisex Deodorant,Deodorants,Health & Beauty,857160098,857158261,15083
+7525567,Health & Beauty,Vegan & Vegetarian,Dietary & World Foods,675078092,674136793,674112512
+7525567,Unisex Deodorant,Deodorants,Health & Beauty,857160098,857158261,15083
+7525578,Health & Beauty,Vegan & Vegetarian,Dietary & World Foods,675078092,674136793,674112512
+7525578,Unisex Deodorant,Deodorants,Health & Beauty,857160098,857158261,15083
+7525590,Razors & Blades,Shaving & Hair Removal,Health & Beauty,15068,15084,15083
+7525625,Toothpaste,Dental Care,Health & Beauty,14279,14345,15083
+7525625,Sensitive Toothpaste,Dental Care,Health & Beauty,601089297,14345,15083
+7525636,Toothpaste,Dental Care,Health & Beauty,14279,14345,15083
+7525636,Sensitive Toothpaste,Dental Care,Health & Beauty,601089297,14345,15083
+7525658,Toothpaste,Dental Care,Health & Beauty,14279,14345,15083
+7525658,Sensitive Toothpaste,Dental Care,Health & Beauty,601089297,14345,15083
+7525669,Toothpaste,Dental Care,Health & Beauty,14279,14345,15083
+7525669,Sensitive Toothpaste,Dental Care,Health & Beauty,601089297,14345,15083
+7526071,Dental Floss & Tape,Dental Care,Health & Beauty,14292,14345,15083
+7526402,Mens Hair Care,Hair Care,Health & Beauty,620288353,14459,15083
+7526402,"Hair Brushes, Combs & Accessories",Hair Care,Health & Beauty,8907416,14459,15083
+7526468,Roll On Deodorant,Deodorants,Health & Beauty,857159873,857158261,15083
+7526504,Razors & Blades,Shaving & Hair Removal,Health & Beauty,15068,15084,15083
+7526548,Razors & Blades,Shaving & Hair Removal,Health & Beauty,15068,15084,15083
+7526628,Toothbrushes,Dental Care,Health & Beauty,14320,14345,15083
+7526628,Kids Dental,Dental Care,Health & Beauty,601089040,14345,15083
+7526628,Electric Toothbushes and Refills,Dental Care,Health & Beauty,601089186,14345,15083
+7526672,Toothpaste,Dental Care,Health & Beauty,14279,14345,15083
+7526672,Toothbrushes,Dental Care,Health & Beauty,14320,14345,15083
+7526672,Kids Dental,Dental Care,Health & Beauty,601089040,14345,15083
+7528077,Dental Floss & Tape,Dental Care,Health & Beauty,14292,14345,15083
+7535662,Dental Floss & Tape,Dental Care,Health & Beauty,14292,14345,15083
+7536574,Toothbrushes,Dental Care,Health & Beauty,14320,14345,15083
+7536574,Electric Toothbushes and Refills,Dental Care,Health & Beauty,601089186,14345,15083
+7536891,"Gel, Mousse & Styling",Hair Care,Health & Beauty,14413,14459,15083
+7536891,Mens Hair Care,Hair Care,Health & Beauty,620288353,14459,15083
+7537410,Shampoo & Conditioner,Hair Care,Health & Beauty,8907417,14459,15083

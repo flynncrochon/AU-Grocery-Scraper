@@ -1,0 +1,67 @@
+prodid,aisle,category,subcategory,aisle_id,category_id,subcategory_id
+1654090,Pinot Noir,Red Wine,Liquorland,89750,87938,85946
+1745414,Pinot Gris & Grigio,White Wine,Liquorland,89758,87939,85946
+181495,Cask White Wine,Cask & Fortified Wine,Liquorland,8905608,8905602,85946
+181495,Cask White Wines,White Wine,Liquorland,89755,87939,85946
+181495,Chardonnay,White Wine,Liquorland,89757,87939,85946
+1829591,Bourbon Premix,Premixed Drinks,Liquorland,8898635,87941,85946
+1829627,Bourbon Premix,Premixed Drinks,Liquorland,8898635,87941,85946
+1832326,Cask Red Wine,Cask & Fortified Wine,Liquorland,8905607,8905602,85946
+1832326,Cask Red Wine,Red Wine,Liquorland,89746,87938,85946
+1832337,Cask White Wine,Cask & Fortified Wine,Liquorland,8905608,8905602,85946
+1832337,Cask White Wines,White Wine,Liquorland,89755,87939,85946
+1832337,Chardonnay,White Wine,Liquorland,89757,87939,85946
+1845408,Cask White Wine,Cask & Fortified Wine,Liquorland,8905608,8905602,85946
+1845408,Cask White Wines,White Wine,Liquorland,89755,87939,85946
+1845408,Chardonnay,White Wine,Liquorland,89757,87939,85946
+1847980,Premixed Drinks,Low Carb & Low Sugar,Liquorland,654514779,654514009,85946
+1847980,Bourbon Premix,Premixed Drinks,Liquorland,8898635,87941,85946
+1848009,Premixed Drinks,Low Carb & Low Sugar,Liquorland,654514779,654514009,85946
+1848009,Bourbon Premix,Premixed Drinks,Liquorland,8898635,87941,85946
+1848009,Vodka Premix,Premixed Drinks,Liquorland,8898640,87941,85946
+1915897,Red Blends,Red Wine,Liquorland,8906002,87938,85946
+1979721,Rum,Spirits,Liquorland,8906006,87940,85946
+1991217,Brandy & Cognac,Spirits,Liquorland,8898622,87940,85946
+2004443,Sparkling,Champagne & Sparkling,Liquorland,8898626,8898625,85946
+2018710,Imported,Beer,Liquorland,8898630,89715,85946
+2103570,Whisky,Spirits,Liquorland,8899803,87940,85946
+2112195,Apple Cider,Cider,Liquorland,8905801,8905600,85946
+2113438,Liquor,Vegan & Vegetarian,Dietary & World Foods,675078682,674136793,674112512
+2113438,Bourbon Premix,Premixed Drinks,Liquorland,8898635,87941,85946
+2113653,Liquor,Vegan & Vegetarian,Dietary & World Foods,675078682,674136793,674112512
+2113653,Bourbon Premix,Premixed Drinks,Liquorland,8898635,87941,85946
+2127352,Liquor,Organic,Dietary & World Foods,675068436,674135800,674112512
+2127352,Red Blends,Red Wine,Liquorland,8906002,87938,85946
+2164337,Sparkling,Champagne & Sparkling,Liquorland,8898626,8898625,85946
+2164337,Prosecco,Champagne & Sparkling,Liquorland,8899800,8898625,85946
+2164348,Sparkling,Champagne & Sparkling,Liquorland,8898626,8898625,85946
+2165715,"Muscat, Port & Sherry",Cask & Fortified Wine,Liquorland,8905609,8905602,85946
+2165726,"Muscat, Port & Sherry",Cask & Fortified Wine,Liquorland,8905609,8905602,85946
+2165737,"Muscat, Port & Sherry",Cask & Fortified Wine,Liquorland,8905609,8905602,85946
+2165748,"Muscat, Port & Sherry",Cask & Fortified Wine,Liquorland,8905609,8905602,85946
+2165759,"Muscat, Port & Sherry",Cask & Fortified Wine,Liquorland,8905609,8905602,85946
+21845,Imported,Beer,Liquorland,8898630,89715,85946
+2193222,Imported,Beer,Liquorland,8898630,89715,85946
+2193255,Imported,Beer,Liquorland,8898630,89715,85946
+2224279,Liqueurs,Spirits,Liquorland,89765,87940,85946
+224246,Tempranillo,Red Wine,Liquorland,8898624,87938,85946
+224246,Other Red Wine Varieties,Red Wine,Liquorland,89753,87938,85946
+2401498,Apple Cider,Cider,Liquorland,8905801,8905600,85946
+2445212,Imported,Beer,Liquorland,8898630,89715,85946
+2466198,Rum,Spirits,Liquorland,8906006,87940,85946
+2467510,Whisky,Spirits,Liquorland,8899803,87940,85946
+2481205,Whisky,Spirits,Liquorland,8899803,87940,85946
+2502305,Liquor,Vegan & Vegetarian,Dietary & World Foods,675078682,674136793,674112512
+2502305,Chardonnay,White Wine,Liquorland,89757,87939,85946
+2515282,Imported,Beer,Liquorland,8898630,89715,85946
+2515293,Imported,Beer,Liquorland,8898630,89715,85946
+2521423,Whisky,Spirits,Liquorland,8899803,87940,85946
+2538299,Apple Cider,Cider,Liquorland,8905801,8905600,85946
+2538313,Apple Cider,Cider,Liquorland,8905801,8905600,85946
+2540483,Sparkling,Champagne & Sparkling,Liquorland,8898626,8898625,85946
+2540483,Prosecco,Champagne & Sparkling,Liquorland,8899800,8898625,85946
+2579376,Whisky,Spirits,Liquorland,8899803,87940,85946
+2579376,American & Canadian Whiskey,Spirits,Liquorland,8905805,87940,85946
+2583395,Bourbon Premix,Premixed Drinks,Liquorland,8898635,87941,85946
+2587104,Bourbon Premix,Premixed Drinks,Liquorland,8898635,87941,85946
+2587148,Semillon Sauvignon Blanc,White Wine,Liquorland,8906050,87939,85946

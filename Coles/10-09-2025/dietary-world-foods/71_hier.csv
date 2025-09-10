@@ -1,0 +1,110 @@
+prodid,aisle,category,subcategory,aisle_id,category_id,subcategory_id
+8330745,Liquor,Vegan & Vegetarian,Dietary & World Foods,675078682,674136793,674112512
+8330745,Brandy & Cognac,Spirits,Liquorland,8898622,87940,85946
+8337631,Liquor,Vegan & Vegetarian,Dietary & World Foods,675078682,674136793,674112512
+8337631,"Aperitif, Vermouth And Digestives",Spirits,Liquorland,8898623,87940,85946
+8344739,"Falafels, Soy & Tofu",Vegan & Vegetarian,Dietary & World Foods,675076165,674136793,674112512
+8344739,Chinese,World Foods,Dietary & World Foods,675102473,674113139,674112512
+8344739,Asian,International Foods,Pantry,8904804,8904802,10302
+8364420,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+8364420,Noodles,"Canned Food, Soups & Noodles",Pantry,9689,10146,10302
+8374762,Chinese,World Foods,Dietary & World Foods,675102473,674113139,674112512
+8374762,Asian,International Foods,Pantry,8904804,8904802,10302
+8374784,Chinese,World Foods,Dietary & World Foods,675102473,674113139,674112512
+8374784,Asian,International Foods,Pantry,8904804,8904802,10302
+8386411,Bakery,Vegan & Vegetarian,Dietary & World Foods,675073922,674136793,674112512
+8386411,Croissants & Pastries,Packaged Breakfast Snacks,Bakery,8892974,8892914,8892906
+8399399,"Falafels, Soy & Tofu",Vegan & Vegetarian,Dietary & World Foods,675076165,674136793,674112512
+8399399,Chinese,World Foods,Dietary & World Foods,675102473,674113139,674112512
+8399399,Asian,International Foods,Pantry,8904804,8904802,10302
+8399650,Super Foods & Functional Foods,Health Foods & Diet,Dietary & World Foods,675044379,674135563,674112512
+8399650,Protein Powders,Sports Nutrition,Dietary & World Foods,675072653,674136101,674112512
+8399650,Healthy Snacks,Health Foods,Pantry,8888005,10301,10302
+8399661,Super Foods & Functional Foods,Health Foods & Diet,Dietary & World Foods,675044379,674135563,674112512
+8399661,Protein Powders,Sports Nutrition,Dietary & World Foods,675072653,674136101,674112512
+8399661,Healthy Snacks,Health Foods,Pantry,8888005,10301,10302
+8399672,Super Foods & Functional Foods,Health Foods & Diet,Dietary & World Foods,675044379,674135563,674112512
+8399672,Protein Powders,Sports Nutrition,Dietary & World Foods,675072653,674136101,674112512
+8399672,Healthy Snacks,Health Foods,Pantry,8888005,10301,10302
+8399785,Super Foods & Functional Foods,Health Foods & Diet,Dietary & World Foods,675044379,674135563,674112512
+8399785,Healthy Snacks,Health Foods,Pantry,8888005,10301,10302
+8400396,Frozen,Vegan & Vegetarian,Dietary & World Foods,675077296,674136793,674112512
+8400396,Ice Cream Sticks,Ice Cream,Frozen,85638,85614,85471
+8407668,Baby,Organic,Dietary & World Foods,675068241,674135800,674112512
+8407668,Baby Food Pouches,Baby & Toddler Food,Baby,8904017,8904003,15603
+8407679,Baby,Organic,Dietary & World Foods,675068241,674135800,674112512
+8407679,Baby Food Pouches,Baby & Toddler Food,Baby,8904017,8904003,15603
+8408150,Chia Seeds And Quinoa,Health Foods & Diet,Dietary & World Foods,675041421,674135563,674112512
+8408150,Baby,Organic,Dietary & World Foods,675068241,674135800,674112512
+8408150,Baby Food Pouches,Baby & Toddler Food,Baby,8904017,8904003,15603
+8408718,Baby,Organic,Dietary & World Foods,675068241,674135800,674112512
+8408718,Baby Food Pouches,Baby & Toddler Food,Baby,8904017,8904003,15603
+8409110,Baby,Organic,Dietary & World Foods,675068241,674135800,674112512
+8409110,Baby & Toddler Snacks,Baby & Toddler Food,Baby,8904018,8904003,15603
+8409131,Baby,Organic,Dietary & World Foods,675068241,674135800,674112512
+8409131,Baby & Toddler Snacks,Baby & Toddler Food,Baby,8904018,8904003,15603
+8409142,Baby,Organic,Dietary & World Foods,675068241,674135800,674112512
+8409142,Baby & Toddler Snacks,Baby & Toddler Food,Baby,8904018,8904003,15603
+8409164,Baby,Organic,Dietary & World Foods,675068241,674135800,674112512
+8409164,Baby & Toddler Snacks,Baby & Toddler Food,Baby,8904018,8904003,15603
+8409379,USA,World Foods,Dietary & World Foods,675109168,674113139,674112512
+8409379,Usa,International Foods,Pantry,8904815,8904802,10302
+8409380,USA,World Foods,Dietary & World Foods,675109168,674113139,674112512
+8409380,Usa,International Foods,Pantry,8904815,8904802,10302
+8409460,USA,World Foods,Dietary & World Foods,675109168,674113139,674112512
+8409460,Usa,International Foods,Pantry,8904815,8904802,10302
+8409991,Baby,Organic,Dietary & World Foods,675068241,674135800,674112512
+8409991,Baby & Toddler Snacks,Baby & Toddler Food,Baby,8904018,8904003,15603
+8410083,Baby,Organic,Dietary & World Foods,675068241,674135800,674112512
+8410083,Baby & Toddler Snacks,Baby & Toddler Food,Baby,8904018,8904003,15603
+8410287,Baby,Organic,Dietary & World Foods,675068241,674135800,674112512
+8410287,Baby & Toddler Snacks,Baby & Toddler Food,Baby,8904018,8904003,15603
+8410403,Baby,Organic,Dietary & World Foods,675068241,674135800,674112512
+8410403,Baby & Toddler Snacks,Baby & Toddler Food,Baby,8904018,8904003,15603
+8412726,Tomatoes,Vegetables,Fruit & Vegetables,465794,1303,2100
+8412726,Fruit & Veg,Organic,Dietary & World Foods,675065753,674135800,674112512
+8412726,Organic Vegetables,Vegetables,Fruit & Vegetables,879564,1303,2100
+8412726,Organic Vegetables,Organic Fruits & Vegetables,Fruit & Vegetables,8892203,8892201,2100
+8413751,Chinese,World Foods,Dietary & World Foods,675102473,674113139,674112512
+8413751,Asian,International Foods,Pantry,8904804,8904802,10302
+8413831,"Meat, Dairy & Eggs",Organic,Dietary & World Foods,675068803,674135800,674112512
+8413831,Organic Lamb,Organic Meat,Meat & Seafood,8892686,8892684,7238
+8413933,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+8413933,Indian,International Foods,Pantry,8904806,8904802,10302
+8413933,Recipe & Meal Bases,Sauces,Pantry,9390,9373,10302
+8413944,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+8413944,Indian,International Foods,Pantry,8904806,8904802,10302
+8413944,Recipe & Meal Bases,Sauces,Pantry,9390,9373,10302
+8414051,Gut Health,Health Foods & Diet,Dietary & World Foods,675042643,674135563,674112512
+8414051,Antacid & Indigestion,First Aid & Medicinal,Health & Beauty,8907403,8907402,15083
+8416501,Baby,Organic,Dietary & World Foods,675068241,674135800,674112512
+8416501,Baby & Toddler Snacks,Baby & Toddler Food,Baby,8904018,8904003,15603
+8416829,"Falafels, Soy & Tofu",Vegan & Vegetarian,Dietary & World Foods,675076165,674136793,674112512
+8416829,Mixed Scoop & Weigh,Scoop & Weigh,Fruit & Vegetables,8892420,8892415,2100
+8416829,Other Scoop & Weigh,Scoop & Weigh,Fruit & Vegetables,8892422,8892415,2100
+8419350,Baby,Organic,Dietary & World Foods,675068241,674135800,674112512
+8419350,Baby & Toddler Snacks,Baby & Toddler Food,Baby,8904018,8904003,15603
+8419372,Baby,Organic,Dietary & World Foods,675068241,674135800,674112512
+8419372,Baby & Toddler Snacks,Baby & Toddler Food,Baby,8904018,8904003,15603
+8419634,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+8419634,Single Serve,Yoghurt,"Dairy, Eggs & Fridge",8915822,8915804,1300
+8420407,Baby,Organic,Dietary & World Foods,675068241,674135800,674112512
+8420407,Baby & Toddler Snacks,Baby & Toddler Food,Baby,8904018,8904003,15603
+8420509,Baby,Organic,Dietary & World Foods,675068241,674135800,674112512
+8420509,Baby & Toddler Snacks,Baby & Toddler Food,Baby,8904018,8904003,15603
+8420520,Baby,Organic,Dietary & World Foods,675068241,674135800,674112512
+8420520,Baby & Toddler Snacks,Baby & Toddler Food,Baby,8904018,8904003,15603
+8421115,Baby,Organic,Dietary & World Foods,675068241,674135800,674112512
+8421115,Baby & Toddler Snacks,Baby & Toddler Food,Baby,8904018,8904003,15603
+8421170,Baby,Organic,Dietary & World Foods,675068241,674135800,674112512
+8421170,Baby & Toddler Snacks,Baby & Toddler Food,Baby,8904018,8904003,15603
+8421206,Baby,Organic,Dietary & World Foods,675068241,674135800,674112512
+8421206,Baby & Toddler Snacks,Baby & Toddler Food,Baby,8904018,8904003,15603
+8423369,Baby,Organic,Dietary & World Foods,675068241,674135800,674112512
+8423369,Baby Food Pouches,Baby & Toddler Food,Baby,8904017,8904003,15603
+8423507,Weight Management,Health Foods & Diet,Dietary & World Foods,675045539,674135563,674112512
+8423507,Pouch,Yoghurt,"Dairy, Eggs & Fridge",8915820,8915804,1300
+8423507,Single Serve,Yoghurt,"Dairy, Eggs & Fridge",8915822,8915804,1300
+8423529,Weight Management,Health Foods & Diet,Dietary & World Foods,675045539,674135563,674112512
+8423529,Pouch,Yoghurt,"Dairy, Eggs & Fridge",8915820,8915804,1300
+8423529,Single Serve,Yoghurt,"Dairy, Eggs & Fridge",8915822,8915804,1300

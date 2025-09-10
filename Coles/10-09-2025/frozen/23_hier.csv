@@ -1,0 +1,80 @@
+prodid,aisle,category,subcategory,aisle_id,category_id,subcategory_id
+8999589,Ice Cream Tubs,Ice Cream,Frozen,85639,85614,85471
+8999589,Premium Ice Cream,Ice Cream,Frozen,85640,85614,85471
+9002209,Fish Fingers & Cakes,Frozen Fish & Seafood,Frozen,85631,85612,85471
+9002209,Seafood Frozen,Frozen Fish & Seafood,Frozen,85633,85612,85471
+9003267,Burgers,"Frozen Chicken, Beef & Pork",Frozen,85644,85615,85471
+9003314,Chicken Pieces & Nuggets,"Frozen Chicken, Beef & Pork",Frozen,85645,85615,85471
+9003562,Party Food,Frozen Pastry & Party Food,Frozen,85651,85616,85471
+9003620,Pies & Quiches,Frozen Pastry & Party Food,Frozen,85650,85616,85471
+9003631,Pies & Quiches,Frozen Pastry & Party Food,Frozen,85650,85616,85471
+9008001,Fish Fingers & Cakes,Frozen Fish & Seafood,Frozen,85631,85612,85471
+9008001,Seafood Frozen,Frozen Fish & Seafood,Frozen,85633,85612,85471
+9020528,Chinese,World Foods,Dietary & World Foods,675102473,674113139,674112512
+9020528,Frozen Asian Foods,Frozen World Food,Frozen,8905202,8905201,85471
+9022647,Assorted Desserts,Frozen Desserts,Frozen,85626,85611,85471
+9026003,Korean,World Foods,Dietary & World Foods,675104741,674113139,674112512
+9026003,Frozen Asian Foods,Frozen World Food,Frozen,8905202,8905201,85471
+9028767,All Baby & Toddler Meals,Frozen Baby & Toddler Meals,Frozen,89992,89991,85471
+9028789,All Baby & Toddler Meals,Frozen Baby & Toddler Meals,Frozen,89992,89991,85471
+9033020,Convenience Meals,Frozen Meals,Frozen,85624,89177,85471
+9033020,Pizzas,Frozen Pizza & Bases,Frozen,85654,85617,85471
+9037983,Fish Fillets,Frozen Fish & Seafood,Frozen,85632,85612,85471
+9037983,Seafood Frozen,Frozen Fish & Seafood,Frozen,85633,85612,85471
+9038013,Fish Fillets,Frozen Fish & Seafood,Frozen,85632,85612,85471
+9038013,Seafood Frozen,Frozen Fish & Seafood,Frozen,85633,85612,85471
+9038024,Fish Fillets,Frozen Fish & Seafood,Frozen,85632,85612,85471
+9038024,Seafood Frozen,Frozen Fish & Seafood,Frozen,85633,85612,85471
+9038057,Fish Fillets,Frozen Fish & Seafood,Frozen,85632,85612,85471
+9038057,Seafood Frozen,Frozen Fish & Seafood,Frozen,85633,85612,85471
+9038080,Fish Fingers & Cakes,Frozen Fish & Seafood,Frozen,85631,85612,85471
+9038080,Seafood Frozen,Frozen Fish & Seafood,Frozen,85633,85612,85471
+9039752,Ice Cream Sticks,Ice Cream,Frozen,85638,85614,85471
+9039752,Premium Ice Cream,Ice Cream,Frozen,85640,85614,85471
+9041914,Ice Cream Sticks,Ice Cream,Frozen,85638,85614,85471
+9041991,Ice Cream Sticks,Ice Cream,Frozen,85638,85614,85471
+9042021,Ice Cream Sticks,Ice Cream,Frozen,85638,85614,85471
+9043410,Assorted Desserts,Frozen Desserts,Frozen,85626,85611,85471
+9050551,Fish Fillets,Frozen Fish & Seafood,Frozen,85632,85612,85471
+9050551,Seafood Frozen,Frozen Fish & Seafood,Frozen,85633,85612,85471
+9054790,Peas,Frozen Vegetables,Frozen,85661,85618,85471
+9054960,Korean,World Foods,Dietary & World Foods,675104741,674113139,674112512
+9054960,Frozen Asian Foods,Frozen World Food,Frozen,8905202,8905201,85471
+9055828,Korean,World Foods,Dietary & World Foods,675104741,674113139,674112512
+9055828,Frozen Asian Foods,Frozen World Food,Frozen,8905202,8905201,85471
+9059239,Chicken Pieces & Nuggets,"Frozen Chicken, Beef & Pork",Frozen,85645,85615,85471
+9079928,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+9079928,Frozen Indian Foods,Frozen World Food,Frozen,8905203,8905201,85471
+9079950,Frozen,Vegan & Vegetarian,Dietary & World Foods,675077296,674136793,674112512
+9079950,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+9079950,Frozen Indian Foods,Frozen World Food,Frozen,8905203,8905201,85471
+9079983,Frozen,Halal,Dietary & World Foods,675040518,674135336,674112512
+9079983,Frozen,Vegan & Vegetarian,Dietary & World Foods,675077296,674136793,674112512
+9079983,Pastry Sheets,Frozen Pastry & Party Food,Frozen,85652,85616,85471
+9079994,Frozen,Halal,Dietary & World Foods,675040518,674135336,674112512
+9079994,Frozen,Vegan & Vegetarian,Dietary & World Foods,675077296,674136793,674112512
+9079994,Pastry Sheets,Frozen Pastry & Party Food,Frozen,85652,85616,85471
+9086300,Frozen,Vegan & Vegetarian,Dietary & World Foods,675077296,674136793,674112512
+9086300,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+9086300,Frozen Indian Foods,Frozen World Food,Frozen,8905203,8905201,85471
+9093430,Cakes & Cheesecakes,Frozen Desserts,Frozen,85627,85611,85471
+9093430,Ice Cream Cakes,Frozen Desserts,Frozen,85629,85611,85471
+9140100,Frozen,Halal,Dietary & World Foods,675040518,674135336,674112512
+9140100,Frozen,Vegan & Vegetarian,Dietary & World Foods,675077296,674136793,674112512
+9140100,Pastries,Frozen Pastry & Party Food,Frozen,85649,85616,85471
+9140133,Frozen,Vegan & Vegetarian,Dietary & World Foods,675077296,674136793,674112512
+9140133,Chips,Frozen Chips & Wedges,Frozen,85620,85991,85471
+9152303,Seafood Frozen,Frozen Fish & Seafood,Frozen,85633,85612,85471
+9152303,Deli Marinara Mix And Other Seafood,Seafood,Meat & Seafood,8892674,8892671,7238
+9152303,Fish &  Seafood,"Meat, Seafood & Deli",Down Down,8912022,8906013,8906007
+91710,Frozen,Halal,Dietary & World Foods,675040518,674135336,674112512
+91710,Chips,Frozen Chips & Wedges,Frozen,85620,85991,85471
+9184070,Ice Cream Sticks,Ice Cream,Frozen,85638,85614,85471
+9188832,Mixed Vegetables,Frozen Vegetables,Frozen,85658,85618,85471
+9188898,Mixed Vegetables,Frozen Vegetables,Frozen,85658,85618,85471
+9189096,Mixed Vegetables,Frozen Vegetables,Frozen,85658,85618,85471
+9189256,Other Vegetables,Frozen Vegetables,Frozen,85659,85618,85471
+9189358,Beans,Frozen Vegetables,Frozen,85655,85618,85471
+9189427,Beans,Frozen Vegetables,Frozen,85655,85618,85471
+9189482,Beans,Frozen Vegetables,Frozen,85655,85618,85471
+9189507,Peas,Frozen Vegetables,Frozen,85661,85618,85471

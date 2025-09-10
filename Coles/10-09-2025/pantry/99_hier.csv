@@ -1,0 +1,98 @@
+prodid,aisle,category,subcategory,aisle_id,category_id,subcategory_id
+8057679,Coffee Beans,Coffee,Pantry,19891,19888,10302
+8057679,Beans Coffee,Coffee Drinks,Drinks,98656,98628,11456
+8058208,Coffee Mixes,Coffee,Pantry,19892,19888,10302
+8058208,Mixes Coffee,Coffee Drinks,Drinks,98657,98628,11456
+8059608,Ground Coffee,Coffee,Pantry,19889,19888,10302
+8059608,Coffee Ground,Coffee Drinks,Drinks,98654,98628,11456
+8059630,Ground Coffee,Coffee,Pantry,19889,19888,10302
+8059630,Coffee Ground,Coffee Drinks,Drinks,98654,98628,11456
+8059652,Ground Coffee,Coffee,Pantry,19889,19888,10302
+8059652,Coffee Ground,Coffee Drinks,Drinks,98654,98628,11456
+8059743,Capsules,Coffee,Pantry,19893,19888,10302
+8059743,Coffee Capsules,Coffee Drinks,Drinks,98658,98628,11456
+8060469,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+8060469,Indian,International Foods,Pantry,8904806,8904802,10302
+8062577,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+8062577,Indian,International Foods,Pantry,8904806,8904802,10302
+8062599,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+8062599,Indian,International Foods,Pantry,8904806,8904802,10302
+8062635,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+8062635,Indian,International Foods,Pantry,8904806,8904802,10302
+8062690,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+8062690,Indian,International Foods,Pantry,8904806,8904802,10302
+8063514,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+8063514,Indian,International Foods,Pantry,8904806,8904802,10302
+8064958,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+8064958,Indian,International Foods,Pantry,8904806,8904802,10302
+8066920,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+8066920,Indian,International Foods,Pantry,8904806,8904802,10302
+8066953,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+8066953,Indian,International Foods,Pantry,8904806,8904802,10302
+8066986,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+8066986,Indian,International Foods,Pantry,8904806,8904802,10302
+8067016,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+8067016,Indian,International Foods,Pantry,8904806,8904802,10302
+8067027,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+8067027,Indian,International Foods,Pantry,8904806,8904802,10302
+8067038,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+8067038,Indian,International Foods,Pantry,8904806,8904802,10302
+8067049,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+8067049,Indian,International Foods,Pantry,8904806,8904802,10302
+8067130,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+8067130,Indian,International Foods,Pantry,8904806,8904802,10302
+8067242,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+8067242,Indian,International Foods,Pantry,8904806,8904802,10302
+8067264,Herbal,Tea,Pantry,19884,10303,10302
+8067264,Tea Herbal,Tea Drinks,Drinks,98652,98627,11456
+8067435,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+8067435,Indian,International Foods,Pantry,8904806,8904802,10302
+8067537,Herbal,Tea,Pantry,19884,10303,10302
+8067537,Tea Herbal,Tea Drinks,Drinks,98652,98627,11456
+8067606,Chai,Tea,Pantry,19882,10303,10302
+8067606,Tea Chai,Tea Drinks,Drinks,98650,98627,11456
+8067661,Chai,Tea,Pantry,19882,10303,10302
+8067661,Tea Chai,Tea Drinks,Drinks,98650,98627,11456
+8067752,Oil,Oils & Vinegars,Pantry,9485,9484,10302
+8067774,Oil,Oils & Vinegars,Pantry,9485,9484,10302
+8070917,Ground Coffee,Coffee,Pantry,19889,19888,10302
+8070917,Coffee Ground,Coffee Drinks,Drinks,98654,98628,11456
+8071272,On The Go,Breakfast,Pantry,18741,7294,10302
+8071272,Low GI,Health Foods & Diet,Dietary & World Foods,675043270,674135563,674112512
+8071294,Coffee Beans,Coffee,Pantry,19891,19888,10302
+8071294,Beans Coffee,Coffee Drinks,Drinks,98656,98628,11456
+8071319,On The Go,Breakfast,Pantry,18741,7294,10302
+8071319,Drinks,Halal,Dietary & World Foods,675040493,674135336,674112512
+8071319,Low GI,Health Foods & Diet,Dietary & World Foods,675043270,674135563,674112512
+8071749,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+8071749,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+8071749,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+8071750,Coffee Beans,Coffee,Pantry,19891,19888,10302
+8071750,Beans Coffee,Coffee Drinks,Drinks,98656,98628,11456
+8075852,Beans & Legumes,"Pasta, Rice, Legumes & Grains",Pantry,9635,9634,10302
+8075852,Canned Beans & Legumes,"Canned Food, Soups & Noodles",Pantry,9679,10146,10302
+8075852,Canned Vegetables,"Canned Food, Soups & Noodles",Pantry,9964,10146,10302
+8075874,Beans & Legumes,"Pasta, Rice, Legumes & Grains",Pantry,9635,9634,10302
+8075874,Canned Beans & Legumes,"Canned Food, Soups & Noodles",Pantry,9679,10146,10302
+8075874,Canned Vegetables,"Canned Food, Soups & Noodles",Pantry,9964,10146,10302
+8077439,Instant Coffee,Coffee,Pantry,19890,19888,10302
+8077439,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+8077439,Coffee Instant,Coffee Drinks,Drinks,98655,98628,11456
+8078395,Herbal,Tea,Pantry,19884,10303,10302
+8078395,Tea Herbal,Tea Drinks,Drinks,98652,98627,11456
+8078475,Organic,Tea,Pantry,19883,10303,10302
+8078475,Tea Organic,Tea Drinks,Drinks,98651,98627,11456
+8078486,Recipe & Meal Bases,Sauces,Pantry,9390,9373,10302
+8078497,Recipe & Meal Bases,Sauces,Pantry,9390,9373,10302
+8078500,Korean,World Foods,Dietary & World Foods,675104741,674113139,674112512
+8078500,Recipe & Meal Bases,Sauces,Pantry,9390,9373,10302
+8082020,Super Foods & Functional Foods,Health Foods & Diet,Dietary & World Foods,675044379,674135563,674112512
+8082020,Healthy Breakfasts,Health Foods,Pantry,8888004,10301,10302
+8084649,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+8084649,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+8084649,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+8084660,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+8084660,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+8084660,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+8085233,Fish & Seafood,"Canned Food, Soups & Noodles",Pantry,10091,10146,10302
+8085255,Fish & Seafood,"Canned Food, Soups & Noodles",Pantry,10091,10146,10302

@@ -1,0 +1,81 @@
+prodid,aisle,category,subcategory,aisle_id,category_id,subcategory_id
+7524190,Mexican,World Foods,Dietary & World Foods,675105516,674113139,674112512
+7524190,Mexican,International Foods,Pantry,8904810,8904802,10302
+7524860,"Pickles, Chutney & Relish",Pickled Vegetables & Condiments,Pantry,9101,9232,10302
+7532777,Fish & Seafood,"Canned Food, Soups & Noodles",Pantry,10091,10146,10302
+7533962,Fish & Seafood,"Canned Food, Soups & Noodles",Pantry,10091,10146,10302
+7543208,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+7543208,Cupboard Essentials,Kosher,Dietary & World Foods,675048062,674135567,674112512
+7543208,Kosher,International Foods,Pantry,8904808,8904802,10302
+7547606,Breakfast Cereal,Breakfast,Pantry,18742,7294,10302
+7547606,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+7547606,Family Favourites,Breakfast,Pantry,8883601,7294,10302
+7549361,Jams,"Jams, Honey & Spreads",Pantry,8881201,8881200,10302
+7550655,On The Go,Breakfast,Pantry,18741,7294,10302
+7550655,Low GI,Health Foods & Diet,Dietary & World Foods,675043270,674135563,674112512
+7550655,Protein Drinks & Shakes,Sports Nutrition,Dietary & World Foods,675073004,674136101,674112512
+7553020,Baked Beans & Spaghetti,"Canned Food, Soups & Noodles",Pantry,10095,10146,10302
+7560965,Instant Meals & Sides,"Canned Food, Soups & Noodles",Pantry,10024,10146,10302
+7560965,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+7560965,Noodles,"Canned Food, Soups & Noodles",Pantry,9689,10146,10302
+7562155,"Pickles, Chutney & Relish",Pickled Vegetables & Condiments,Pantry,9101,9232,10302
+7562381,"Pickles, Chutney & Relish",Pickled Vegetables & Condiments,Pantry,9101,9232,10302
+7562643,Asian,International Foods,Pantry,8904804,8904802,10302
+7563409,Rice,"Pasta, Rice, Legumes & Grains",Pantry,9592,9634,10302
+7563420,Rice,"Pasta, Rice, Legumes & Grains",Pantry,9592,9634,10302
+7563442,Rice,"Pasta, Rice, Legumes & Grains",Pantry,9592,9634,10302
+7563453,Rice,"Pasta, Rice, Legumes & Grains",Pantry,9592,9634,10302
+7570029,Honey,"Jams, Honey & Spreads",Pantry,8881205,8881200,10302
+7570029,Family Favourites,Breakfast,Pantry,8883601,7294,10302
+7571270,Pancake & Dessert Mixes,Baking,Pantry,8757,8756,10302
+7573050,"Pickles, Chutney & Relish",Pickled Vegetables & Condiments,Pantry,9101,9232,10302
+7573130,"Pickles, Chutney & Relish",Pickled Vegetables & Condiments,Pantry,9101,9232,10302
+7588319,Soup & Noodles,Pantry Items,Down Down,8906201,8906014,8906007
+7588319,Noodles,"Canned Food, Soups & Noodles",Pantry,9689,10146,10302
+7611046,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+7611046,"Pickles, Chutney & Relish",Pickled Vegetables & Condiments,Pantry,9101,9232,10302
+7639293,Rice,"Pasta, Rice, Legumes & Grains",Pantry,9592,9634,10302
+7639464,Rice,"Pasta, Rice, Legumes & Grains",Pantry,9592,9634,10302
+7641160,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+7641160,Gluten Free Cereal,Breakfast,Pantry,8901200,7294,10302
+7643111,Rice,"Pasta, Rice, Legumes & Grains",Pantry,9592,9634,10302
+7647305,Coffee Beans,Coffee,Pantry,19891,19888,10302
+7647305,Beans Coffee,Coffee Drinks,Drinks,98656,98628,11456
+7647327,Coffee Beans,Coffee,Pantry,19891,19888,10302
+7647327,Beans Coffee,Coffee Drinks,Drinks,98656,98628,11456
+7647688,Instant Coffee,Coffee,Pantry,19890,19888,10302
+7647688,Coffee Instant,Coffee Drinks,Drinks,98655,98628,11456
+7648341,Chinese,World Foods,Dietary & World Foods,675102473,674113139,674112512
+7648341,Asian,International Foods,Pantry,8904804,8904802,10302
+7648647,Soups,"Canned Food, Soups & Noodles",Pantry,10147,10146,10302
+7648647,Healthy Cooking,Health Foods,Pantry,12083,10301,10302
+7648647,Soup & Noodles,Pantry Items,Down Down,8906201,8906014,8906007
+7650004,Soups,"Canned Food, Soups & Noodles",Pantry,10147,10146,10302
+7650004,Healthy Cooking,Health Foods,Pantry,12083,10301,10302
+7650004,Soup & Noodles,Pantry Items,Down Down,8906201,8906014,8906007
+7651539,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+7651539,Japanese,World Foods,Dietary & World Foods,675104352,674113139,674112512
+7651539,Asian,International Foods,Pantry,8904804,8904802,10302
+7654887,Thai,World Foods,Dietary & World Foods,675108470,674113139,674112512
+7654887,Asian,International Foods,Pantry,8904804,8904802,10302
+7656656,Coffee Beans,Coffee,Pantry,19891,19888,10302
+7656656,Beans Coffee,Coffee Drinks,Drinks,98656,98628,11456
+7659600,Cake Decorating,Baking,Pantry,8374,8756,10302
+7668961,Yeast & Baking Agents,Baking,Pantry,8358,8756,10302
+7668961,Cake Decorating,Baking,Pantry,8374,8756,10302
+7668961,Baking & Sugar,Pantry Items,Down Down,8906037,8906014,8906007
+7671718,Chocolate Bites,Chocolates,"Chips, Chocolates & Snacks",657635878,657635263,8916201
+7671718,Healthy Snacks,Health Foods,Pantry,8888005,10301,10302
+7671729,Chocolate Bites,Chocolates,"Chips, Chocolates & Snacks",657635878,657635263,8916201
+7671729,Healthy Snacks,Health Foods,Pantry,8888005,10301,10302
+7673939,British,World Foods,Dietary & World Foods,675097934,674113139,674112512
+7673939,Uk,International Foods,Pantry,8904814,8904802,10302
+7674104,Breakfast Oats,Breakfast,Pantry,18743,7294,10302
+7674104,Chia Seeds And Quinoa,Health Foods & Diet,Dietary & World Foods,675041421,674135563,674112512
+7674126,Breakfast Oats,Breakfast,Pantry,18743,7294,10302
+7674192,Breakfast Oats,Breakfast,Pantry,18743,7294,10302
+7674206,Breakfast Oats,Breakfast,Pantry,18743,7294,10302
+7677372,Soups,"Canned Food, Soups & Noodles",Pantry,10147,10146,10302
+7679334,Cake & Bread Mixes,Baking,Pantry,8423,8756,10302
+7679356,Sugar Free,Free From,Dietary & World Foods,675024784,674114623,674112512
+7679356,Cake & Bread Mixes,Baking,Pantry,8423,8756,10302

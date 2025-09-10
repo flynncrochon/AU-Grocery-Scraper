@@ -1,0 +1,83 @@
+prodid,aisle,category,subcategory,aisle_id,category_id,subcategory_id
+2917821,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+2917821,Indian,International Foods,Pantry,8904806,8904802,10302
+2917821,Recipe & Meal Bases,Sauces,Pantry,9390,9373,10302
+3023374,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+3023374,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+4224790,Pantry Essentials,Organic,Dietary & World Foods,675069508,674135800,674112512
+4224790,Dry Stock,Stocks & Gravy,Pantry,8297,8307,10302
+4299563,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+4299563,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+4299563,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+4465265,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+4476115,Chinese,World Foods,Dietary & World Foods,675102473,674113139,674112512
+4476115,Asian,International Foods,Pantry,8904804,8904802,10302
+5221415,Recipe & Meal Bases,Sauces,Pantry,9390,9373,10302
+6190204,Collagen,Health Foods & Diet,Dietary & World Foods,675041452,674135563,674112512
+6190204,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+6190204,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+6190204,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+6375607,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+6375607,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+6739554,Pizza & Pasta,Sauces,Pantry,9290,9373,10302
+7481440,Local Snacks & Drinks,Local Foods,Pantry,87596,85977,10302
+7481440,Pretzels & Other Snacks,Snacks,"Chips, Chocolates & Snacks",8916223,8916204,8916201
+7524214,Mexican,World Foods,Dietary & World Foods,675105516,674113139,674112512
+7524214,Mexican,International Foods,Pantry,8904810,8904802,10302
+7745122,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+7745122,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+7745122,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+8138420,Asian,International Foods,Pantry,8904804,8904802,10302
+8443810,Puddings,Desserts,Pantry,8894204,8894200,10302
+8765974,Asian,International Foods,Pantry,8904804,8904802,10302
+8765974,Stir-Fry And Curries,Sauces,Pantry,9361,9373,10302
+9055602,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+9055602,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+9132510,Soups,"Canned Food, Soups & Noodles",Pantry,10147,10146,10302
+9194030,Breakfast Oats,Breakfast,Pantry,18743,7294,10302
+9747107,Pizza & Pasta,Sauces,Pantry,9290,9373,10302
+3796530,Packet Seasonings,Herbs & Spices,Pantry,8286,8285,10302
+3796530,Breadcrumbs & Stuffing,Baking,Pantry,8339,8756,10302
+3796562,Packet Seasonings,Herbs & Spices,Pantry,8286,8285,10302
+4715420,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+4715420,Indian,International Foods,Pantry,8904806,8904802,10302
+6606878,Packet Seasonings,Herbs & Spices,Pantry,8286,8285,10302
+6606878,Breadcrumbs & Stuffing,Baking,Pantry,8339,8756,10302
+1389375,Jelly,Desserts,Pantry,8894203,8894200,10302
+6823683,Thai,World Foods,Dietary & World Foods,675108470,674113139,674112512
+6823683,Asian,International Foods,Pantry,8904804,8904802,10302
+9434520,Thai,World Foods,Dietary & World Foods,675108470,674113139,674112512
+9434520,Asian,International Foods,Pantry,8904804,8904802,10302
+3732923,Japanese,World Foods,Dietary & World Foods,675104352,674113139,674112512
+3732923,Asian,International Foods,Pantry,8904804,8904802,10302
+384004,Sugar & Sweeteners,Baking,Pantry,8317,8756,10302
+1068350,Pizza & Pasta,Sauces,Pantry,9290,9373,10302
+5477204,Healthy Cooking,Health Foods,Pantry,12083,10301,10302
+5477204,Egg Free,Free From,Dietary & World Foods,675007331,674114623,674112512
+5477204,Soy Free,Free From,Dietary & World Foods,675024759,674114623,674112512
+5477204,Yeast & Baking Agents,Baking,Pantry,8358,8756,10302
+7303190,Gravy,Stocks & Gravy,Pantry,8308,8307,10302
+9266062,Noodles,"Canned Food, Soups & Noodles",Pantry,9689,10146,10302
+1011997,Gravy,Stocks & Gravy,Pantry,8308,8307,10302
+5084052,Gravy,Stocks & Gravy,Pantry,8308,8307,10302
+9059986,Mediterranean,International Foods,Pantry,8904809,8904802,10302
+313709,Canned Fruit,"Canned Food, Soups & Noodles",Pantry,9804,10146,10302
+4966249,Cake & Bread Mixes,Baking,Pantry,8423,8756,10302
+7738808,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+7738808,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+7738808,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+7909842,Gravy,Stocks & Gravy,Pantry,8308,8307,10302
+1163725,Soups,"Canned Food, Soups & Noodles",Pantry,10147,10146,10302
+1163725,Healthy Cooking,Health Foods,Pantry,12083,10301,10302
+1296525,"Pickles, Chutney & Relish",Pickled Vegetables & Condiments,Pantry,9101,9232,10302
+1723138,Recipe & Meal Bases,Sauces,Pantry,9390,9373,10302
+3034472,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+3034472,Salad Dressings,Pickled Vegetables & Condiments,Pantry,9129,9232,10302
+3948106,Soups,"Canned Food, Soups & Noodles",Pantry,10147,10146,10302
+4299585,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+4299585,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+4299585,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+4801453,Soups,"Canned Food, Soups & Noodles",Pantry,10147,10146,10302
+4801453,Healthy Cooking,Health Foods,Pantry,12083,10301,10302
+6369740,Green,Tea,Pantry,19880,10303,10302
+6369740,Tea Green,Tea Drinks,Drinks,98648,98627,11456

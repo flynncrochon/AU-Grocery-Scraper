@@ -1,0 +1,118 @@
+prodid,aisle,category,subcategory,aisle_id,category_id,subcategory_id
+3314162,Other Vegetables,Frozen Vegetables,Frozen,85659,85618,85471
+338856,Frozen,Halal,Dietary & World Foods,675040518,674135336,674112512
+338856,Frozen,Vegan & Vegetarian,Dietary & World Foods,675077296,674136793,674112512
+338856,Peas,Frozen Vegetables,Frozen,85661,85618,85471
+3399347,Dairy & Lactose Free,Free From,Dietary & World Foods,675006051,674114623,674112512
+3399347,Frozen,Vegan & Vegetarian,Dietary & World Foods,675077296,674136793,674112512
+3399347,Ice Cream Sticks,Ice Cream,Frozen,85638,85614,85471
+3399347,Sorbet & Gelato,Ice Cream,Frozen,85641,85614,85471
+3399358,Dairy & Lactose Free,Free From,Dietary & World Foods,675006051,674114623,674112512
+3399358,Ice Cream Sticks,Ice Cream,Frozen,85638,85614,85471
+3399358,Sorbet & Gelato,Ice Cream,Frozen,85641,85614,85471
+3407300,"Cheese, Yoghurt & Dairy",Halal,Dietary & World Foods,675040491,674135336,674112512
+3407300,Frozen,Halal,Dietary & World Foods,675040518,674135336,674112512
+3407300,Frozen,Vegan & Vegetarian,Dietary & World Foods,675077296,674136793,674112512
+3407300,Ice Cream Sticks,Ice Cream,Frozen,85638,85614,85471
+3407300,Premium Ice Cream,Ice Cream,Frozen,85640,85614,85471
+3412478,Egg Free,Free From,Dietary & World Foods,675007331,674114623,674112512
+3412478,Chips,Frozen Chips & Wedges,Frozen,85620,85991,85471
+3412478,Hashbrowns,Frozen Chips & Wedges,Frozen,85621,85991,85471
+3412478,Other Vegetables,Frozen Vegetables,Frozen,85659,85618,85471
+3422675,Ice Cream Tubs,Ice Cream,Frozen,85639,85614,85471
+3422675,Premium Ice Cream,Ice Cream,Frozen,85640,85614,85471
+3519755,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+3519755,All Gluten Free,Frozen Gluten Free,Frozen,8911201,8911200,85471
+3519802,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+3519802,Frozen,Vegan & Vegetarian,Dietary & World Foods,675077296,674136793,674112512
+3519802,All Gluten Free,Frozen Gluten Free,Frozen,8911201,8911200,85471
+3545256,Convenience Meals,Frozen Meals,Frozen,85624,89177,85471
+3551984,Fish Fingers & Cakes,Frozen Fish & Seafood,Frozen,85631,85612,85471
+3551984,Seafood Frozen,Frozen Fish & Seafood,Frozen,85633,85612,85471
+3572951,Ice Cream Sticks,Ice Cream,Frozen,85638,85614,85471
+3573047,Berries,Frozen Fruit,Frozen,85634,85613,85471
+3573070,Berries,Frozen Fruit,Frozen,85634,85613,85471
+3573116,Berries,Frozen Fruit,Frozen,85634,85613,85471
+3580111,Prepackaged Seafood,Deli Seafood,Deli,648146295,8892733,8892715
+3580111,Fish Fillets,Frozen Fish & Seafood,Frozen,85632,85612,85471
+3580111,Seafood Frozen,Frozen Fish & Seafood,Frozen,85633,85612,85471
+3580122,Prepackaged Seafood,Deli Seafood,Deli,648146295,8892733,8892715
+3580122,Fish Fillets,Frozen Fish & Seafood,Frozen,85632,85612,85471
+3580122,Seafood Frozen,Frozen Fish & Seafood,Frozen,85633,85612,85471
+3580188,Prepackaged Seafood,Deli Seafood,Deli,648146295,8892733,8892715
+3580188,Seafood Frozen,Frozen Fish & Seafood,Frozen,85633,85612,85471
+3580199,Prepackaged Seafood,Deli Seafood,Deli,648146295,8892733,8892715
+3580199,Seafood Frozen,Frozen Fish & Seafood,Frozen,85633,85612,85471
+3580202,Prepackaged Seafood,Deli Seafood,Deli,648146295,8892733,8892715
+3580202,Seafood Frozen,Frozen Fish & Seafood,Frozen,85633,85612,85471
+3580213,Prepackaged Seafood,Deli Seafood,Deli,648146295,8892733,8892715
+3580213,Fish Fillets,Frozen Fish & Seafood,Frozen,85632,85612,85471
+3580213,Seafood Frozen,Frozen Fish & Seafood,Frozen,85633,85612,85471
+3580246,Prepackaged Seafood,Deli Seafood,Deli,648146295,8892733,8892715
+3580246,Fish Fillets,Frozen Fish & Seafood,Frozen,85632,85612,85471
+3580246,Seafood Frozen,Frozen Fish & Seafood,Frozen,85633,85612,85471
+3606157,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+3606157,Frozen Indian Foods,Frozen World Food,Frozen,8905203,8905201,85471
+3615613,Seafood Frozen,Frozen Fish & Seafood,Frozen,85633,85612,85471
+3615635,Seafood Frozen,Frozen Fish & Seafood,Frozen,85633,85612,85471
+3615668,Fish Fillets,Frozen Fish & Seafood,Frozen,85632,85612,85471
+3615668,Seafood Frozen,Frozen Fish & Seafood,Frozen,85633,85612,85471
+3615748,Fish Fillets,Frozen Fish & Seafood,Frozen,85632,85612,85471
+3615748,Seafood Frozen,Frozen Fish & Seafood,Frozen,85633,85612,85471
+3616445,Seafood Frozen,Frozen Fish & Seafood,Frozen,85633,85612,85471
+3616467,Seafood Frozen,Frozen Fish & Seafood,Frozen,85633,85612,85471
+3616478,Seafood Frozen,Frozen Fish & Seafood,Frozen,85633,85612,85471
+3626370,Ice Cream Tubs,Ice Cream,Frozen,85639,85614,85471
+3626370,Premium Ice Cream,Ice Cream,Frozen,85640,85614,85471
+3626755,Chinese,World Foods,Dietary & World Foods,675102473,674113139,674112512
+3626755,Frozen Asian Foods,Frozen World Food,Frozen,8905202,8905201,85471
+3626766,Chinese,World Foods,Dietary & World Foods,675102473,674113139,674112512
+3626766,Frozen Asian Foods,Frozen World Food,Frozen,8905202,8905201,85471
+3628364,Chinese,World Foods,Dietary & World Foods,675102473,674113139,674112512
+3628364,Frozen Asian Foods,Frozen World Food,Frozen,8905202,8905201,85471
+3639098,Soy Free,Free From,Dietary & World Foods,675024759,674114623,674112512
+3639098,Frozen,Vegan & Vegetarian,Dietary & World Foods,675077296,674136793,674112512
+3639098,Ice Cream Sticks,Ice Cream,Frozen,85638,85614,85471
+3639098,Ready-To-Freeze Ice Blocks,Desserts,Pantry,8894205,8894200,10302
+3641125,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+3641125,Frozen Indian Foods,Frozen World Food,Frozen,8905203,8905201,85471
+3754380,Prepackaged Seafood,Deli Seafood,Deli,648146295,8892733,8892715
+3754380,Fish Fillets,Frozen Fish & Seafood,Frozen,85632,85612,85471
+3754380,Seafood Frozen,Frozen Fish & Seafood,Frozen,85633,85612,85471
+3773079,Chicken Pieces & Nuggets,"Frozen Chicken, Beef & Pork",Frozen,85645,85615,85471
+3783491,Egg Free,Free From,Dietary & World Foods,675007331,674114623,674112512
+3783491,Frozen,Vegan & Vegetarian,Dietary & World Foods,675077296,674136793,674112512
+3783491,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+3783491,Frozen Indian Foods,Frozen World Food,Frozen,8905203,8905201,85471
+3783549,Egg Free,Free From,Dietary & World Foods,675007331,674114623,674112512
+3783549,Soy Free,Free From,Dietary & World Foods,675024759,674114623,674112512
+3783549,Frozen,Vegan & Vegetarian,Dietary & World Foods,675077296,674136793,674112512
+3783549,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+3783549,Frozen Indian Foods,Frozen World Food,Frozen,8905203,8905201,85471
+3783571,Egg Free,Free From,Dietary & World Foods,675007331,674114623,674112512
+3783571,Soy Free,Free From,Dietary & World Foods,675024759,674114623,674112512
+3783571,Frozen,Vegan & Vegetarian,Dietary & World Foods,675077296,674136793,674112512
+3783571,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+3783571,Frozen Indian Foods,Frozen World Food,Frozen,8905203,8905201,85471
+3783618,Egg Free,Free From,Dietary & World Foods,675007331,674114623,674112512
+3783618,Soy Free,Free From,Dietary & World Foods,675024759,674114623,674112512
+3783618,Frozen,Vegan & Vegetarian,Dietary & World Foods,675077296,674136793,674112512
+3783618,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+3783618,Frozen Indian Foods,Frozen World Food,Frozen,8905203,8905201,85471
+3783629,Egg Free,Free From,Dietary & World Foods,675007331,674114623,674112512
+3783629,Soy Free,Free From,Dietary & World Foods,675024759,674114623,674112512
+3783629,Frozen,Vegan & Vegetarian,Dietary & World Foods,675077296,674136793,674112512
+3783629,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+3783629,Frozen Indian Foods,Frozen World Food,Frozen,8905203,8905201,85471
+3783630,Egg Free,Free From,Dietary & World Foods,675007331,674114623,674112512
+3783630,Soy Free,Free From,Dietary & World Foods,675024759,674114623,674112512
+3783630,Frozen,Vegan & Vegetarian,Dietary & World Foods,675077296,674136793,674112512
+3783630,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+3783630,Frozen Indian Foods,Frozen World Food,Frozen,8905203,8905201,85471
+3783673,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+3783673,Frozen Indian Foods,Frozen World Food,Frozen,8905203,8905201,85471
+3785635,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+3785635,Frozen Indian Foods,Frozen World Food,Frozen,8905203,8905201,85471
+3785759,Ice Cream Sticks,Ice Cream,Frozen,85638,85614,85471
+3785759,Frozen Asian Foods,Frozen World Food,Frozen,8905202,8905201,85471
+3785781,Frozen Asian Foods,Frozen World Food,Frozen,8905202,8905201,85471

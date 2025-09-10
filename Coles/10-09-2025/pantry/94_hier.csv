@@ -1,0 +1,84 @@
+prodid,aisle,category,subcategory,aisle_id,category_id,subcategory_id
+7400700,Mexican,World Foods,Dietary & World Foods,675105516,674113139,674112512
+7400700,Mexican,International Foods,Pantry,8904810,8904802,10302
+7404813,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+7404813,Flour,Baking,Pantry,8313,8756,10302
+7408392,Pancake & Dessert Mixes,Baking,Pantry,8757,8756,10302
+7408392,"Custard, Cream & Yoghurt Desserts",Desserts,Pantry,8894202,8894200,10302
+7413417,Tomato & Bbq Sauces,Pickled Vegetables & Condiments,Pantry,8888268,9232,10302
+7413417,Tomato & Bbq,Sauces,Pantry,9250,9373,10302
+7413440,Tomato & Bbq Sauces,Pickled Vegetables & Condiments,Pantry,8888268,9232,10302
+7413440,Tomato & Bbq,Sauces,Pantry,9250,9373,10302
+7423217,Rice,"Pasta, Rice, Legumes & Grains",Pantry,9592,9634,10302
+7428130,New Zealand,World Foods,Dietary & World Foods,675106555,674113139,674112512
+7428130,New Zealand,International Foods,Pantry,8904812,8904802,10302
+7428130,World Foods,Pantry Items,Down Down,8906043,8906014,8906007
+7433083,Local Snacks & Drinks,Local Foods,Pantry,87596,85977,10302
+7433083,Pretzels & Other Snacks,Snacks,"Chips, Chocolates & Snacks",8916223,8916204,8916201
+7439341,Local Snacks & Drinks,Local Foods,Pantry,87596,85977,10302
+7439341,Pretzels & Other Snacks,Snacks,"Chips, Chocolates & Snacks",8916223,8916204,8916201
+7443600,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+7443600,Indian,International Foods,Pantry,8904806,8904802,10302
+7443644,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+7443644,Indian,International Foods,Pantry,8904806,8904802,10302
+7447350,Tomato & Bbq Sauces,Pickled Vegetables & Condiments,Pantry,8888268,9232,10302
+7447350,Tomato & Bbq,Sauces,Pantry,9250,9373,10302
+7447372,Tomato & Bbq Sauces,Pickled Vegetables & Condiments,Pantry,8888268,9232,10302
+7447372,Tomato & Bbq,Sauces,Pantry,9250,9373,10302
+7448604,Instant Meals & Sides,"Canned Food, Soups & Noodles",Pantry,10024,10146,10302
+7448615,Instant Meals & Sides,"Canned Food, Soups & Noodles",Pantry,10024,10146,10302
+7450504,Fodmap Friendly,Free From,Dietary & World Foods,675010715,674114623,674112512
+7450504,Snacking,Organic,Dietary & World Foods,675069570,674135800,674112512
+7450504,Local Snacks & Drinks,Local Foods,Pantry,87596,85977,10302
+7450504,Pretzels & Other Snacks,Snacks,"Chips, Chocolates & Snacks",8916223,8916204,8916201
+7452099,Oil,Oils & Vinegars,Pantry,9485,9484,10302
+7452179,Oil,Oils & Vinegars,Pantry,9485,9484,10302
+7475899,Fish & Seafood,"Canned Food, Soups & Noodles",Pantry,10091,10146,10302
+7475913,Fish & Seafood,"Canned Food, Soups & Noodles",Pantry,10091,10146,10302
+7475957,Fish & Seafood,"Canned Food, Soups & Noodles",Pantry,10091,10146,10302
+7479324,Instant Coffee,Coffee,Pantry,19890,19888,10302
+7479324,Coffee Instant,Coffee Drinks,Drinks,98655,98628,11456
+7479335,Instant Coffee,Coffee,Pantry,19890,19888,10302
+7479335,Coffee Instant,Coffee Drinks,Drinks,98655,98628,11456
+7479357,Instant Coffee,Coffee,Pantry,19890,19888,10302
+7479357,Coffee Instant,Coffee Drinks,Drinks,98655,98628,11456
+7488653,Green,Tea,Pantry,19880,10303,10302
+7488653,Tea Green,Tea Drinks,Drinks,98648,98627,11456
+7488948,Flour,Baking,Pantry,8313,8756,10302
+7488948,Yeast & Baking Agents,Baking,Pantry,8358,8756,10302
+7488948,Baking & Sugar,Pantry Items,Down Down,8906037,8906014,8906007
+7488960,Flour,Baking,Pantry,8313,8756,10302
+7488960,Baking & Sugar,Pantry Items,Down Down,8906037,8906014,8906007
+7488970,Flour,Baking,Pantry,8313,8756,10302
+7488970,Baking & Sugar,Pantry Items,Down Down,8906037,8906014,8906007
+7488981,Flour,Baking,Pantry,8313,8756,10302
+7488981,Baking & Sugar,Pantry Items,Down Down,8906037,8906014,8906007
+7490167,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+7490167,Sweet Chilli & Hot,Sauces,Pantry,9374,9373,10302
+7490178,Chai,Tea,Pantry,19882,10303,10302
+7490178,Tea Chai,Tea Drinks,Drinks,98650,98627,11456
+7490189,Chai,Tea,Pantry,19882,10303,10302
+7490189,Tea Chai,Tea Drinks,Drinks,98650,98627,11456
+7491590,Cake Decorating,Baking,Pantry,8374,8756,10302
+7492333,Pizza & Pasta,Sauces,Pantry,9290,9373,10302
+7492399,Local Snacks & Drinks,Local Foods,Pantry,87596,85977,10302
+7492399,Pretzels & Other Snacks,Snacks,"Chips, Chocolates & Snacks",8916223,8916204,8916201
+7495772,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+7495772,Sugar & Sweeteners,Baking,Pantry,8317,8756,10302
+7497450,Sugar & Sweeteners,Baking,Pantry,8317,8756,10302
+7497483,Sugar & Sweeteners,Baking,Pantry,8317,8756,10302
+7499660,Rice,"Pasta, Rice, Legumes & Grains",Pantry,9592,9634,10302
+7501332,Weight Management,Health Foods & Diet,Dietary & World Foods,675045539,674135563,674112512
+7501332,Protein Powders,Sports Nutrition,Dietary & World Foods,675072653,674136101,674112512
+7501332,Nutrition Powders,Health Foods Sports Nutrition & Diet,Pantry,8895605,8895600,10302
+7501343,Nutrition Powders,Health Foods Sports Nutrition & Diet,Pantry,8895605,8895600,10302
+7501354,Nutrition Powders,Health Foods Sports Nutrition & Diet,Pantry,8895605,8895600,10302
+7505162,Protein Powders,Sports Nutrition,Dietary & World Foods,675072653,674136101,674112512
+7505162,Nutrition Powders,Health Foods Sports Nutrition & Diet,Pantry,8895605,8895600,10302
+7505173,Protein Powders,Sports Nutrition,Dietary & World Foods,675072653,674136101,674112512
+7505173,Nutrition Powders,Health Foods Sports Nutrition & Diet,Pantry,8895605,8895600,10302
+7505300,Protein Powders,Sports Nutrition,Dietary & World Foods,675072653,674136101,674112512
+7505300,Nutrition Powders,Health Foods Sports Nutrition & Diet,Pantry,8895605,8895600,10302
+7513309,Oil,Oils & Vinegars,Pantry,9485,9484,10302
+7522966,Baked Beans & Spaghetti,"Canned Food, Soups & Noodles",Pantry,10095,10146,10302
+7523018,Baked Beans & Spaghetti,"Canned Food, Soups & Noodles",Pantry,10095,10146,10302

@@ -1,0 +1,90 @@
+prodid,aisle,category,subcategory,aisle_id,category_id,subcategory_id
+4370690,Pasta,"Pasta, Rice, Legumes & Grains",Pantry,9539,9634,10302
+4887131,Soups,"Canned Food, Soups & Noodles",Pantry,10147,10146,10302
+8729562,Herbal,Tea,Pantry,19884,10303,10302
+8729562,Tea Herbal,Tea Drinks,Drinks,98652,98627,11456
+9682373,Soups,"Canned Food, Soups & Noodles",Pantry,10147,10146,10302
+2006121,Herbal,Tea,Pantry,19884,10303,10302
+2006121,Tea Herbal,Tea Drinks,Drinks,98652,98627,11456
+3745415,Capsules,Coffee,Pantry,19893,19888,10302
+3745415,Coffee Capsules,Coffee Drinks,Drinks,98658,98628,11456
+9946293,Instant Meals & Sides,"Canned Food, Soups & Noodles",Pantry,10024,10146,10302
+9946293,Microwave Rice,"Pasta, Rice, Legumes & Grains",Pantry,8888274,9634,10302
+9946293,Rice,"Pasta, Rice, Legumes & Grains",Pantry,9592,9634,10302
+3992505,Breakfast Oats,Breakfast,Pantry,18743,7294,10302
+7381230,Mexican,World Foods,Dietary & World Foods,675105516,674113139,674112512
+7381230,Mexican,International Foods,Pantry,8904810,8904802,10302
+3925654,Instant Meals & Sides,"Canned Food, Soups & Noodles",Pantry,10024,10146,10302
+3925654,Microwave Rice,"Pasta, Rice, Legumes & Grains",Pantry,8888274,9634,10302
+3925654,Rice,"Pasta, Rice, Legumes & Grains",Pantry,9592,9634,10302
+8117238,Herbal,Tea,Pantry,19884,10303,10302
+8117238,Tea Herbal,Tea Drinks,Drinks,98652,98627,11456
+3755340,Capsules,Coffee,Pantry,19893,19888,10302
+3755340,Coffee Capsules,Coffee Drinks,Drinks,98658,98628,11456
+3713510,New Zealand,World Foods,Dietary & World Foods,675106555,674113139,674112512
+3713510,New Zealand,International Foods,Pantry,8904812,8904802,10302
+5860221,Instant Meals & Sides,"Canned Food, Soups & Noodles",Pantry,10024,10146,10302
+5860221,Microwave Rice,"Pasta, Rice, Legumes & Grains",Pantry,8888274,9634,10302
+5860221,Rice,"Pasta, Rice, Legumes & Grains",Pantry,9592,9634,10302
+7166090,Soups,"Canned Food, Soups & Noodles",Pantry,10147,10146,10302
+7674228,Breakfast Oats,Breakfast,Pantry,18743,7294,10302
+1089611,Pasta Meals,"Pasta, Rice, Legumes & Grains",Pantry,9549,9634,10302
+3708780,Green,Tea,Pantry,19880,10303,10302
+3708780,Tea Green,Tea Drinks,Drinks,98648,98627,11456
+8729551,Herbal,Tea,Pantry,19884,10303,10302
+8729551,Tea Herbal,Tea Drinks,Drinks,98652,98627,11456
+2380219,Herbal,Tea,Pantry,19884,10303,10302
+2380219,Tea Herbal,Tea Drinks,Drinks,98652,98627,11456
+2384526,Herbal,Tea,Pantry,19884,10303,10302
+2384526,Tea Herbal,Tea Drinks,Drinks,98652,98627,11456
+4915339,Soups,"Canned Food, Soups & Noodles",Pantry,10147,10146,10302
+7127440,Green,Tea,Pantry,19880,10303,10302
+7127440,Tea Green,Tea Drinks,Drinks,98648,98627,11456
+2959286,Capsules,Coffee,Pantry,19893,19888,10302
+2959286,Coffee Capsules,Coffee Drinks,Drinks,98658,98628,11456
+9333498,Breakfast Oats,Breakfast,Pantry,18743,7294,10302
+3327685,Mexican,World Foods,Dietary & World Foods,675105516,674113139,674112512
+3327685,USA,World Foods,Dietary & World Foods,675109168,674113139,674112512
+3327685,Usa,International Foods,Pantry,8904815,8904802,10302
+7381241,Mexican,World Foods,Dietary & World Foods,675105516,674113139,674112512
+7381241,Mexican,International Foods,Pantry,8904810,8904802,10302
+6312888,Black,Tea,Pantry,10230,10303,10302
+6312888,Tea Black,Tea Drinks,Drinks,98647,98627,11456
+3992684,Breakfast Oats,Breakfast,Pantry,18743,7294,10302
+4760120,Green,Tea,Pantry,19880,10303,10302
+4760120,Tea Green,Tea Drinks,Drinks,98648,98627,11456
+2951069,Capsules,Coffee,Pantry,19893,19888,10302
+2951069,Coffee Capsules,Coffee Drinks,Drinks,98658,98628,11456
+7977128,Soups,"Canned Food, Soups & Noodles",Pantry,10147,10146,10302
+3992527,Breakfast Oats,Breakfast,Pantry,18743,7294,10302
+9720268,Breakfast Oats,Breakfast,Pantry,18743,7294,10302
+5235431,Breakfast Cereal,Breakfast,Pantry,18742,7294,10302
+5235431,Egg Free,Free From,Dietary & World Foods,675007331,674114623,674112512
+5235431,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+5235431,Nut Free,Free From,Dietary & World Foods,675024750,674114623,674112512
+5235431,Family Favourites,Breakfast,Pantry,8883601,7294,10302
+5235431,Gluten Free Cereal,Breakfast,Pantry,8901200,7294,10302
+5235500,Breakfast Cereal,Breakfast,Pantry,18742,7294,10302
+5235500,Egg Free,Free From,Dietary & World Foods,675007331,674114623,674112512
+5235500,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+5235500,Nut Free,Free From,Dietary & World Foods,675024750,674114623,674112512
+5235500,Family Favourites,Breakfast,Pantry,8883601,7294,10302
+5235500,Gluten Free Cereal,Breakfast,Pantry,8901200,7294,10302
+8067570,Green,Tea,Pantry,19880,10303,10302
+8067570,Tea Green,Tea Drinks,Drinks,98648,98627,11456
+8729530,Herbal,Tea,Pantry,19884,10303,10302
+8729530,Tea Herbal,Tea Drinks,Drinks,98652,98627,11456
+8930323,Black,Tea,Pantry,10230,10303,10302
+8930323,Tea Black,Tea Drinks,Drinks,98647,98627,11456
+2288920,Soups,"Canned Food, Soups & Noodles",Pantry,10147,10146,10302
+2951058,Capsules,Coffee,Pantry,19893,19888,10302
+2951058,Coffee Capsules,Coffee Drinks,Drinks,98658,98628,11456
+9325570,Breakfast Oats,Breakfast,Pantry,18743,7294,10302
+7198416,Liquid Stock,Stocks & Gravy,Pantry,8301,8307,10302
+8093377,Rice,"Pasta, Rice, Legumes & Grains",Pantry,9592,9634,10302
+4727372,Instant Meals & Sides,"Canned Food, Soups & Noodles",Pantry,10024,10146,10302
+2599624,Healthy Cooking,Health Foods,Pantry,12083,10301,10302
+2599624,Pasta,"Pasta, Rice, Legumes & Grains",Pantry,9539,9634,10302
+341770,Black,Tea,Pantry,10230,10303,10302
+341770,Tea Black,Tea Drinks,Drinks,98647,98627,11456
+354193,Pasta,"Pasta, Rice, Legumes & Grains",Pantry,9539,9634,10302

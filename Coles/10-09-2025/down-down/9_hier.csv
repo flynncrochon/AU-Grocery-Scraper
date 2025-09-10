@@ -1,0 +1,129 @@
+prodid,aisle,category,subcategory,aisle_id,category_id,subcategory_id
+6314216,Coffee Beans,Coffee,Pantry,19891,19888,10302
+6314216,Coffee & Tea,Beverages,Down Down,8906017,8906008,8906007
+6314216,Beans Coffee,Coffee Drinks,Drinks,98656,98628,11456
+6314227,Coffee Beans,Coffee,Pantry,19891,19888,10302
+6314227,Coffee & Tea,Beverages,Down Down,8906017,8906008,8906007
+6314227,Beans Coffee,Coffee Drinks,Drinks,98656,98628,11456
+6322509,Floor & Carpet Cleaners,Cleaning Goods,Household,12843,13228,14003
+6322509,General Cleaning,Cleaning,Down Down,8906024,8906010,8906007
+6347292,Multipurpose Cleaners,Cleaning Goods,Household,12848,13228,14003
+6347292,General Cleaning,Cleaning,Down Down,8906024,8906010,8906007
+6347372,Multipurpose Cleaners,Cleaning Goods,Household,12848,13228,14003
+6347372,General Cleaning,Cleaning,Down Down,8906024,8906010,8906007
+6358073,Soap & Hand Wash,Shower & Bath Care,Health & Beauty,14568,14598,15083
+6358073,Hair & Skin Care,Personal & Baby Care,Down Down,8906045,8906015,8906007
+6362730,Frozen,Halal,Dietary & World Foods,675040518,674135336,674112512
+6362730,Frozen,Vegan & Vegetarian,Dietary & World Foods,675077296,674136793,674112512
+6362730,Pastry Sheets,Frozen Pastry & Party Food,Frozen,85652,85616,85471
+6362730,Frozen Desserts,"Dairy, Chilled & Frozen",Down Down,8915867,8906011,8906007
+6379437,Bakery,Vegan & Vegetarian,Dietary & World Foods,675073922,674136793,674112512
+6379437,Artisan Style Breads By Laurent,Instore Bakery Breads And Rolls,Bakery,8893200,8892907,8892906
+6379437,"Breads, Rolls & Flatbread",Bread & Bakery,Down Down,8906021,8906009,8906007
+6387672,Soap & Hand Wash,Shower & Bath Care,Health & Beauty,14568,14598,15083
+6387672,Hair & Skin Care,Personal & Baby Care,Down Down,8906045,8906015,8906007
+6438580,Soap & Hand Wash,Shower & Bath Care,Health & Beauty,14568,14598,15083
+6438580,Hair & Skin Care,Personal & Baby Care,Down Down,8906045,8906015,8906007
+6485081,Shoe Care And Footwear,Clothing & Accessories,Household,8888208,8888200,14003
+6485081,General Needs,Home & Pets,Down Down,8906800,8906012,8906007
+6495562,Effervescents,Vitamins & Supplements,Health & Beauty,835060838,8907425,15083
+6495562,Sleep Support,Vitamins & Supplements,Health & Beauty,8907444,8907425,15083
+6495562,Vitamins & Other,Personal & Baby Care,Down Down,8912027,8906015,8906007
+6496408,Gummies,Vitamins & Supplements,Health & Beauty,835060758,8907425,15083
+6496408,Stress & Anxiety,Vitamins & Supplements,Health & Beauty,835067019,8907425,15083
+6496408,Vitamins & Other,Personal & Baby Care,Down Down,8912027,8906015,8906007
+6497218,Liquids,Vitamins & Supplements,Health & Beauty,835060957,8907425,15083
+6497218,Digestive,Vitamins & Supplements,Health & Beauty,835062643,8907425,15083
+6497218,Vitamins & Other,Personal & Baby Care,Down Down,8912027,8906015,8906007
+6497229,Liquids,Vitamins & Supplements,Health & Beauty,835060957,8907425,15083
+6497229,Digestive,Vitamins & Supplements,Health & Beauty,835062643,8907425,15083
+6497229,Vitamins & Other,Personal & Baby Care,Down Down,8912027,8906015,8906007
+6497230,Liquids,Vitamins & Supplements,Health & Beauty,835060957,8907425,15083
+6497230,Digestive,Vitamins & Supplements,Health & Beauty,835062643,8907425,15083
+6497230,Stress & Anxiety,Vitamins & Supplements,Health & Beauty,835067019,8907425,15083
+6497230,Vitamins & Other,Personal & Baby Care,Down Down,8912027,8906015,8906007
+6497240,Liquids,Vitamins & Supplements,Health & Beauty,835060957,8907425,15083
+6497240,Digestive,Vitamins & Supplements,Health & Beauty,835062643,8907425,15083
+6497240,Sleep Support,Vitamins & Supplements,Health & Beauty,8907444,8907425,15083
+6497240,Vitamins & Other,Personal & Baby Care,Down Down,8912027,8906015,8906007
+6507311,"Gel, Mousse & Styling",Hair Care,Health & Beauty,14413,14459,15083
+6507311,Dry Shampoo,Hair Care,Health & Beauty,620287260,14459,15083
+6507311,Hair & Skin Care,Personal & Baby Care,Down Down,8906045,8906015,8906007
+6507322,"Gel, Mousse & Styling",Hair Care,Health & Beauty,14413,14459,15083
+6507322,Dry Shampoo,Hair Care,Health & Beauty,620287260,14459,15083
+6507322,Hair & Skin Care,Personal & Baby Care,Down Down,8906045,8906015,8906007
+6557841,Egg Free,Free From,Dietary & World Foods,675007331,674114623,674112512
+6557841,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+6557841,Convenience Meals,Frozen Meals,Frozen,85624,89177,85471
+6557841,Freezer,"Dairy, Chilled & Frozen",Down Down,8906028,8906011,8906007
+6576788,Sliced Cheese,Cheese,"Dairy, Eggs & Fridge",8882213,8882200,1300
+6576788,Cheese & Desserts,"Dairy, Chilled & Frozen",Down Down,8906027,8906011,8906007
+6581201,Fruit & Flavoured Cheese,Gourmet Cheese,Deli,641099959,8892750,8892715
+6581201,Specialty & Entertaining Cheese,Cheese,"Dairy, Eggs & Fridge",8882209,8882200,1300
+6581201,Deli Cheese & Platters,"Meat, Seafood & Deli",Down Down,8906203,8906013,8906007
+6581201,Gourmet Cheese,Cheese,"Dairy, Eggs & Fridge",8915809,8882200,1300
+6581256,Fruit & Flavoured Cheese,Gourmet Cheese,Deli,641099959,8892750,8892715
+6581256,Specialty & Entertaining Cheese,Cheese,"Dairy, Eggs & Fridge",8882209,8882200,1300
+6581256,Deli Cheese & Platters,"Meat, Seafood & Deli",Down Down,8906203,8906013,8906007
+6581256,Gourmet Cheese,Cheese,"Dairy, Eggs & Fridge",8915809,8882200,1300
+6632528,Chicken Pieces & Nuggets,"Frozen Chicken, Beef & Pork",Frozen,85645,85615,85471
+6632528,Chilled Meals,"Dairy, Chilled & Frozen",Down Down,8915865,8906011,8906007
+6677184,Salami,Deli Meats,Deli,8892721,8892717,8892715
+6677184,Deli Foods,"Meat, Seafood & Deli",Down Down,8906034,8906013,8906007
+6677242,Salami,Deli Meats,Deli,8892721,8892717,8892715
+6677242,Deli Foods,"Meat, Seafood & Deli",Down Down,8906034,8906013,8906007
+6706012,Dairy & Lactose Free,Free From,Dietary & World Foods,675006051,674114623,674112512
+6706012,Lactose Free-Milk,Long Life-Milk,"Dairy, Eggs & Fridge",8895208,8895200,1300
+6706012,Milk & Milk Additives,Beverages,Down Down,8906018,8906008,8906007
+6706012,Lactose Free Milk,Long-Life Milk,Drinks,98667,98629,11456
+6733423,Spreads & Dips,"Dairy, Chilled & Frozen",Down Down,8912014,8906011,8906007
+6733423,Dips,Dips & Pate,"Dairy, Eggs & Fridge",8915814,8915803,1300
+6736931,Spreads & Dips,"Dairy, Chilled & Frozen",Down Down,8912014,8906011,8906007
+6736931,Dips,Dips & Pate,"Dairy, Eggs & Fridge",8915814,8915803,1300
+6736942,Spreads & Dips,"Dairy, Chilled & Frozen",Down Down,8912014,8906011,8906007
+6736942,Dips,Dips & Pate,"Dairy, Eggs & Fridge",8915814,8915803,1300
+6736953,Spreads & Dips,"Dairy, Chilled & Frozen",Down Down,8912014,8906011,8906007
+6736953,Dips,Dips & Pate,"Dairy, Eggs & Fridge",8915814,8915803,1300
+6738846,Canned & Pickled Foods,Pantry Items,Down Down,8906038,8906014,8906007
+6738846,"Pickles, Chutney & Relish",Pickled Vegetables & Condiments,Pantry,9101,9232,10302
+6738879,Canned & Pickled Foods,Pantry Items,Down Down,8906038,8906014,8906007
+6738879,"Pickles, Chutney & Relish",Pickled Vegetables & Condiments,Pantry,9101,9232,10302
+6738880,Canned & Pickled Foods,Pantry Items,Down Down,8906038,8906014,8906007
+6738880,"Pickles, Chutney & Relish",Pickled Vegetables & Condiments,Pantry,9101,9232,10302
+6738915,Canned & Pickled Foods,Pantry Items,Down Down,8906038,8906014,8906007
+6738915,"Pickles, Chutney & Relish",Pickled Vegetables & Condiments,Pantry,9101,9232,10302
+6758592,Ice Cream Sticks,Ice Cream,Frozen,85638,85614,85471
+6758592,Frozen Desserts,"Dairy, Chilled & Frozen",Down Down,8915867,8906011,8906007
+6764926,Lamb Roasts,Lamb,Meat & Seafood,8892644,8892638,7238
+6764926,Meat,"Meat, Seafood & Deli",Down Down,8906035,8906013,8906007
+6769170,Falafels,Vegetarian & Vegan,"Dairy, Eggs & Fridge",654223,4778877,1300
+6769170,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+6769170,"Falafels, Soy & Tofu",Vegan & Vegetarian,Dietary & World Foods,675076165,674136793,674112512
+6769170,Chilled Meals,"Dairy, Chilled & Frozen",Down Down,8915865,8906011,8906007
+6769920,Pasta & Rice,Pantry Items,Down Down,8906041,8906014,8906007
+6769920,Pasta,"Pasta, Rice, Legumes & Grains",Pantry,9539,9634,10302
+6774340,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+6774340,Convenience Meals,Frozen Meals,Frozen,85624,89177,85471
+6774340,Freezer,"Dairy, Chilled & Frozen",Down Down,8906028,8906011,8906007
+6820674,Stationery,Stationery & Media,Household,8887604,8887600,14003
+6820674,General Needs,Home & Pets,Down Down,8906800,8906012,8906007
+6837509,Salt & Pepper,Herbs & Spices,Pantry,8252,8285,10302
+6837509,"Salt, Herbs & Spices",Pantry Items,Down Down,8915872,8906014,8906007
+6848120,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+6848120,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+6848120,"Falafels, Soy & Tofu",Vegan & Vegetarian,Dietary & World Foods,675076165,674136793,674112512
+6848120,Tofu,Vegetarian & Vegan,"Dairy, Eggs & Fridge",6774666,4778877,1300
+6848120,Vegan & Vegetarian,"Dairy, Chilled & Frozen",Down Down,8906030,8906011,8906007
+6861445,Soup & Noodles,Pantry Items,Down Down,8906201,8906014,8906007
+6861445,Noodles,"Canned Food, Soups & Noodles",Pantry,9689,10146,10302
+6943415,Chicken Pieces & Nuggets,"Frozen Chicken, Beef & Pork",Frozen,85645,85615,85471
+6943415,Party Food,Frozen Pastry & Party Food,Frozen,85651,85616,85471
+6943415,Chilled Meals,"Dairy, Chilled & Frozen",Down Down,8915865,8906011,8906007
+6970032,Asian Party Food,Frozen Pastry & Party Food,Frozen,85648,85616,85471
+6970032,Freezer,"Dairy, Chilled & Frozen",Down Down,8906028,8906011,8906007
+6977600,Crackers & Crispbreads,Crackers & Rice Cakes,"Chips, Chocolates & Snacks",657641318,657640625,8916201
+6977600,Biscuits & Crackers,Snacking,Down Down,8906202,8906016,8906007
+7032843,Super Foods & Functional Foods,Health Foods & Diet,Dietary & World Foods,675044379,674135563,674112512
+7032843,Pantry Essentials,Organic,Dietary & World Foods,675069508,674135800,674112512
+7032843,Healthy Snacks,Health Foods,Pantry,8888005,10301,10302
+7032843,Healthier Foods,Pantry Items,Down Down,8906040,8906014,8906007

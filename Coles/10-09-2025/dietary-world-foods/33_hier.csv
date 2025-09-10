@@ -1,0 +1,125 @@
+prodid,aisle,category,subcategory,aisle_id,category_id,subcategory_id
+3091556,Fruit & Veg,Organic,Dietary & World Foods,675065753,674135800,674112512
+3091556,Herbs & Chillies,Salad & Herbs,Fruit & Vegetables,74564,1304,2100
+3091556,Organic Vegetables,Vegetables,Fruit & Vegetables,879564,1303,2100
+3091556,Organic Vegetables,Organic Fruits & Vegetables,Fruit & Vegetables,8892203,8892201,2100
+3112871,Liquor,Vegan & Vegetarian,Dietary & World Foods,675078682,674136793,674112512
+3112871,Craft Beer,Beer,Liquorland,8898632,89715,85946
+3112882,Liquor,Vegan & Vegetarian,Dietary & World Foods,675078682,674136793,674112512
+3112882,Craft Beer,Beer,Liquorland,8898632,89715,85946
+3113218,Liquor,Vegan & Vegetarian,Dietary & World Foods,675078682,674136793,674112512
+3113218,Shiraz & Blends,Red Wine,Liquorland,89752,87938,85946
+3117977,Healthy Cooking,Health Foods,Pantry,12083,10301,10302
+3117977,Chia Seeds And Quinoa,Health Foods & Diet,Dietary & World Foods,675041421,674135563,674112512
+3117977,Pantry Essentials,Organic,Dietary & World Foods,675069508,674135800,674112512
+3117988,Healthy Cooking,Health Foods,Pantry,12083,10301,10302
+3117988,Chia Seeds And Quinoa,Health Foods & Diet,Dietary & World Foods,675041421,674135563,674112512
+3118110,Healthy Cooking,Health Foods,Pantry,12083,10301,10302
+3118110,Chia Seeds And Quinoa,Health Foods & Diet,Dietary & World Foods,675041421,674135563,674112512
+3118110,Pantry Essentials,Organic,Dietary & World Foods,675069508,674135800,674112512
+3119043,Pumpkin,Vegetables,Fruit & Vegetables,454676,1303,2100
+3119043,Fruit & Veg,Organic,Dietary & World Foods,675065753,674135800,674112512
+3119043,Organic Vegetables,Vegetables,Fruit & Vegetables,879564,1303,2100
+3119043,Organic Vegetables,Organic Fruits & Vegetables,Fruit & Vegetables,8892203,8892201,2100
+3119190,Pumpkin,Vegetables,Fruit & Vegetables,454676,1303,2100
+3119190,Fruit & Veg,Organic,Dietary & World Foods,675065753,674135800,674112512
+3119190,Organic Vegetables,Vegetables,Fruit & Vegetables,879564,1303,2100
+3119190,Organic Vegetables,Organic Fruits & Vegetables,Fruit & Vegetables,8892203,8892201,2100
+3125148,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+3125148,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+3125148,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+3125840,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+3125840,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+3125840,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+3128317,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+3128317,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+3128317,Diet Slimming Aids,Health Foods Sports Nutrition & Diet,Pantry,8895602,8895600,10302
+3128317,Healthier Foods,Pantry Items,Down Down,8906040,8906014,8906007
+3129783,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+3129783,Sugar Free,Free From,Dietary & World Foods,675024784,674114623,674112512
+3129783,Healthy Snacks,Health Foods,Pantry,8888005,10301,10302
+3130206,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+3130206,Healthy Snacks,Health Foods,Pantry,8888005,10301,10302
+3131071,Super Foods & Functional Foods,Health Foods & Diet,Dietary & World Foods,675044379,674135563,674112512
+3131071,Pantry Essentials,Organic,Dietary & World Foods,675069508,674135800,674112512
+3131071,Healthy Snacks,Health Foods,Pantry,8888005,10301,10302
+3131093,Healthy Cooking,Health Foods,Pantry,12083,10301,10302
+3131093,Pantry Essentials,Organic,Dietary & World Foods,675069508,674135800,674112512
+3131093,Oil,Oils & Vinegars,Pantry,9485,9484,10302
+3131107,Super Foods & Functional Foods,Health Foods & Diet,Dietary & World Foods,675044379,674135563,674112512
+3131107,Pantry Essentials,Organic,Dietary & World Foods,675069508,674135800,674112512
+3131107,Healthy Snacks,Health Foods,Pantry,8888005,10301,10302
+3131242,Super Foods & Functional Foods,Health Foods & Diet,Dietary & World Foods,675044379,674135563,674112512
+3131242,Healthy Snacks,Health Foods,Pantry,8888005,10301,10302
+3131253,Super Foods & Functional Foods,Health Foods & Diet,Dietary & World Foods,675044379,674135563,674112512
+3131253,Healthy Snacks,Health Foods,Pantry,8888005,10301,10302
+3132198,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+3132198,"Energy, Sports Drinks & Supplements",Sports Nutrition,Dietary & World Foods,675071005,674136101,674112512
+3132198,Collagen,Health Foods Sports Nutrition & Diet,Pantry,8895601,8895600,10302
+3132256,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+3132256,"Energy, Sports Drinks & Supplements",Sports Nutrition,Dietary & World Foods,675071005,674136101,674112512
+3132256,Collagen,Health Foods Sports Nutrition & Diet,Pantry,8895601,8895600,10302
+3134182,Super Foods & Functional Foods,Health Foods & Diet,Dietary & World Foods,675044379,674135563,674112512
+3134182,Healthy Snacks,Health Foods,Pantry,8888005,10301,10302
+3134193,Super Foods & Functional Foods,Health Foods & Diet,Dietary & World Foods,675044379,674135563,674112512
+3134193,Healthy Snacks,Health Foods,Pantry,8888005,10301,10302
+3134207,Super Foods & Functional Foods,Health Foods & Diet,Dietary & World Foods,675044379,674135563,674112512
+3134207,Healthy Snacks,Health Foods,Pantry,8888005,10301,10302
+3134240,Chia Seeds And Quinoa,Health Foods & Diet,Dietary & World Foods,675041421,674135563,674112512
+3134240,Healthy Breakfasts,Health Foods,Pantry,8888004,10301,10302
+3134706,Healthy Cooking,Health Foods,Pantry,12083,10301,10302
+3134706,Egg Free,Free From,Dietary & World Foods,675007331,674114623,674112512
+3134706,Peanut Free,Free From,Dietary & World Foods,675024758,674114623,674112512
+3134706,Cooking Chocolate & Cocoa,Baking,Pantry,8744,8756,10302
+3139426,Super Foods & Functional Foods,Health Foods & Diet,Dietary & World Foods,675044379,674135563,674112512
+3139426,Healthy Snacks,Health Foods,Pantry,8888005,10301,10302
+3139823,Healthy Cooking,Health Foods,Pantry,12083,10301,10302
+3139823,Chia Seeds And Quinoa,Health Foods & Diet,Dietary & World Foods,675041421,674135563,674112512
+3139823,Pantry Essentials,Organic,Dietary & World Foods,675069508,674135800,674112512
+3145123,Healthy Cooking,Health Foods,Pantry,12083,10301,10302
+3145123,Chia Seeds And Quinoa,Health Foods & Diet,Dietary & World Foods,675041421,674135563,674112512
+3145972,Frozen,Vegan & Vegetarian,Dietary & World Foods,675077296,674136793,674112512
+3145972,Assorted Desserts,Frozen Desserts,Frozen,85626,85611,85471
+3145972,Cakes & Cheesecakes,Frozen Desserts,Frozen,85627,85611,85471
+3147640,Korean,World Foods,Dietary & World Foods,675104741,674113139,674112512
+3147640,Asian,International Foods,Pantry,8904804,8904802,10302
+3148686,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+3148686,Weight Management,Health Foods & Diet,Dietary & World Foods,675045539,674135563,674112512
+3148686,"Energy, Sports Drinks & Supplements",Sports Nutrition,Dietary & World Foods,675071005,674136101,674112512
+3148686,Rtd Protein Shakes,Health Foods Sports Nutrition & Diet,Pantry,8895606,8895600,10302
+3148722,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+3148722,Weight Management,Health Foods & Diet,Dietary & World Foods,675045539,674135563,674112512
+3148722,"Energy, Sports Drinks & Supplements",Sports Nutrition,Dietary & World Foods,675071005,674136101,674112512
+3148722,Rtd Protein Shakes,Health Foods Sports Nutrition & Diet,Pantry,8895606,8895600,10302
+315690,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+315690,All Gluten Free,Frozen Gluten Free,Frozen,8911201,8911200,85471
+3164398,Japanese,World Foods,Dietary & World Foods,675104352,674113139,674112512
+3164398,Asian,International Foods,Pantry,8904804,8904802,10302
+3165991,Italian Meals & Pasta,Ready To Eat Meals,"Dairy, Eggs & Fridge",15213,477564,1300
+3165991,Italian,World Foods,Dietary & World Foods,675103734,674113139,674112512
+3166043,Italian Meals & Pasta,Ready To Eat Meals,"Dairy, Eggs & Fridge",15213,477564,1300
+3166043,Italian,World Foods,Dietary & World Foods,675103734,674113139,674112512
+3166054,Italian Meals & Pasta,Ready To Eat Meals,"Dairy, Eggs & Fridge",15213,477564,1300
+3166054,Italian,World Foods,Dietary & World Foods,675103734,674113139,674112512
+3166087,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+3166087,Indian Food & Meals,Ready To Eat Meals,"Dairy, Eggs & Fridge",679997,477564,1300
+3169697,"Meat, Dairy & Eggs",Organic,Dietary & World Foods,675068803,674135800,674112512
+3169697,Specialty Eggs,Eggs,"Dairy, Eggs & Fridge",8882003,246656,1300
+3169960,Frozen,Vegan & Vegetarian,Dietary & World Foods,675077296,674136793,674112512
+3169960,Pies & Quiches,Frozen Pastry & Party Food,Frozen,85650,85616,85471
+317029,Italian,World Foods,Dietary & World Foods,675103734,674113139,674112512
+317029,Dried Herbs & Spices,Herbs & Spices,Pantry,7927,8285,10302
+3172830,Bakery,Vegan & Vegetarian,Dietary & World Foods,675073922,674136793,674112512
+3172830,Digestive Health & Speciality Bread,Packaged Breads,Bakery,8892933,8892909,8892906
+3172840,Bakery,Vegan & Vegetarian,Dietary & World Foods,675073922,674136793,674112512
+3172840,Digestive Health & Speciality Bread,Packaged Breads,Bakery,8892933,8892909,8892906
+3179680,Protein Drinks & Shakes,Sports Nutrition,Dietary & World Foods,675073004,674136101,674112512
+3179680,Long-Life-Milk,Long Life-Milk,"Dairy, Eggs & Fridge",8895201,8895200,1300
+3179680,Long Life Milk,Long-Life Milk,Drinks,98660,98629,11456
+3183097,Drinks,Halal,Dietary & World Foods,675040493,674135336,674112512
+3183097,Fresh Juice,Chilled Juice,"Dairy, Eggs & Fridge",693421910,693421331,1300
+3183097,Chilled Juice,Juice,Drinks,98640,98624,11456
+3185296,Breakfast Oats,Breakfast,Pantry,18743,7294,10302
+3185296,Pantry Essentials,Organic,Dietary & World Foods,675069508,674135800,674112512
+3185300,Breakfast Oats,Breakfast,Pantry,18743,7294,10302
+3185300,Pantry Essentials,Organic,Dietary & World Foods,675069508,674135800,674112512

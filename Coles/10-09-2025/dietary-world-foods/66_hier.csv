@@ -1,0 +1,133 @@
+prodid,aisle,category,subcategory,aisle_id,category_id,subcategory_id
+7669002,Egg Free,Free From,Dietary & World Foods,675007331,674114623,674112512
+7669002,Nut Free,Free From,Dietary & World Foods,675024750,674114623,674112512
+7669002,Soy Free,Free From,Dietary & World Foods,675024759,674114623,674112512
+7669002,Bakery,Vegan & Vegetarian,Dietary & World Foods,675073922,674136793,674112512
+7669002,Digestive Health & Speciality Bread,Packaged Breads,Bakery,8892933,8892909,8892906
+7669002,"Packaged Wraps,  Flat Bread And Pizza Bases",Gluten Free Range,Bakery,8893001,8892918,8892906
+7669013,Egg Free,Free From,Dietary & World Foods,675007331,674114623,674112512
+7669013,Nut Free,Free From,Dietary & World Foods,675024750,674114623,674112512
+7669013,Soy Free,Free From,Dietary & World Foods,675024759,674114623,674112512
+7669013,Bakery,Vegan & Vegetarian,Dietary & World Foods,675073922,674136793,674112512
+7669013,Digestive Health & Speciality Bread,Packaged Breads,Bakery,8892933,8892909,8892906
+7670362,Nut Free,Free From,Dietary & World Foods,675024750,674114623,674112512
+7670362,Soy Free,Free From,Dietary & World Foods,675024759,674114623,674112512
+7670362,Tropical,Frozen Fruit,Frozen,85635,85613,85471
+7670420,Frozen,Halal,Dietary & World Foods,675040518,674135336,674112512
+7670420,Frozen,Vegan & Vegetarian,Dietary & World Foods,675077296,674136793,674112512
+7670420,Tropical,Frozen Fruit,Frozen,85635,85613,85471
+7673939,British,World Foods,Dietary & World Foods,675097934,674113139,674112512
+7673939,Uk,International Foods,Pantry,8904814,8904802,10302
+7674104,Breakfast Oats,Breakfast,Pantry,18743,7294,10302
+7674104,Chia Seeds And Quinoa,Health Foods & Diet,Dietary & World Foods,675041421,674135563,674112512
+7679356,Sugar Free,Free From,Dietary & World Foods,675024784,674114623,674112512
+7679356,Cake & Bread Mixes,Baking,Pantry,8423,8756,10302
+7695272,Frozen,Vegan & Vegetarian,Dietary & World Foods,675077296,674136793,674112512
+7695272,Ice Cream Tubs,Ice Cream,Frozen,85639,85614,85471
+7695272,Premium Ice Cream,Ice Cream,Frozen,85640,85614,85471
+7699615,Sugar Free,Free From,Dietary & World Foods,675024784,674114623,674112512
+7699615,Essence & Food Colouring,Baking,Pantry,8433,8756,10302
+7701240,Gluten Free,Free From,Dietary & World Foods,675024732,674114623,674112512
+7701240,Cake & Bread Mixes,Baking,Pantry,8423,8756,10302
+7702119,"Meat, Dairy & Eggs",Organic,Dietary & World Foods,675068803,674135800,674112512
+7702119,Organic Poultry,Organic Meat,Meat & Seafood,8892687,8892684,7238
+7702390,Protein Powders,Sports Nutrition,Dietary & World Foods,675072653,674136101,674112512
+7702390,Nutrition Powders,Health Foods Sports Nutrition & Diet,Pantry,8895605,8895600,10302
+7715868,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+7715868,Pancake & Dessert Mixes,Baking,Pantry,8757,8756,10302
+7717036,Pantry Essentials,Organic,Dietary & World Foods,675069508,674135800,674112512
+7717036,Pancake & Dessert Mixes,Baking,Pantry,8757,8756,10302
+7730941,Frozen,Vegan & Vegetarian,Dietary & World Foods,675077296,674136793,674112512
+7730941,Ice Cream Tubs,Ice Cream,Frozen,85639,85614,85471
+7730941,Premium Ice Cream,Ice Cream,Frozen,85640,85614,85471
+7730941,Frozen Desserts,"Dairy, Chilled & Frozen",Down Down,8915867,8906011,8906007
+7731081,Frozen,Vegan & Vegetarian,Dietary & World Foods,675077296,674136793,674112512
+7731081,Ice Cream Tubs,Ice Cream,Frozen,85639,85614,85471
+7731081,Premium Ice Cream,Ice Cream,Frozen,85640,85614,85471
+7731081,Frozen Desserts,"Dairy, Chilled & Frozen",Down Down,8915867,8906011,8906007
+7736085,Frozen,Vegan & Vegetarian,Dietary & World Foods,675077296,674136793,674112512
+7736085,Ice Cream Tubs,Ice Cream,Frozen,85639,85614,85471
+7736085,Premium Ice Cream,Ice Cream,Frozen,85640,85614,85471
+7736085,Frozen Desserts,"Dairy, Chilled & Frozen",Down Down,8915867,8906011,8906007
+7736438,Frozen,Vegan & Vegetarian,Dietary & World Foods,675077296,674136793,674112512
+7736438,Ice Cream Tubs,Ice Cream,Frozen,85639,85614,85471
+7736438,Premium Ice Cream,Ice Cream,Frozen,85640,85614,85471
+7736438,Frozen Desserts,"Dairy, Chilled & Frozen",Down Down,8915867,8906011,8906007
+7736450,Nut Free,Free From,Dietary & World Foods,675024750,674114623,674112512
+7736450,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+7736450,Chocolate Spreads,"Jams, Honey & Spreads",Pantry,8881202,8881200,10302
+7736460,Nut Free,Free From,Dietary & World Foods,675024750,674114623,674112512
+7736460,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+7736460,Chocolate Spreads,"Jams, Honey & Spreads",Pantry,8881202,8881200,10302
+7736653,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+7736653,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+7736653,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+7736664,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+7736664,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+7736664,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+7736675,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+7736675,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+7736675,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+7738740,Weight Management,Health Foods & Diet,Dietary & World Foods,675045539,674135563,674112512
+7738740,Protein Bars & Snacks,Sports Nutrition,Dietary & World Foods,675072210,674136101,674112512
+7738740,Chilled Dairy Desserts,Dairy Desserts,"Dairy, Eggs & Fridge",8915813,8915802,1300
+7739571,Egg Free,Free From,Dietary & World Foods,675007331,674114623,674112512
+7739571,Soy Free,Free From,Dietary & World Foods,675024759,674114623,674112512
+7739571,Frozen,Vegan & Vegetarian,Dietary & World Foods,675077296,674136793,674112512
+7739571,Indian,World Foods,Dietary & World Foods,675103733,674113139,674112512
+7739571,Frozen Indian Foods,Frozen World Food,Frozen,8905203,8905201,85471
+7741030,Bakery,Vegan & Vegetarian,Dietary & World Foods,675073922,674136793,674112512
+7741030,Wholemeal Wraps,"Packaged Flat Bread, Wraps And Pizza Bases",Bakery,8892943,8892911,8892906
+7741030,"Breads, Rolls & Flatbread",Bread & Bakery,Down Down,8906021,8906009,8906007
+7742124,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+7742124,"Energy, Sports Drinks & Supplements",Sports Nutrition,Dietary & World Foods,675071005,674136101,674112512
+7742124,Energy Gels/Tablets,Health Foods Sports Nutrition & Diet,Pantry,8895604,8895600,10302
+7742146,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+7742146,"Energy, Sports Drinks & Supplements",Sports Nutrition,Dietary & World Foods,675071005,674136101,674112512
+7742146,Energy Gels/Tablets,Health Foods Sports Nutrition & Diet,Pantry,8895604,8895600,10302
+7742157,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+7742157,"Energy, Sports Drinks & Supplements",Sports Nutrition,Dietary & World Foods,675071005,674136101,674112512
+7742157,Energy Gels/Tablets,Health Foods Sports Nutrition & Diet,Pantry,8895604,8895600,10302
+7742328,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+7742328,"Energy, Sports Drinks & Supplements",Sports Nutrition,Dietary & World Foods,675071005,674136101,674112512
+7742328,Energy Gels/Tablets,Health Foods Sports Nutrition & Diet,Pantry,8895604,8895600,10302
+7744447,Thai,World Foods,Dietary & World Foods,675108470,674113139,674112512
+7744447,Airfryer,Prepared Vegetable,Fruit & Vegetables,8914801,8894601,2100
+7744935,Weight Management,Health Foods & Diet,Dietary & World Foods,675045539,674135563,674112512
+7744935,Protein Powders,Sports Nutrition,Dietary & World Foods,675072653,674136101,674112512
+7744935,Nutrition Powders,Health Foods Sports Nutrition & Diet,Pantry,8895605,8895600,10302
+7744946,Weight Management,Health Foods & Diet,Dietary & World Foods,675045539,674135563,674112512
+7744946,Protein Powders,Sports Nutrition,Dietary & World Foods,675072653,674136101,674112512
+7744946,Nutrition Powders,Health Foods Sports Nutrition & Diet,Pantry,8895605,8895600,10302
+7748890,Thai Meals,Ready To Eat Meals,"Dairy, Eggs & Fridge",12443,477564,1300
+7748890,Thai,World Foods,Dietary & World Foods,675108470,674113139,674112512
+7749848,Italian Meals & Pasta,Ready To Eat Meals,"Dairy, Eggs & Fridge",15213,477564,1300
+7749848,Italian,World Foods,Dietary & World Foods,675103734,674113139,674112512
+7749917,Italian Meals & Pasta,Ready To Eat Meals,"Dairy, Eggs & Fridge",15213,477564,1300
+7749917,Italian,World Foods,Dietary & World Foods,675103734,674113139,674112512
+7752241,Bakery,Vegan & Vegetarian,Dietary & World Foods,675073922,674136793,674112512
+7752241,Slices & Bites,Packaged Cakes & Sweet Treats,Bakery,8892994,8892916,8892906
+7752650,Bakery,Vegan & Vegetarian,Dietary & World Foods,675073922,674136793,674112512
+7752650,Sponge & Mud Cakes,Packaged Cakes & Sweet Treats,Bakery,8892986,8892916,8892906
+7757165,Bakery,Vegan & Vegetarian,Dietary & World Foods,675073922,674136793,674112512
+7757165,Bread Rolls,Instore Bakery Breads And Rolls,Bakery,8893203,8892907,8892906
+7761060,Baby,Organic,Dietary & World Foods,675068241,674135800,674112512
+7761060,Baby Food Pouches,Baby & Toddler Food,Baby,8904017,8904003,15603
+7761129,Baby,Organic,Dietary & World Foods,675068241,674135800,674112512
+7761129,Baby Food Pouches,Baby & Toddler Food,Baby,8904017,8904003,15603
+7761876,Bakery,Vegan & Vegetarian,Dietary & World Foods,675073922,674136793,674112512
+7761876,Bread Rolls,Instore Bakery Breads And Rolls,Bakery,8893203,8892907,8892906
+7813233,On The Go,Breakfast,Pantry,18741,7294,10302
+7813233,Low GI,Health Foods & Diet,Dietary & World Foods,675043270,674135563,674112512
+7813233,Protein Drinks & Shakes,Sports Nutrition,Dietary & World Foods,675073004,674136101,674112512
+7817642,On The Go,Breakfast,Pantry,18741,7294,10302
+7817642,Low GI,Health Foods & Diet,Dietary & World Foods,675043270,674135563,674112512
+7817642,Protein Drinks & Shakes,Sports Nutrition,Dietary & World Foods,675073004,674136101,674112512
+7825470,Super Foods & Functional Foods,Health Foods & Diet,Dietary & World Foods,675044379,674135563,674112512
+7825470,Healthy Snacks,Health Foods,Pantry,8888005,10301,10302
+7825491,Super Foods & Functional Foods,Health Foods & Diet,Dietary & World Foods,675044379,674135563,674112512
+7825491,Healthy Snacks,Health Foods,Pantry,8888005,10301,10302
+7828977,"Cheese, Yoghurt & Dairy",Halal,Dietary & World Foods,675040491,674135336,674112512
+7828977,Full Cream Milk,Milk,"Dairy, Eggs & Fridge",8881801,8881800,1300
+7829051,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+7829051,Grab & Go Snacks,Ready To Eat Meals,"Dairy, Eggs & Fridge",8904816,477564,1300

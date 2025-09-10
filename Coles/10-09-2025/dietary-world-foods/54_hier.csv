@@ -1,0 +1,124 @@
+prodid,aisle,category,subcategory,aisle_id,category_id,subcategory_id
+5293041,Mexican,World Foods,Dietary & World Foods,675105516,674113139,674112512
+5293041,Mexican,International Foods,Pantry,8904810,8904802,10302
+5303611,Dairy & Lactose Free,Free From,Dietary & World Foods,675006051,674114623,674112512
+5303611,Dairy Free,Yoghurt,"Dairy, Eggs & Fridge",8915819,8915804,1300
+5305093,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+5305093,Thai,World Foods,Dietary & World Foods,675108470,674113139,674112512
+5305093,Asian,International Foods,Pantry,8904804,8904802,10302
+5309378,Fruit & Veg,Organic,Dietary & World Foods,675065753,674135800,674112512
+5309378,Canned & Pickled Foods,Pantry Items,Down Down,8906038,8906014,8906007
+5309378,"Pickles, Chutney & Relish",Pickled Vegetables & Condiments,Pantry,9101,9232,10302
+5309425,Fruit & Veg,Organic,Dietary & World Foods,675065753,674135800,674112512
+5309425,Canned & Pickled Foods,Pantry Items,Down Down,8906038,8906014,8906007
+5309425,"Pickles, Chutney & Relish",Pickled Vegetables & Condiments,Pantry,9101,9232,10302
+5311879,Health & Beauty,Vegan & Vegetarian,Dietary & World Foods,675078092,674136793,674112512
+5311879,Unisex Deodorant,Deodorants,Health & Beauty,857160098,857158261,15083
+5322140,Bakery,Vegan & Vegetarian,Dietary & World Foods,675073922,674136793,674112512
+5322140,Wholemeal Bread,Packaged Breads,Bakery,8892930,8892909,8892906
+5322558,Mexican,World Foods,Dietary & World Foods,675105516,674113139,674112512
+5322558,Mexican,International Foods,Pantry,8904810,8904802,10302
+5332416,Chinese,World Foods,Dietary & World Foods,675102473,674113139,674112512
+5332416,Asian,International Foods,Pantry,8904804,8904802,10302
+5332449,Chinese,World Foods,Dietary & World Foods,675102473,674113139,674112512
+5332449,Asian,International Foods,Pantry,8904804,8904802,10302
+5337624,"Meat, Dairy & Eggs",Organic,Dietary & World Foods,675068803,674135800,674112512
+5337624,Specialty Eggs,Eggs,"Dairy, Eggs & Fridge",8882003,246656,1300
+5338387,Liquor,Vegan & Vegetarian,Dietary & World Foods,675078682,674136793,674112512
+5338387,Cask White Wine,Cask & Fortified Wine,Liquorland,8905608,8905602,85946
+5338387,Cask White Wines,White Wine,Liquorland,89755,87939,85946
+5338387,Chardonnay,White Wine,Liquorland,89757,87939,85946
+5338490,Liquor,Vegan & Vegetarian,Dietary & World Foods,675078682,674136793,674112512
+5338490,Cask White Wine,Cask & Fortified Wine,Liquorland,8905608,8905602,85946
+5338490,Cask White Wines,White Wine,Liquorland,89755,87939,85946
+5338490,Chardonnay,White Wine,Liquorland,89757,87939,85946
+5338547,Liquor,Vegan & Vegetarian,Dietary & World Foods,675078682,674136793,674112512
+5338547,Cask Red Wine,Cask & Fortified Wine,Liquorland,8905607,8905602,85946
+5338547,Cask Red Wine,Red Wine,Liquorland,89746,87938,85946
+5339878,"Cheese, Yoghurt & Dairy",Halal,Dietary & World Foods,675040491,674135336,674112512
+5339878,Grated Cheese,Cheese,"Dairy, Eggs & Fridge",8882210,8882200,1300
+5344743,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+5344743,Protein Bars & Balls,Health Foods Sports Nutrition & Diet,Pantry,8895603,8895600,10302
+5351090,Collagen,Health Foods & Diet,Dietary & World Foods,675041452,674135563,674112512
+5351090,Gummies,Vitamins & Supplements,Health & Beauty,835060758,8907425,15083
+5351090,Beauty,Vitamins & Supplements,Health & Beauty,835066699,8907425,15083
+5352209,"Meat, Dairy & Eggs",Organic,Dietary & World Foods,675068803,674135800,674112512
+5352209,Specialty Eggs,Eggs,"Dairy, Eggs & Fridge",8882003,246656,1300
+5353358,Collagen,Health Foods & Diet,Dietary & World Foods,675041452,674135563,674112512
+5353358,Tablets & Capsules,Vitamins & Supplements,Health & Beauty,835060756,8907425,15083
+5353358,Beauty,Vitamins & Supplements,Health & Beauty,835066699,8907425,15083
+5353358,Vitamins & Other,Personal & Baby Care,Down Down,8912027,8906015,8906007
+5355932,Healthy Cooking,Health Foods,Pantry,12083,10301,10302
+5355932,Pantry Essentials,Organic,Dietary & World Foods,675069508,674135800,674112512
+5355932,"Falafels, Soy & Tofu",Vegan & Vegetarian,Dietary & World Foods,675076165,674136793,674112512
+5355932,Soy & Asian,Sauces,Pantry,9318,9373,10302
+5357053,"Falafels, Soy & Tofu",Vegan & Vegetarian,Dietary & World Foods,675076165,674136793,674112512
+5357053,Soy Milk,Long Life-Milk,"Dairy, Eggs & Fridge",8895205,8895200,1300
+5357053,Soy Milk,Long-Life Milk,Drinks,98664,98629,11456
+5361709,Mexican,World Foods,Dietary & World Foods,675105516,674113139,674112512
+5361709,Mexican,International Foods,Pantry,8904810,8904802,10302
+5361710,Mexican,World Foods,Dietary & World Foods,675105516,674113139,674112512
+5361710,Mexican,International Foods,Pantry,8904810,8904802,10302
+5366972,Instant Meals & Sides,"Canned Food, Soups & Noodles",Pantry,10024,10146,10302
+5366972,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+5366972,Noodles,"Canned Food, Soups & Noodles",Pantry,9689,10146,10302
+5366983,Instant Meals & Sides,"Canned Food, Soups & Noodles",Pantry,10024,10146,10302
+5366983,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+5366983,Noodles,"Canned Food, Soups & Noodles",Pantry,9689,10146,10302
+5369052,"Cheese, Yoghurt & Dairy",Halal,Dietary & World Foods,675040491,674135336,674112512
+5369052,Block Cheese,Cheese,"Dairy, Eggs & Fridge",8882201,8882200,1300
+5369358,Low GI,Health Foods & Diet,Dietary & World Foods,675043270,674135563,674112512
+5369358,Bakery,Vegan & Vegetarian,Dietary & World Foods,675073922,674136793,674112512
+5369358,Multigrain & Seeded Bread,Packaged Breads,Bakery,8892932,8892909,8892906
+5372250,Liquor,Vegan & Vegetarian,Dietary & World Foods,675078682,674136793,674112512
+5372250,Chardonnay,White Wine,Liquorland,89757,87939,85946
+5377390,"Falafels, Soy & Tofu",Vegan & Vegetarian,Dietary & World Foods,675076165,674136793,674112512
+5377390,Soy & Asian,Sauces,Pantry,9318,9373,10302
+5384679,Soy Free,Free From,Dietary & World Foods,675024759,674114623,674112512
+5384679,Margarine,Butter & Margarine,"Dairy, Eggs & Fridge",8915805,8915800,1300
+5392724,Soy,Vegetarian & Vegan,"Dairy, Eggs & Fridge",4454454,4778877,1300
+5392724,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+5404109,Italian Meals & Pasta,Ready To Eat Meals,"Dairy, Eggs & Fridge",15213,477564,1300
+5404109,Pasta Sauces,Fresh Pasta & Sauces,"Dairy, Eggs & Fridge",621674,777844,1300
+5404109,Italian,World Foods,Dietary & World Foods,675103734,674113139,674112512
+5404110,Italian Meals & Pasta,Ready To Eat Meals,"Dairy, Eggs & Fridge",15213,477564,1300
+5404110,Fresh Pasta & Noodles,Fresh Pasta & Sauces,"Dairy, Eggs & Fridge",421112,777844,1300
+5404110,Italian,World Foods,Dietary & World Foods,675103734,674113139,674112512
+5404131,Italian Meals & Pasta,Ready To Eat Meals,"Dairy, Eggs & Fridge",15213,477564,1300
+5404131,Fresh Pasta & Noodles,Fresh Pasta & Sauces,"Dairy, Eggs & Fridge",421112,777844,1300
+5404131,Italian,World Foods,Dietary & World Foods,675103734,674113139,674112512
+5407446,Healthy Snacks,Health Foods & Diet,Dietary & World Foods,675043217,674135563,674112512
+5407446,Veggie Meat & Chicken,Vegetarian & Vegan,"Dairy, Eggs & Fridge",8912200,4778877,1300
+5410316,"Cheese, Yoghurt & Dairy",Halal,Dietary & World Foods,675040491,674135336,674112512
+5410316,Skim & Low Fat Milk,Milk,"Dairy, Eggs & Fridge",8881802,8881800,1300
+5417199,British,World Foods,Dietary & World Foods,675097934,674113139,674112512
+5417199,Uk,International Foods,Pantry,8904814,8904802,10302
+5417202,British,World Foods,Dietary & World Foods,675097934,674113139,674112512
+5417202,Uk,International Foods,Pantry,8904814,8904802,10302
+5419194,Drinks,Organic,Dietary & World Foods,675068242,674135800,674112512
+5419194,Almond & Other Nut Milk,Long Life-Milk,"Dairy, Eggs & Fridge",8895203,8895200,1300
+5419194,Almond & Other Nut Milk,Long-Life Milk,Drinks,98662,98629,11456
+5419300,Dairy & Lactose Free,Free From,Dietary & World Foods,675006051,674114623,674112512
+5419300,"Cheese, Yoghurt & Dairy",Halal,Dietary & World Foods,675040491,674135336,674112512
+5419300,Cheese Snacks,Cheese,"Dairy, Eggs & Fridge",8882205,8882200,1300
+5420998,Thai,World Foods,Dietary & World Foods,675108470,674113139,674112512
+5420998,Asian,International Foods,Pantry,8904804,8904802,10302
+5422199,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+5422199,Indonesia,World Foods,Dietary & World Foods,679714926,674113139,674112512
+5422199,Asian,International Foods,Pantry,8904804,8904802,10302
+5422202,Pantry,Halal,Dietary & World Foods,675041078,674135336,674112512
+5422202,Indonesia,World Foods,Dietary & World Foods,679714926,674113139,674112512
+5422202,Asian,International Foods,Pantry,8904804,8904802,10302
+5422290,"Falafels, Soy & Tofu",Vegan & Vegetarian,Dietary & World Foods,675076165,674136793,674112512
+5422290,Japanese,World Foods,Dietary & World Foods,675104352,674113139,674112512
+5422290,Asian,International Foods,Pantry,8904804,8904802,10302
+5422869,Chinese,World Foods,Dietary & World Foods,675102473,674113139,674112512
+5422869,Asian,International Foods,Pantry,8904804,8904802,10302
+5423125,"Falafels, Soy & Tofu",Vegan & Vegetarian,Dietary & World Foods,675076165,674136793,674112512
+5423125,Chinese,World Foods,Dietary & World Foods,675102473,674113139,674112512
+5423125,Asian,International Foods,Pantry,8904804,8904802,10302
+5431928,"Meat, Dairy & Eggs",Organic,Dietary & World Foods,675068803,674135800,674112512
+5431928,Grated Cheese,Cheese,"Dairy, Eggs & Fridge",8882210,8882200,1300
+5438778,Frozen,Vegan & Vegetarian,Dietary & World Foods,675077296,674136793,674112512
+5438778,Dessert Pies,Frozen Desserts,Frozen,85628,85611,85471
+5438778,Pies & Quiches,Frozen Pastry & Party Food,Frozen,85650,85616,85471

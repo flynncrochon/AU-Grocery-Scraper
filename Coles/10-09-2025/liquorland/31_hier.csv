@@ -1,0 +1,82 @@
+prodid,aisle,category,subcategory,aisle_id,category_id,subcategory_id
+5120225,Pinot Noir,Red Wine,Liquorland,89750,87938,85946
+5132519,Whisky,Spirits,Liquorland,8899803,87940,85946
+5160434,Liquor,Vegan & Vegetarian,Dietary & World Foods,675078682,674136793,674112512
+5160434,Tequila,Spirits,Liquorland,8898621,87940,85946
+5174949,Beer,Non Alcoholic,Liquorland,682267639,682220075,85946
+5174949,Non-Alcoholic Drinks,Non-Alcoholic,Drinks,98669,98630,11456
+5188411,Beer,Low Carb & Low Sugar,Liquorland,654514050,654514009,85946
+5188411,Full-Strength,Beer,Liquorland,8898631,89715,85946
+5188411,Craft Beer,Beer,Liquorland,8898632,89715,85946
+5188411,Australian Beer,Beer,Liquorland,8905803,89715,85946
+519311,Bourbon Premix,Premixed Drinks,Liquorland,8898635,87941,85946
+519328,Bourbon Premix,Premixed Drinks,Liquorland,8898635,87941,85946
+519328,Vodka Premix,Premixed Drinks,Liquorland,8898640,87941,85946
+5203333,Chardonnay,White Wine,Liquorland,89757,87939,85946
+5240410,Cask White Wine,Cask & Fortified Wine,Liquorland,8905608,8905602,85946
+5240410,Cask White Wines,White Wine,Liquorland,89755,87939,85946
+5240410,Chardonnay,White Wine,Liquorland,89757,87939,85946
+5268667,Craft Beer,Beer,Liquorland,8898632,89715,85946
+5271049,Cask Red Wine,Cask & Fortified Wine,Liquorland,8905607,8905602,85946
+5271049,Cask Red Wine,Red Wine,Liquorland,89746,87938,85946
+5271253,Cask White Wine,Cask & Fortified Wine,Liquorland,8905608,8905602,85946
+5271253,Cask White Wines,White Wine,Liquorland,89755,87939,85946
+5271253,Chardonnay,White Wine,Liquorland,89757,87939,85946
+5271355,Cask Red Wine,Cask & Fortified Wine,Liquorland,8905607,8905602,85946
+5271355,Cask Red Wine,Red Wine,Liquorland,89746,87938,85946
+5271388,Cask White Wine,Cask & Fortified Wine,Liquorland,8905608,8905602,85946
+5271388,Cask White Wines,White Wine,Liquorland,89755,87939,85946
+5271388,Chardonnay,White Wine,Liquorland,89757,87939,85946
+5296582,"Muscat, Port & Sherry",Cask & Fortified Wine,Liquorland,8905609,8905602,85946
+5296582,Cask Red Wine,Red Wine,Liquorland,89746,87938,85946
+5296582,Fortified Wines,Red Wine,Liquorland,89747,87938,85946
+5317671,"Muscat, Port & Sherry",Cask & Fortified Wine,Liquorland,8905609,8905602,85946
+5330501,"Muscat, Port & Sherry",Cask & Fortified Wine,Liquorland,8905609,8905602,85946
+5335367,"Muscat, Port & Sherry",Cask & Fortified Wine,Liquorland,8905609,8905602,85946
+5338387,Liquor,Vegan & Vegetarian,Dietary & World Foods,675078682,674136793,674112512
+5338387,Cask White Wine,Cask & Fortified Wine,Liquorland,8905608,8905602,85946
+5338387,Cask White Wines,White Wine,Liquorland,89755,87939,85946
+5338387,Chardonnay,White Wine,Liquorland,89757,87939,85946
+5338490,Liquor,Vegan & Vegetarian,Dietary & World Foods,675078682,674136793,674112512
+5338490,Cask White Wine,Cask & Fortified Wine,Liquorland,8905608,8905602,85946
+5338490,Cask White Wines,White Wine,Liquorland,89755,87939,85946
+5338490,Chardonnay,White Wine,Liquorland,89757,87939,85946
+5338547,Liquor,Vegan & Vegetarian,Dietary & World Foods,675078682,674136793,674112512
+5338547,Cask Red Wine,Cask & Fortified Wine,Liquorland,8905607,8905602,85946
+5338547,Cask Red Wine,Red Wine,Liquorland,89746,87938,85946
+5340265,Cask White Wine,Cask & Fortified Wine,Liquorland,8905608,8905602,85946
+5340265,Cask White Wines,White Wine,Liquorland,89755,87939,85946
+5340265,Chardonnay,White Wine,Liquorland,89757,87939,85946
+5340301,Cask White Wine,Cask & Fortified Wine,Liquorland,8905608,8905602,85946
+5340301,Cask White Wines,White Wine,Liquorland,89755,87939,85946
+5340301,Chardonnay,White Wine,Liquorland,89757,87939,85946
+536899,Bourbon Premix,Premixed Drinks,Liquorland,8898635,87941,85946
+536936,Bourbon Premix,Premixed Drinks,Liquorland,8898635,87941,85946
+536936,Rum Premix,Premixed Drinks,Liquorland,8898639,87941,85946
+5372250,Liquor,Vegan & Vegetarian,Dietary & World Foods,675078682,674136793,674112512
+5372250,Chardonnay,White Wine,Liquorland,89757,87939,85946
+5378698,All Rose,Rose,Liquorland,8899808,8899807,85946
+5383097,Bourbon Premix,Premixed Drinks,Liquorland,8898635,87941,85946
+5383097,Vodka Premix,Premixed Drinks,Liquorland,8898640,87941,85946
+5386142,"Muscat, Port & Sherry",Cask & Fortified Wine,Liquorland,8905609,8905602,85946
+539418,Bourbon Premix,Premixed Drinks,Liquorland,8898635,87941,85946
+539586,Bourbon Premix,Premixed Drinks,Liquorland,8898635,87941,85946
+539586,Gin Premix,Premixed Drinks,Liquorland,8899806,87941,85946
+5396962,Full-Strength,Beer,Liquorland,8898631,89715,85946
+5396962,Australian Beer,Beer,Liquorland,8905803,89715,85946
+5438439,Imported,Beer,Liquorland,8898630,89715,85946
+544443,Full-Strength,Beer,Liquorland,8898631,89715,85946
+544443,Australian Beer,Beer,Liquorland,8905803,89715,85946
+54492,Imported,Beer,Liquorland,8898630,89715,85946
+5456179,Other Flavoured Cider Varieties,Cider,Liquorland,8905603,8905600,85946
+5456204,Other Flavoured Cider Varieties,Cider,Liquorland,8905603,8905600,85946
+5457740,Beer,Non Alcoholic,Liquorland,682267639,682220075,85946
+5457740,Wine,Non Alcoholic,Liquorland,682268173,682220075,85946
+5457740,Non-Alcoholic Drinks,Non-Alcoholic,Drinks,98669,98630,11456
+5472754,Gin,Spirits,Liquorland,89768,87940,85946
+5472980,Gin,Spirits,Liquorland,89768,87940,85946
+5490745,Wine,Non Alcoholic,Liquorland,682268173,682220075,85946
+5490745,Non-Alcoholic Drinks,Non-Alcoholic,Drinks,98669,98630,11456
+5490960,Chardonnay,White Wine,Liquorland,89757,87939,85946
+5491012,Sauvignon Blanc,White Wine,Liquorland,89760,87939,85946
+5491158,Pinot Gris & Grigio,White Wine,Liquorland,89758,87939,85946
